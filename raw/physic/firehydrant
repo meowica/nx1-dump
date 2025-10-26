@@ -1,0 +1,2 @@
+PHYSIC\sndAliasPrefix\physics_firehydrant\mass\25\friction\0.5\isFrictionInfinity\0\bounce\0.1\bulletForceScale\0.6\explosiveForceScale\1\piecesSpreadFraction\0\piecesUpwardVelocity\0\tempDefaultToCylinder\0\perSurfaceSndAlias\0
+SND_PARAMS\soundPitchLow\-2\soundPitchHigh\2\soundVolLow\-3\soundVolHigh\3\soundImpactRangeLow\200\soundImpactRangeHigh\300
