@@ -69,8 +69,6 @@ usePredatorMarker()
 	self SetWeaponAmmoClip( ognade, 0 );
 
 	self _giveWeapon("pred_grenade_mp");
-	self setoffhandprimaryclass("frag"); // setoffhandprimaryclass: smoke / flash / frag / throwingknife / none
-	// setoffhandsecondaryclass: smoke / flash / frag / throwingknife / none
 	//println( "gave pred" );
 
 	self thread waitForPredatorMarker( ognade, ognadeCount );

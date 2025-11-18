@@ -141,32 +141,34 @@ gun()
 	//tagJC<NOTE>: Potentially, we might want to move the following gun progression specification into an external file.
 	//	temp hard coded progression
 	level.gunGameGunProgression     = [];	
+	//	hand guns
 	level.gunGameGunProgression[0]  = "beretta";	
+	//	machine pistols
 	level.gunGameGunProgression[1]  = "glock";
 	level.gunGameGunProgression[2]  = "beretta393";
-	level.gunGameGunProgression[3]  = "coltanaconda";
-	level.gunGameGunProgression[4]  = "type104";
-	level.gunGameGunProgression[5]  = "ump45";
-	level.gunGameGunProgression[6]  = "p90";			
-	level.gunGameGunProgression[7]  = "scar";
-	level.gunGameGunProgression[8]  = "xm108";
-	level.gunGameGunProgression[9]  = "fal";		
-	level.gunGameGunProgression[10] = "glo";
-	level.gunGameGunProgression[11] = "m240";
-	level.gunGameGunProgression[12] = "rpd";
-	level.gunGameGunProgression[13] = "spas12";
-	level.gunGameGunProgression[14] = "aa12";
-	level.gunGameGunProgression[15] = "m1014";
-	level.gunGameGunProgression[16] = "ksg";
-	level.gunGameGunProgression[17] = "ecr";
-	level.gunGameGunProgression[18] = "asmk27";
-	level.gunGameGunProgression[19] = "scar2";
-	level.gunGameGunProgression[20] = "cheytac";
-	level.gunGameGunProgression[21] = "barrett";
-	level.gunGameGunProgression[22] = "m21";
-	level.gunGameGunProgression[23] = "pulserifle";
-	level.gunGameGunProgression[24] = "m320";
-	level.gunGameGunProgression[25] = "ajax";
+	//	sub
+	level.gunGameGunProgression[3]  = "type104";
+	level.gunGameGunProgression[4]  = "ump45";
+	level.gunGameGunProgression[5]  = "p90";			
+	//	assault - auto
+	level.gunGameGunProgression[6]  = "scar";
+	level.gunGameGunProgression[7]  = "xm108";
+	level.gunGameGunProgression[8]  = "fal";		
+	//	lmg
+	level.gunGameGunProgression[9]  = "glo";
+	level.gunGameGunProgression[10] = "m240";
+	//	shotgun
+	level.gunGameGunProgression[11] = "spas12";
+	level.gunGameGunProgression[12] = "aa12";
+	level.gunGameGunProgression[13] = "m1014";
+	//	assault - burst
+	level.gunGameGunProgression[14] = "famas";
+	level.gunGameGunProgression[15] = "asmk27";	
+	//	sniper
+	level.gunGameGunProgression[16] = "barrett";
+	level.gunGameGunProgression[17] = "wa2000";	
+	//	launcher
+	level.gunGameGunProgression[18] = "xm25";
 	
 	//	precache
 	for ( i=0; i<level.gunGameGunProgression.size; i++ )
@@ -359,20 +361,16 @@ giveNextGun()
 {	
 	oldWeapon = self.primaryWeapon;
 	newWeapon = level.gunGameGunProgression[self.gunGameGunIndex] + "_mp";
-
+	
 	//	give gun
-	_giveWeapon( newWeapon );
-    self switchToWeapon( newWeapon );
+	_giveWeapon( newWeapon );		
+	self setSpawnWeapon( newWeapon );
 	newWeaponShort = strtok( newWeapon, "_" );
 	self.pers["primaryWeapon"] = newWeaponShort[0];		
 	self.primaryWeapon = newWeapon;
 	self GiveStartAmmo( newWeapon );
-    /*
-    if(self.gunGameGunIndex == 0)
-        self setSpawnWeapon( newWeapon );
-    else
-        self switchToWeapon( newWeapon );*/
-		
+	self switchToWeapon( newWeapon );
+	self takeWeapon( oldWeapon );		
 	
 	//	gain/drop scoring/messaging
 	if ( self.gunGamePrevGunIndex > self.gunGameGunIndex )
@@ -394,8 +392,6 @@ giveNextGun()
 	
 	//	update the personal gun progress hud
 	self updateGunHUD();
-
-    self takeWeapon( oldWeapon );	
 }
 
 onPlayerKilled( eInflictor, attacker, iDamage, sMeansOfDeath, sWeapon, vDir, sHitLoc, psOffsetTime, deathAnimDuration, lifeId )

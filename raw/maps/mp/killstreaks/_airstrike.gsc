@@ -70,7 +70,7 @@ init()
 	
 	level._artilleryDangerCenters = [];
 	
-	level._killStreakFuncs["airstrike"] = ::tryUseDefaultAirstrike;
+	level._killStreakFuncs["airstrike"] = ::tryUseAirstrike;
 	level._killStreakFuncs["precision_airstrike"] = ::tryUsePrecisionAirstrike;
 	level._killStreakFuncs["super_airstrike"] = ::tryUseSuperAirstrike;
 	level._killStreakFuncs["harrier_airstrike"] = ::tryUseHarrierAirstrike;
@@ -98,10 +98,6 @@ tryUseHarrierAirstrike( lifeId )
 	return tryUseAirstrike( lifeId, "harrier" );
 }
 
-tryUseDefaultAirstrike( lifeId )
-{
-	return tryUseAirstrike( lifeId, "default" );
-}
 
 tryUseAirstrike( lifeId, airStrikeType )
 {
@@ -133,8 +129,6 @@ tryUseAirstrike( lifeId, airStrikeType )
 			}
 			break;
 		case "super":
-			break;
-		case "default":
 			break;
 	}
 	

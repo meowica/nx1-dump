@@ -103,20 +103,20 @@ init()
 	addCrateType( "airdrop",		"sentry", 					getDvarInt( "scr_airdrop_sentry", 6 ),				::killstreakCrateThink );
 	addCrateType( "airdrop",		"predator_missile", 		getDvarInt( "scr_airdrop_predator_missile", 8 ),	::killstreakCrateThink );
 	addCrateType( "airdrop",		"precision_airstrike", 		getDvarInt( "scr_airdrop_precision_airstrike", 6 ),	::killstreakCrateThink );
-	addCrateType( "airdrop",		"harrier_airstrike", 		getDvarInt( "scr_airdrop_harrier_airstrike", 5 ),	::killstreakCrateThink );
+	//addCrateType( "airdrop",		"harrier_airstrike", 		getDvarInt( "scr_airdrop_harrier_airstrike", 5 ),	::killstreakCrateThink );
 	addCrateType( "airdrop",		"helicopter", 				getDvarInt( "scr_airdrop_helicopter", 5 ),			::killstreakCrateThink );
 	addCrateType( "airdrop",		"helicopter_flares", 		getDvarInt( "scr_airdrop_helicopter_flares", 4 ),	::killstreakCrateThink );
 	addCrateType( "airdrop",		"stealth_airstrike", 		getDvarInt( "scr_airdrop_stealth_airstrike", 3 ),	::killstreakCrateThink );
 	addCrateType( "airdrop",		"helicopter_minigun", 		getDvarInt( "scr_airdrop_helicopter_minigun", 3 ),	::killstreakCrateThink );
 	addCrateType( "airdrop",		"ac130", 					getDvarInt( "scr_airdrop_ac130", 3 ),				::killstreakCrateThink );
 	addCrateType( "airdrop",		"emp", 						getDvarInt( "scr_airdrop_emp", 1 ),					::killstreakCrateThink );
-	addCrateType( "airdrop",		"nuke", 					getDvarInt( "scr_airdrop_nuke", 0 ),				::killstreakCrateThink );
+	//addCrateType( "airdrop",		"nuke", 					getDvarInt( "scr_airdrop_nuke", 0 ),				::killstreakCrateThink );
 	addCrateType( "airdrop",		"uav_strike", 				getDvarInt( "scr_airdrop_uav_strike", 3 ),			::killstreakCrateThink );
 	addCrateType( "airdrop",		"exosuit", 					getDvarInt( "scr_airdrop_exosuit", 2 ),				::killstreakCrateThink );
 	addCrateType( "airdrop",		"remote_mortar", 			getDvarInt( "scr_airdrop_remote_mortar", 3 ),		::killstreakCrateThink );
 	addCrateType( "airdrop", 		"minigun_turret",			getDvarInt( "scr_airdrop_minigun_turret", 5 ),		::killstreakCrateThink );
 	addCrateType( "airdrop", 		"lockseekdie",	    		getDvarInt( "scr_airdrop_lockseekdie", 3 ),		    ::killstreakCrateThink );
-	addCrateType( "airdrop", 		"weapdrop",					0,													::weapdropCrateThink );
+	//addCrateType( "airdrop", 		"weapdrop",					5,													::weapdropCrateThink );
 
 
 	addCrateType( "airdrop_mega",		"ammo", 				getDvarInt( "scr_airdrop_mega_ammo", 15 ),				::ammoCrateThink );
@@ -125,14 +125,14 @@ init()
 	addCrateType( "airdrop_mega",		"sentry", 				getDvarInt( "scr_airdrop_mega_sentry", 6 ),				::killstreakCrateThink );
 	addCrateType( "airdrop_mega",		"predator_missile", 	getDvarInt( "scr_airdrop_mega_predator_missile", 8 ),	::killstreakCrateThink );
 	addCrateType( "airdrop_mega",		"precision_airstrike", 	getDvarInt( "scr_airdrop_mega_precision_airstrike", 6 ),::killstreakCrateThink );
-	addCrateType( "airdrop_mega",		"harrier_airstrike", 	getDvarInt( "scr_airdrop_mega_harrier_airstrike", 5 ),	::killstreakCrateThink );
+	//addCrateType( "airdrop_mega",		"harrier_airstrike", 	getDvarInt( "scr_airdrop_mega_harrier_airstrike", 5 ),	::killstreakCrateThink );
 	addCrateType( "airdrop_mega",		"helicopter", 			getDvarInt( "scr_airdrop_mega_helicopter", 5 ),			::killstreakCrateThink );
 	addCrateType( "airdrop_mega",		"helicopter_flares", 	getDvarInt( "scr_airdrop_mega_helicopter_flares", 4 ),	::killstreakCrateThink );
 	addCrateType( "airdrop_mega",		"stealth_airstrike", 	getDvarInt( "scr_airdrop_mega_stealth_airstrike", 3 ),	::killstreakCrateThink );
 	addCrateType( "airdrop_mega",		"helicopter_minigun", 	getDvarInt( "scr_airdrop_mega_helicopter_minigun", 3 ),	::killstreakCrateThink );
 	addCrateType( "airdrop_mega",		"ac130", 				getDvarInt( "scr_airdrop_mega_ac130", 3 ),				::killstreakCrateThink );
 	addCrateType( "airdrop_mega",		"emp", 					getDvarInt( "scr_airdrop_mega_emp", 1 ),				::killstreakCrateThink );
-	addCrateType( "airdrop_mega",		"nuke", 				getDvarInt( "scr_airdrop_mega_nuke", 0 ),				::killstreakCrateThink );
+	//addCrateType( "airdrop_mega",		"nuke", 				getDvarInt( "scr_airdrop_mega_nuke", 0 ),				::killstreakCrateThink );
 	addCrateType( "airdrop_mega",		"uav_strike", 			getDvarInt( "scr_airdrop_mega_uav_strike", 3 ),			::killstreakCrateThink );
 	addCrateType( "airdrop_mega",		"exosuit", 				getDvarInt( "scr_airdrop_mega_exosuit", 2 ),			::killstreakCrateThink );
 	addCrateType( "airdrop_mega",		"remote_mortar", 		getDvarInt( "scr_airdrop_mega_remote_mortar", 3 ),		::killstreakCrateThink );
