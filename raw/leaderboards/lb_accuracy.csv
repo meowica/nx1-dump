@@ -1,0 +1,8 @@
+name,type,default,min,max
+Rank,NUMBER,0.0000000,0.0,2.0
+Prestige Level,PRESTIGE,1.0000000,0.0,2.0
+Total XP,LEVELXP,0.0000000,0.0,2.0
+Gamer Name,NUMBER,0.0000000,0.0,2.0
+Accuracy,PERCENT,0.2000000,0.0,2.0
+Hits,NUMBER,0.0000000,0.0,2.0
+Misses,NUMBER,0.0000000,0.0,2.0

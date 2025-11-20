@@ -1,0 +1,9 @@
+name,type,default,min,max
+Rank,NUMBER,0.0000000,0.0,2.0
+Prestige Level,PRESTIGE,1.0000000,0.0,2.0
+Total XP,LEVELXP,0.0000000,0.0,2.0
+Gamer Name,NUMBER,0.0000000,0.0,2.0
+Kills,NUMBER,0.0000000,0.0,2.0
+Deaths,NUMBER,0.0000000,0.0,2.0
+Kill/Death Ratio,NUMBER,0.3000000,0.0,2.0
+Kill Streak,NUMBER,0.0000000,0.0,2.0
