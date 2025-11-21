@@ -11,7 +11,7 @@
 //
 VERSION             "1"
 CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
-FILENOTES           ""
+FILENOTES           "Dumped by NX1-Mod."
 
 REFERENCE           CALL_HINT
 LANG_ENGLISH        "Press and hold &&1 to call elevator."
@@ -21,4 +21,6 @@ LANG_ENGLISH        "Press and hold &&1 to use elevator."
 
 REFERENCE           FLOOR_SELECT_HINT
 LANG_ENGLISH        "Press and hold &&1 to select floor."
+
+ENDMARKER
 

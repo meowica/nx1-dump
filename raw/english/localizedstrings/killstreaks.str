@@ -11,7 +11,7 @@
 //
 VERSION             "1"
 CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
-FILENOTES           ""
+FILENOTES           "Dumped by NX1-Mod."
 
 REFERENCE           UAV
 LANG_ENGLISH        "UAV"
@@ -218,4 +218,6 @@ LANG_ENGLISH        "Night Raven"
 
 REFERENCE           LOCKSEEKDIE_DESC
 LANG_ENGLISH        "Cluster bombs with homing capability "
+
+ENDMARKER
 

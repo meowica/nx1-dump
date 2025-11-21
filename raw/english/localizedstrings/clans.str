@@ -11,7 +11,7 @@
 //
 VERSION             "1"
 CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
-FILENOTES           ""
+FILENOTES           "Dumped by NX1-Mod."
 
 REFERENCE           CLANNAME
 LANG_ENGLISH        "Clan Name:"
@@ -21,4 +21,6 @@ LANG_ENGLISH        "Clan name denied due to prohibited text"
 
 REFERENCE           INVALIDCHARS
 LANG_ENGLISH        "Unsupported characters have been removed from your input."
+
+ENDMARKER
 

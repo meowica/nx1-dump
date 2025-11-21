@@ -11,7 +11,7 @@
 //
 VERSION             "1"
 CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
-FILENOTES           ""
+FILENOTES           "Dumped by NX1-Mod."
 
 REFERENCE           CLASS
 LANG_ENGLISH        "Class"
@@ -171,4 +171,6 @@ LANG_ENGLISH        "Custom Class 4"
 
 REFERENCE           SLOT10
 LANG_ENGLISH        "Custom Class 5"
+
+ENDMARKER
 

@@ -11,7 +11,7 @@
 //
 VERSION             "1"
 CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
-FILENOTES           ""
+FILENOTES           "Dumped by NX1-Mod."
 
 REFERENCE           OPEN
 LANG_ENGLISH        "Open"
@@ -36,4 +36,6 @@ LANG_ENGLISH        "Your NAT type is Moderate.  This means players may have tro
 
 REFERENCE           STRICTLOBBYWARNING
 LANG_ENGLISH        "Your NAT type is Strict.  This means it is hard for other players to connect to you - so if you invite people they may not make it into your Private Match lobby.  "
+
+ENDMARKER
 

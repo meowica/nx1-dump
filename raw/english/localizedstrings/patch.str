@@ -1,0 +1,169 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           "Dumped by NX1-Mod."
+
+REFERENCE           DESC_BARRACKS
+LANG_ENGLISH        "Challenges, Accolades, and Options."
+
+REFERENCE           INVALIDPASSWORD
+LANG_ENGLISH        "Invalid Password."
+
+REFERENCE           PRESTIGE_RESET_WARNING2
+LANG_ENGLISH        "Prestige has a price: Everything you've unlocked including weapons, experience and challenges will be reset; you'll have to rank up again to reacquire them.
+
+Only your titles, emblems and play lists will be unaffected."
+
+REFERENCE           PRESTIGE_RESET_WARNING1
+LANG_ENGLISH        "Trade all of your accomplishments for a bit of prestige.  In addition to your new prestige rank icon, you'll gain access to some new titles, emblems and challenges.
+
+Other players will see your new prestige rank icon in the lobby, and game."
+
+REFERENCE           STRICTHINT
+LANG_ENGLISH        "Go to ^2www.infinityward.com/nat^7 to OPEN your router's NAT.
+"
+
+REFERENCE           STRICTHINT_COOP
+LANG_ENGLISH        "Other players may have difficulties connecting to you - players you invited may not make it into your lobby. Go to ^2www.infinityward.com/nat^7 to OPEN your router's NAT."
+
+REFERENCE           SEARCHINGFORGAMES_NMS
+LANG_ENGLISH        "Finding games: <&&1ms ping"
+
+REFERENCE           STORM
+LANG_ENGLISH        "Storm"
+
+REFERENCE           DESC_MAP_STORM
+LANG_ENGLISH        "Stormy warehouse district.  Intense team battles."
+
+REFERENCE           COMPACT
+LANG_ENGLISH        "Salvage"
+
+REFERENCE           DESC_MAP_COMPACT
+LANG_ENGLISH        "A snow-covered junkyard.  Lots of fast paced action."
+
+REFERENCE           COMPLEX
+LANG_ENGLISH        "Bailout"
+
+REFERENCE           DESC_MAP_COMPLEX
+LANG_ENGLISH        "Overrun apartment complex. Long sight lines with great flank routes."
+
+REFERENCE           CRASH
+LANG_ENGLISH        "Crash"
+
+REFERENCE           DESC_MAP_CRASH
+LANG_ENGLISH        "Downed Sea Knight in a desert town. Fantastic team games."
+
+REFERENCE           OVERGROWN
+LANG_ENGLISH        "Overgrown"
+
+REFERENCE           DESC_MAP_OVERGROWN
+LANG_ENGLISH        "Large overgrown rural Russian area. Sniper ghillie suits make for good cover."
+
+REFERENCE           VACANT
+LANG_ENGLISH        "Vacant"
+
+REFERENCE           DESC_MAP_VACANT
+LANG_ENGLISH        "Deserted Russian office. Intense interior fighting."
+
+REFERENCE           SETASHOST
+LANG_ENGLISH        "Make Leader"
+
+REFERENCE           MAKEHOSTQUESTION
+LANG_ENGLISH        "Make &&1 the new party leader?"
+
+REFERENCE           CHANGEHOSTTITLE
+LANG_ENGLISH        "Change Party Leader"
+
+REFERENCE           YOUAREHOST
+LANG_ENGLISH        "You are now the party leader."
+
+REFERENCE           DLC_MAPS
+LANG_ENGLISH        "Bonus Maps"
+
+REFERENCE           INVITE_TO_PARTY
+LANG_ENGLISH        "Invite to party"
+
+REFERENCE           INVITE_FRIEND_TO_PARTY
+LANG_ENGLISH        "Invite friend to party"
+
+REFERENCE           PARTY_INVITE_TITLE
+LANG_ENGLISH        "Party invitation"
+
+REFERENCE           PARTY_INVITE_QUESTION
+LANG_ENGLISH        "&&1 invites you to join their party."
+
+REFERENCE           PARTY_INVITE_QUESTION_PARTY_HOST
+LANG_ENGLISH        "&&1 invites you to join their party.
+Accepting this invite will disband your party."
+
+REFERENCE           PARTY_INVITE_ACCEPT
+LANG_ENGLISH        "Join party"
+
+REFERENCE           PARTY_INVITE_DECLINE
+LANG_ENGLISH        "Decline"
+
+REFERENCE           DOWNLOAD_MAPS
+LANG_ENGLISH        "Download Maps"
+
+REFERENCE           DOWNLOAD_CONTENT
+LANG_ENGLISH        "Download Content"
+
+REFERENCE           DOWNLOAD_MAPS_CAPS
+LANG_ENGLISH        "DOWNLOAD MAPS"
+
+REFERENCE           DOWNLOAD_CONTENT_CAPS
+LANG_ENGLISH        "DOWNLOAD CONTENT"
+
+REFERENCE           DLC_MAPS_DESC
+LANG_ENGLISH        "Bonus multiplayer maps."
+
+REFERENCE           DLC_MAPS_DESC_LOCKED
+LANG_ENGLISH        "Download bonus multiplayer maps."
+
+REFERENCE           STRIKE
+LANG_ENGLISH        "Strike"
+
+REFERENCE           DESC_MAP_STRIKE
+LANG_ENGLISH        "Large urban desert town.  Excellent team games."
+
+REFERENCE           TRAILERPARK
+LANG_ENGLISH        "Trailer Park"
+
+REFERENCE           DESC_MAP_TRAILERPARK
+LANG_ENGLISH        "Medium-sized trailer park with lots of cover and flank routes. Fight from all angles.
+
+"
+
+REFERENCE           FUEL2
+LANG_ENGLISH        "Fuel"
+
+REFERENCE           DESC_MAP_FUEL2
+LANG_ENGLISH        "Large oil refinery.  Good balance of medium to long range fire fights."
+
+REFERENCE           ABANDON
+LANG_ENGLISH        "Carnival"
+
+REFERENCE           DESC_MAP_ABANDON
+LANG_ENGLISH        "Large abandoned theme park. Great for all game modes."
+
+REFERENCE           MISSINGMAP
+LANG_ENGLISH        "You do not have this map.  You can get this map by downloading map packs from Steam."
+
+REFERENCE           DLCMAPS
+LANG_ENGLISH        "Maps downloaded from Steam."
+
+REFERENCE           PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "This playlist requires a map pack that you do not have. You can download map packs from Steam."
+
+ENDMARKER
+

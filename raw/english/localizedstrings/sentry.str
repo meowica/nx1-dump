@@ -11,7 +11,7 @@
 //
 VERSION             "1"
 CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
-FILENOTES           ""
+FILENOTES           "Dumped by NX1-Mod."
 
 REFERENCE           DEBUG_SPAWN_ENEMIES
 LANG_ENGLISH        "Enemies spawn in 10 seconds"
@@ -27,4 +27,6 @@ LANG_ENGLISH        "Press ^3[{+attack}]^7 to place the turret."
 
 REFERENCE           CANNOT_PLACE
 LANG_ENGLISH        "Move the turret to a valid location."
+
+ENDMARKER
 

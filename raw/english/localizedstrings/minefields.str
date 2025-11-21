@@ -11,7 +11,7 @@
 //
 VERSION             "1"
 CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
-FILENOTES           ""
+FILENOTES           "Dumped by NX1-Mod."
 
 REFERENCE           MINEDIED
 LANG_ENGLISH        "You stepped into a Minefield and died.
@@ -20,4 +20,6 @@ Watch out for the Red and White Minefield Signs!"
 REFERENCE           MINEDIED_TANK
 LANG_ENGLISH        "You drove into a Minefield and died.
 Watch out for the Red and White Minefield Signs!"
+
+ENDMARKER
 
