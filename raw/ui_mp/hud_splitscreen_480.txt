@@ -1,0 +1,18 @@
+{
+	loadMenu { "ui_mp/healthoverlay_splitwide.menu" }
+	loadMenu { "ui_mp/hud_splitscreen.menu" }
+	loadMenu { "ui_mp/missilecam_hud_ss.menu" }
+	loadMenu { "ui_mp/ac130_hud_ss.menu" }
+	loadMenu { "ui_mp/remote_chopper_overlay_ss.menu" }
+	loadMenu { "ui_mp/weaponjavelinhud_mp_ss.menu" }
+	loadMenu { "ui_mp/hud_splitwide.menu" }
+	loadMenu { "ui_mp/minimap_splitscreen.menu" }
+	loadMenu { "ui_mp/scorebar_480_splitwide.menu" }
+	loadMenu { "ui_mp/weaponbar480_splitwide.menu" }
+	loadMenu { "ui_mp/dpad_480_splitwide.menu" }
+	loadMenu { "ui_mp/xpbar_480_splitwide.menu" }
+	loadMenu { "ui_mp/targetmap_splitscreen.menu" }
+	loadMenu { "ui_mp/killcam_splitscreen.menu" }
+	loadMenu { "ui_mp/playercard_youkilled_480_splitwide.menu" }
+	loadMenu { "ui_mp/playercard_killedby_480_splitwide.menu" }
+}
