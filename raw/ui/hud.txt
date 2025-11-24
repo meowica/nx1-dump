@@ -1,0 +1,29 @@
+{
+	loadMenu { "ui/hudsafearea.menu" }
+	loadMenu { "ui/facemaskoverlay.menu" }
+	loadMenu { "ui/mantlehint.menu" }
+	loadMenu { "ui/cursorhints.menu" }
+	loadMenu { "ui/weaponinfo.menu" }
+	loadMenu { "ui/reload.menu" }
+	loadMenu { "ui/stance.menu" }
+	loadMenu { "ui/dpad.menu" }
+	loadMenu { "ui/compassv2.menu" }
+	loadMenu { "ui/heatmeter.menu" }
+	loadMenu { "ui/tankstatus.menu" }
+	loadMenu { "ui/deadscreen.menu" }
+	loadMenu { "ui/holdbreathhint.menu" }
+	loadMenu { "ui/savingicon.menu" }
+	loadMenu { "ui/invalidcmdhint.menu" }
+	loadMenu { "ui/vehiclehud.menu" }
+	loadMenu { "ui/weaponjavelinhud.menu" }
+	loadMenu { "ui/gamemessages.menu" }
+	loadMenu { "ui/boldgamemessages.menu" }
+	loadMenu { "ui/subtitles.menu" }
+	loadMenu { "ui/subtitles_chaplin.menu" }
+	loadMenu { "ui/minimap.menu" }
+	loadMenu { "ui/motion tracker test.menu" }
+	loadMenu { "ui/missilecam_hud_sp.menu" }
+	loadMenu { "ui/gunship_hud.menu" }
+	loadMenu { "ui/custom_level_info.menu" }
+	loadMenu { "ui/codex_proto.menu" }
+}

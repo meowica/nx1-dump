@@ -1,0 +1,5 @@
+{
+	loadMenu { "ui/hud_chute.menu" }
+	loadMenu { "ui/hud_chute_compass.menu" }
+	loadMenu { "ui/hud_chute_altimeter.menu" }
+}

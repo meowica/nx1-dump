@@ -1,0 +1,24 @@
+{
+	loadMenu { "ui/facemaskoverlay_ss.menu" }
+	loadMenu { "ui/mantlehint_ss.menu" }
+	loadMenu { "ui/cursorhints_ss.menu" }
+	loadMenu { "ui/weaponinfo_ss.menu" }
+	loadMenu { "ui/stance_ss.menu" }
+	loadMenu { "ui/dpad_ss.menu" }
+	loadMenu { "ui/compassv2_ss.menu" }
+	loadMenu { "ui/reload_ss.menu" }
+	loadMenu { "ui/tankstatus_ss.menu" }
+	loadMenu { "ui/deadscreen_ss.menu" }
+	loadMenu { "ui/holdbreathhint_ss.menu" }
+	loadMenu { "ui/savingicon_ss.menu" }
+	loadMenu { "ui/invalidcmdhint_ss.menu" }
+	loadMenu { "ui/vehiclehud_ss.menu" }
+	loadMenu { "ui/weaponjavelinhud_ss.menu" }
+	loadMenu { "ui/gamemessages_ss.menu" }
+	loadMenu { "ui/boldgamemessages_ss.menu" }
+	loadMenu { "ui/subtitles_ss.menu" }
+	loadMenu { "ui/subtitles_chaplin_ss.menu" }
+	loadMenu { "ui/missilecam_hud_ss.menu" }
+	loadMenu { "ui/minimap_ss_top.menu" }
+	loadMenu { "ui/minimap_ss_bottom.menu" }
+}

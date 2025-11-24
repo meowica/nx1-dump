@@ -1,0 +1,9 @@
+{
+	loadMenu { "ui/railgun_hud_brackets.menu" }
+	loadMenu { "ui/railgun_visor_right.menu" }
+	loadMenu { "ui/railgun_visor_bottom.menu" }
+	loadMenu { "ui/railgun_cool_down_sequence.menu" }
+	loadMenu { "ui/railgun_hud_visor.menu" }
+	loadMenu { "ui/railgun_final_ping.menu" }
+	loadMenu { "ui/railgun_reticule.menu" }
+}

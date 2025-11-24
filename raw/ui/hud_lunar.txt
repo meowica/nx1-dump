@@ -1,0 +1,9 @@
+{
+	loadMenu { "ui/lunar_overheat.menu" }
+	loadMenu { "ui/lunar_suit_health_flash.menu" }
+	loadMenu { "ui/lunar_suit_health_warning.menu" }
+	loadMenu { "ui/lunar_suit_health_meter.menu" }
+	loadMenu { "ui/helmetoverlay.menu" }
+	loadMenu { "ui/lunar_suit_pressurization_meter.menu" }
+	loadMenu { "ui/lunar_suit_boot_sequence.menu" }
+}

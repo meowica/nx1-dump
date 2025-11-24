@@ -1,0 +1,21 @@
+{
+	loadMenu { "ui/error_popmenu.menu" }
+	loadMenu { "ui/error_popmenu_submenu.menu" }
+	loadMenu { "ui/popup_connecting.menu" }
+	loadMenu { "ui/popup_acceptinginvite.menu" }
+	loadMenu { "ui/popup_gettingdata.menu" }
+	loadMenu { "ui/save_corrupted.menu" }
+	loadMenu { "ui/error_popmenu_lobby.menu" }
+	loadMenu { "ui/error_popmenu_party.menu" }
+	loadMenu { "ui/error_resetstats.menu" }
+	loadMenu { "ui/popup_reconnectingtoparty.menu" }
+	loadMenu { "ui/acceptinvite_warning.menu" }
+	loadMenu { "ui/pregame_loaderror.menu" }
+	loadMenu { "ui/pregame_loaderror_mp.menu" }
+	loadMenu { "ui/menu_resetstats_warning.menu" }
+	loadMenu { "ui/briefing.menu" }
+	loadMenu { "ui/victoryscreen.menu" }
+	loadMenu { "ui/victory_notice_popmenu.menu" }
+	loadMenu { "ui/connect.menu" }
+	loadMenu { "ui/expression_test.menu" }
+}
