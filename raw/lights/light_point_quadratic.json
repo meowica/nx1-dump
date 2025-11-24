@@ -1,0 +1,8 @@
+{
+  "name": "light_point_quadratic",
+  "attenuation": {
+    "image": "falloff_quadratic",
+    "samplerState": 98
+  },
+  "lmapLookupStart": 35
+}

@@ -1,0 +1,8 @@
+{
+  "name": "light_dynamic",
+  "attenuation": {
+    "image": "falloff_linear",
+    "samplerState": 98
+  },
+  "lmapLookupStart": 1
+}
