@@ -1,0 +1,23 @@
+{
+  "name": "m/shadowcaster",
+  "gameFlags": 132,
+  "sortKey": 34,
+  "surfaceTypeBits": 0,
+  "stateFlags": 25,
+  "cameraRegion": 6,
+  "techniqueSet": "m_shadowcaster",
+  "constants": [
+  ],
+  "stateBitsEntry": [255, 255, 0, 255, 1, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 2, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 11,
+      "semantic": 2,
+      "image": "shadow"
+    }
+  ],
+  "subMaterials": []
+}

@@ -1,0 +1,15 @@
+{
+  "name": "downsample_2x2",
+  "gameFlags": 0,
+  "sortKey": 34,
+  "surfaceTypeBits": 0,
+  "stateFlags": 1,
+  "cameraRegion": 6,
+  "techniqueSet": "downsample_2x2",
+  "constants": [
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+  ],
+  "subMaterials": []
+}

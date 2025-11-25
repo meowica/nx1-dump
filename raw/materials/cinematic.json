@@ -1,0 +1,23 @@
+{
+  "name": "cinematic",
+  "gameFlags": 0,
+  "sortKey": 47,
+  "surfaceTypeBits": 0,
+  "stateFlags": 1,
+  "cameraRegion": 6,
+  "techniqueSet": "cinematic",
+  "constants": [
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 1,
+      "semantic": 2,
+      "image": "$black"
+    }
+  ],
+  "subMaterials": []
+}

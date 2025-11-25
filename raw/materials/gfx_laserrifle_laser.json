@@ -1,0 +1,31 @@
+{
+  "name": "gfx_laserrifle_laser",
+  "gameFlags": 0,
+  "sortKey": 51,
+  "surfaceTypeBits": 0,
+  "stateFlags": 16,
+  "cameraRegion": 2,
+  "techniqueSet": "laser",
+  "constants": [
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 255, 0, 0, 0, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 11,
+      "semantic": 2,
+      "image": "nx_laser"
+    },
+    {
+      "nameHash": 1685064451,
+      "firstCharacter": "‚",
+      "secondLastCharacter": "ñ",
+      "sampleState": 68,
+      "semantic": 132,
+      "image": "null"
+    }
+  ],
+  "subMaterials": []
+}

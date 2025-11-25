@@ -1,0 +1,23 @@
+{
+  "name": "cardtitle_cute_pink_3",
+  "gameFlags": 0,
+  "sortKey": 47,
+  "surfaceTypeBits": 0,
+  "stateFlags": 1,
+  "cameraRegion": 6,
+  "techniqueSet": "2d",
+  "constants": [
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 226,
+      "semantic": 0,
+      "image": "cardtitle_cutegirl_v2_3"
+    }
+  ],
+  "subMaterials": []
+}

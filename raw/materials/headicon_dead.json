@@ -1,0 +1,28 @@
+{
+  "name": "headicon_dead",
+  "gameFlags": 0,
+  "sortKey": 48,
+  "surfaceTypeBits": 0,
+  "stateFlags": 16,
+  "cameraRegion": 2,
+  "techniqueSet": "effect_blend_nofog",
+  "constants": [
+    {
+      "nameHash": 3054254906,
+      "name": "colorTint",
+      "literal": [1, 1, 1, 1]
+    }
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 0, 0, 0, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 1, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 226,
+      "semantic": 2,
+      "image": "headicon_dead"
+    }
+  ],
+  "subMaterials": []
+}

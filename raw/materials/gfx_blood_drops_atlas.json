@@ -1,0 +1,33 @@
+{
+  "name": "gfx_blood_drops_atlas",
+  "gameFlags": 0,
+  "sortKey": 48,
+  "surfaceTypeBits": 0,
+  "stateFlags": 17,
+  "cameraRegion": 2,
+  "techniqueSet": "effect_zfeather_blend",
+  "constants": [
+    {
+      "nameHash": 1300144692,
+      "name": "featherParms>ªª«@@",
+      "literal": [0.333333, 3, 0, 0]
+    },
+    {
+      "nameHash": 3054254906,
+      "name": "colorTint",
+      "literal": [1, 1, 1, 1]
+    }
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 0, 0, 0, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 1, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 2,
+      "semantic": 2,
+      "image": "blood_drops_atlas"
+    }
+  ],
+  "subMaterials": []
+}

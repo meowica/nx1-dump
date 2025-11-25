@@ -1,0 +1,43 @@
+{
+  "name": "nx_gfx_muzflash_ugv_turret",
+  "gameFlags": 0,
+  "sortKey": 48,
+  "surfaceTypeBits": 0,
+  "stateFlags": 17,
+  "cameraRegion": 2,
+  "techniqueSet": "effect_falloff_add_nofog",
+  "constants": [
+    {
+      "nameHash": 1023779314,
+      "name": "falloffBegin?€",
+      "literal": [1, 1, 1, 1]
+    },
+    {
+      "nameHash": 1797105402,
+      "name": "falloffEndCo",
+      "literal": [0, 0, 0, 0.5]
+    },
+    {
+      "nameHash": 3054254906,
+      "name": "colorTint",
+      "literal": [1, 1, 1, 1]
+    },
+    {
+      "nameHash": 3185466613,
+      "name": "falloffParms;¬v’½W”6@‘Žf¾\u000cs%\u0019!‰\"",
+      "literal": [0.00526316, -0.0526316, 4.54863, -0.137158]
+    }
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 0, 0, 0, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 1, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 11,
+      "semantic": 2,
+      "image": "nx_jow_m16_flares_grey"
+    }
+  ],
+  "subMaterials": []
+}

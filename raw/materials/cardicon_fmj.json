@@ -1,0 +1,23 @@
+{
+  "name": "cardicon_fmj",
+  "gameFlags": 0,
+  "sortKey": 47,
+  "surfaceTypeBits": 0,
+  "stateFlags": 1,
+  "cameraRegion": 6,
+  "techniqueSet": "2d",
+  "constants": [
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 226,
+      "semantic": 0,
+      "image": "cardicon_fmj"
+    }
+  ],
+  "subMaterials": []
+}

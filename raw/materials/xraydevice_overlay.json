@@ -1,0 +1,31 @@
+{
+  "name": "xraydevice_overlay",
+  "gameFlags": 0,
+  "sortKey": 44,
+  "surfaceTypeBits": 0,
+  "stateFlags": 1,
+  "cameraRegion": 6,
+  "techniqueSet": "2d_xray",
+  "constants": [
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 226,
+      "semantic": 2,
+      "image": "xraydevice_overlay"
+    },
+    {
+      "nameHash": 1664224002,
+      "firstCharacter": "‚",
+      "secondLastCharacter": "ó",
+      "sampleState": 122,
+      "semantic": 52,
+      "image": "null"
+    }
+  ],
+  "subMaterials": []
+}

@@ -1,0 +1,43 @@
+{
+  "name": "gfx_ir_tape",
+  "gameFlags": 0,
+  "sortKey": 51,
+  "surfaceTypeBits": 0,
+  "stateFlags": 17,
+  "cameraRegion": 2,
+  "techniqueSet": "effect_falloff_add_nofog",
+  "constants": [
+    {
+      "nameHash": 1023779314,
+      "name": "falloffBegin?Ä",
+      "literal": [1, 1, 1, 1]
+    },
+    {
+      "nameHash": 1797105402,
+      "name": "falloffEndCo?",
+      "literal": [0.5, 0.5, 0.5, 0.5]
+    },
+    {
+      "nameHash": 3054254906,
+      "name": "colorTint",
+      "literal": [1, 1, 1, 1]
+    },
+    {
+      "nameHash": 3185466613,
+      "name": "falloffParms;¨víΩWî6?ç≈òΩ\u0008ÃU\u0019!â\"",
+      "literal": [0.00526316, -0.0526316, 1.10759, -0.033398]
+    }
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 0, 0, 0, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 1, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 11,
+      "semantic": 2,
+      "image": "spotlight_lensflare"
+    }
+  ],
+  "subMaterials": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "xraycone_front_fs",
+  "gameFlags": 0,
+  "sortKey": 34,
+  "surfaceTypeBits": 0,
+  "stateFlags": 49,
+  "cameraRegion": 6,
+  "techniqueSet": "draw_texture_stencil",
+  "constants": [
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 235,
+      "semantic": 2,
+      "image": "xray_color"
+    }
+  ],
+  "subMaterials": []
+}

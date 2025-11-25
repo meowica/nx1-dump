@@ -1,0 +1,28 @@
+{
+  "name": "gfx_exp_fireball_atlas",
+  "gameFlags": 0,
+  "sortKey": 48,
+  "surfaceTypeBits": 0,
+  "stateFlags": 17,
+  "cameraRegion": 2,
+  "techniqueSet": "effect_add_nofog",
+  "constants": [
+    {
+      "nameHash": 3054254906,
+      "name": "colorTint",
+      "literal": [1, 1, 1, 1]
+    }
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 0, 0, 0, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 1, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 11,
+      "semantic": 2,
+      "image": "exp_fireball_atlas"
+    }
+  ],
+  "subMaterials": []
+}

@@ -1,0 +1,31 @@
+{
+  "name": "gfx_laser_light",
+  "gameFlags": 0,
+  "sortKey": 51,
+  "surfaceTypeBits": 0,
+  "stateFlags": 0,
+  "cameraRegion": 2,
+  "techniqueSet": "post_light",
+  "constants": [
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 255, 0, 0, 0, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 226,
+      "semantic": 2,
+      "image": "laser_light"
+    },
+    {
+      "nameHash": 1685064451,
+      "firstCharacter": "‚",
+      "secondLastCharacter": "ñ",
+      "sampleState": 67,
+      "semantic": 164,
+      "image": "null"
+    }
+  ],
+  "subMaterials": []
+}

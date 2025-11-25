@@ -1,0 +1,23 @@
+{
+  "name": "spark_fountain_spark_burst_magenta_atlas",
+  "gameFlags": 0,
+  "sortKey": 47,
+  "surfaceTypeBits": 0,
+  "stateFlags": 16,
+  "cameraRegion": 2,
+  "techniqueSet": "particle_cloud_sparkf_add",
+  "constants": [
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 0, 0, 0, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 2,
+      "semantic": 2,
+      "image": "spark_burst_magenta_atlas"
+    }
+  ],
+  "subMaterials": []
+}

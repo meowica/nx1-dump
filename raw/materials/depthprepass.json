@@ -1,0 +1,15 @@
+{
+  "name": "depthprepass",
+  "gameFlags": 128,
+  "sortKey": 34,
+  "surfaceTypeBits": 0,
+  "stateFlags": 25,
+  "cameraRegion": 6,
+  "techniqueSet": "depthprepass",
+  "constants": [
+  ],
+  "stateBitsEntry": [0, 255, 1, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+  ],
+  "subMaterials": []
+}

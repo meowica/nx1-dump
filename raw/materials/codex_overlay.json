@@ -1,0 +1,31 @@
+{
+  "name": "codex_overlay",
+  "gameFlags": 0,
+  "sortKey": 47,
+  "surfaceTypeBits": 0,
+  "stateFlags": 17,
+  "cameraRegion": 6,
+  "techniqueSet": "codex",
+  "constants": [
+  ],
+  "stateBitsEntry": [255, 255, 255, 255, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
+  "maps": [
+    {
+      "nameHash": 2695565377,
+      "firstCharacter": "c",
+      "secondLastCharacter": "p",
+      "sampleState": 235,
+      "semantic": 2,
+      "image": "threat_detection_grid"
+    },
+    {
+      "nameHash": 1664224002,
+      "firstCharacter": "‚",
+      "secondLastCharacter": "ñ",
+      "sampleState": 65,
+      "semantic": 228,
+      "image": "null"
+    }
+  ],
+  "subMaterials": []
+}
