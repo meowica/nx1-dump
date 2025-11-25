@@ -1,0 +1,40 @@
+{
+  "name": "gas_grenade_mp",
+  "screenBlend": {
+    "blurredFadeTime": 1000,
+    "blurredEffectTime": 400,
+    "flashWhiteFadeTime": 0,
+    "flashShotFadeTime": 0,
+    "type": "blurred"
+  },
+  "view": {
+    "fadeTime": 3000,
+    "kickRate": 0.00133333,
+    "kickRadius": 0.05
+  },
+  "lookControl": {
+    "affect": true,
+    "fadeTime": 2000,
+    "mouseSensitivity": 0.5,
+    "maxPitchSpeed": 45,
+    "maxYawSpeed": 45
+  },
+  "movement": {
+    "affect": true
+  },
+  "audio": {
+    "volumeSettingName": "slowview",
+    "affect": true,
+    "soundLoop": "shellshock_loop_gas_grenade",
+    "soundEnd": "shellshock_loop_gas_grenade",
+    "soundEndAbort": "shellshock_loop_gas_grenade",
+    "fadeInTime": 50,
+    "fadeOutTime": 2000,
+    "dry": 1,
+    "wet": 0.7,
+    "roomType": "underwater",
+    "modEndDelay": -750,
+    "loopFadeTime": 2000,
+    "loopEndDelay": -1500
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "damage_mp",
+  "screenBlend": {
+    "blurredFadeTime": 1000,
+    "blurredEffectTime": 400,
+    "flashWhiteFadeTime": 0,
+    "flashShotFadeTime": 0,
+    "type": "none"
+  },
+  "view": {
+    "fadeTime": 1,
+    "kickRate": 1,
+    "kickRadius": 0
+  },
+  "lookControl": {
+    "affect": true,
+    "fadeTime": 2000,
+    "mouseSensitivity": 0.1,
+    "maxPitchSpeed": 35,
+    "maxYawSpeed": 35
+  },
+  "movement": {
+    "affect": true
+  },
+  "audio": {
+    "volumeSettingName": "default",
+    "affect": false,
+    "soundLoop": "shellshock_loop",
+    "soundEnd": "shellshock_end",
+    "soundEndAbort": "shellshock_end_abort",
+    "fadeInTime": 250,
+    "fadeOutTime": 2500,
+    "dry": 1,
+    "wet": 0.5,
+    "roomType": "underwater",
+    "modEndDelay": -750,
+    "loopFadeTime": 2000,
+    "loopEndDelay": -1500
+  }
+}

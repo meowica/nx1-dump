@@ -1,0 +1,40 @@
+{
+  "name": "victoryscreen",
+  "screenBlend": {
+    "blurredFadeTime": 1,
+    "blurredEffectTime": 1,
+    "flashWhiteFadeTime": 0,
+    "flashShotFadeTime": 0,
+    "type": "blurred"
+  },
+  "view": {
+    "fadeTime": 1,
+    "kickRate": 0.00133333,
+    "kickRadius": 0
+  },
+  "lookControl": {
+    "affect": false,
+    "fadeTime": 1,
+    "mouseSensitivity": 0,
+    "maxPitchSpeed": 0,
+    "maxYawSpeed": 0
+  },
+  "movement": {
+    "affect": true
+  },
+  "audio": {
+    "volumeSettingName": "mute_except_music_ui",
+    "affect": false,
+    "soundLoop": "shellshock_loop",
+    "soundEnd": "shellshock_end",
+    "soundEndAbort": "shellshock_end_abort",
+    "fadeInTime": 250,
+    "fadeOutTime": 2500,
+    "dry": 1,
+    "wet": 0.5,
+    "roomType": "generic",
+    "modEndDelay": -750,
+    "loopFadeTime": 2000,
+    "loopEndDelay": -1500
+  }
+}

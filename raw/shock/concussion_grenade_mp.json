@@ -1,0 +1,40 @@
+{
+  "name": "concussion_grenade_mp",
+  "screenBlend": {
+    "blurredFadeTime": 12000,
+    "blurredEffectTime": 400,
+    "flashWhiteFadeTime": 7500,
+    "flashShotFadeTime": 15000,
+    "type": "flashed"
+  },
+  "view": {
+    "fadeTime": 3000,
+    "kickRate": 0.00133333,
+    "kickRadius": 0.1
+  },
+  "lookControl": {
+    "affect": true,
+    "fadeTime": 2000,
+    "mouseSensitivity": 0.1,
+    "maxPitchSpeed": 35,
+    "maxYawSpeed": 35
+  },
+  "movement": {
+    "affect": true
+  },
+  "audio": {
+    "volumeSettingName": "slowview",
+    "affect": true,
+    "soundLoop": "flashbang_tinnitus_loop",
+    "soundEnd": "flashbang_tinnitus_end",
+    "soundEndAbort": "flashbang_tinnitus_abort",
+    "fadeInTime": 1000,
+    "fadeOutTime": 2500,
+    "dry": 0.7,
+    "wet": 0.5,
+    "roomType": "underwater",
+    "modEndDelay": 100,
+    "loopFadeTime": 2000,
+    "loopEndDelay": -1500
+  }
+}

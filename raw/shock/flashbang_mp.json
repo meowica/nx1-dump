@@ -1,0 +1,40 @@
+{
+  "name": "flashbang_mp",
+  "screenBlend": {
+    "blurredFadeTime": 1000,
+    "blurredEffectTime": 400,
+    "flashWhiteFadeTime": 3500,
+    "flashShotFadeTime": 1000,
+    "type": "flashed"
+  },
+  "view": {
+    "fadeTime": 3000,
+    "kickRate": 0.00133333,
+    "kickRadius": 0.05
+  },
+  "lookControl": {
+    "affect": false,
+    "fadeTime": 2000,
+    "mouseSensitivity": 0.5,
+    "maxPitchSpeed": 90,
+    "maxYawSpeed": 90
+  },
+  "movement": {
+    "affect": false
+  },
+  "audio": {
+    "volumeSettingName": "flashbang",
+    "affect": true,
+    "soundLoop": "flashbang_tinnitus_loop",
+    "soundEnd": "flashbang_tinnitus_end",
+    "soundEndAbort": "flashbang_tinnitus_abort",
+    "fadeInTime": 250,
+    "fadeOutTime": 2000,
+    "dry": 0.6,
+    "wet": 0.8,
+    "roomType": "underwater",
+    "modEndDelay": 1500,
+    "loopFadeTime": 2000,
+    "loopEndDelay": 2000
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "lunar_depressurized",
+  "screenBlend": {
+    "blurredFadeTime": 1000,
+    "blurredEffectTime": 400,
+    "flashWhiteFadeTime": 10000,
+    "flashShotFadeTime": 3000,
+    "type": "flashed"
+  },
+  "view": {
+    "fadeTime": 1,
+    "kickRate": 0.00133333,
+    "kickRadius": 0
+  },
+  "lookControl": {
+    "affect": false,
+    "fadeTime": 1,
+    "mouseSensitivity": 0,
+    "maxPitchSpeed": 0,
+    "maxYawSpeed": 0
+  },
+  "movement": {
+    "affect": false
+  },
+  "audio": {
+    "volumeSettingName": "lunar_depressurized",
+    "affect": true,
+    "soundLoop": "null",
+    "soundEnd": "null",
+    "soundEndAbort": "null",
+    "fadeInTime": 1,
+    "fadeOutTime": 1,
+    "dry": 1,
+    "wet": 0,
+    "roomType": "underwater",
+    "modEndDelay": -250,
+    "loopFadeTime": 1000,
+    "loopEndDelay": -500
+  }
+}

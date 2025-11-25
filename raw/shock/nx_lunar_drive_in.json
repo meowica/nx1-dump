@@ -1,0 +1,40 @@
+{
+  "name": "nx_lunar_drive_in",
+  "screenBlend": {
+    "blurredFadeTime": 1,
+    "blurredEffectTime": 1,
+    "flashWhiteFadeTime": 0,
+    "flashShotFadeTime": 0,
+    "type": "none"
+  },
+  "view": {
+    "fadeTime": 1,
+    "kickRate": 0.00133333,
+    "kickRadius": 0
+  },
+  "lookControl": {
+    "affect": false,
+    "fadeTime": 1,
+    "mouseSensitivity": 0,
+    "maxPitchSpeed": 0,
+    "maxYawSpeed": 0
+  },
+  "movement": {
+    "affect": false
+  },
+  "audio": {
+    "volumeSettingName": "nx_lunar_drive_in",
+    "affect": true,
+    "soundLoop": "null",
+    "soundEnd": "null",
+    "soundEndAbort": "null",
+    "fadeInTime": 1,
+    "fadeOutTime": 1,
+    "dry": 1,
+    "wet": 0.15,
+    "roomType": "stonecorridor",
+    "modEndDelay": -250,
+    "loopFadeTime": 1000,
+    "loopEndDelay": -500
+  }
+}

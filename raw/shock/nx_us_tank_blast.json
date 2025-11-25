@@ -1,0 +1,40 @@
+{
+  "name": "nx_us_tank_blast",
+  "screenBlend": {
+    "blurredFadeTime": 100,
+    "blurredEffectTime": 50,
+    "flashWhiteFadeTime": 0,
+    "flashShotFadeTime": 0,
+    "type": "blurred"
+  },
+  "view": {
+    "fadeTime": 4000,
+    "kickRate": 0.00333333,
+    "kickRadius": 0.2
+  },
+  "lookControl": {
+    "affect": false,
+    "fadeTime": 1,
+    "mouseSensitivity": 0,
+    "maxPitchSpeed": 0,
+    "maxYawSpeed": 0
+  },
+  "movement": {
+    "affect": false
+  },
+  "audio": {
+    "volumeSettingName": "tankblast",
+    "affect": true,
+    "soundLoop": "nx_tank_tinnitus_loop",
+    "soundEnd": "nx_tank_tinnitus_end",
+    "soundEndAbort": "nx_tank_tinnitus_abort",
+    "fadeInTime": 250,
+    "fadeOutTime": 2500,
+    "dry": 1,
+    "wet": 1,
+    "roomType": "generic",
+    "modEndDelay": 0,
+    "loopFadeTime": 2000,
+    "loopEndDelay": -1500
+  }
+}

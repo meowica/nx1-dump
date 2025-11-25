@@ -1,0 +1,40 @@
+{
+  "name": "dog_bite",
+  "screenBlend": {
+    "blurredFadeTime": 10,
+    "blurredEffectTime": 1,
+    "flashWhiteFadeTime": 0,
+    "flashShotFadeTime": 0,
+    "type": "blurred"
+  },
+  "view": {
+    "fadeTime": 500,
+    "kickRate": 0.00333333,
+    "kickRadius": 1
+  },
+  "lookControl": {
+    "affect": false,
+    "fadeTime": 1000,
+    "mouseSensitivity": 0.01,
+    "maxPitchSpeed": 45,
+    "maxYawSpeed": 45
+  },
+  "movement": {
+    "affect": true
+  },
+  "audio": {
+    "volumeSettingName": "pain",
+    "affect": false,
+    "soundLoop": "shellshock_loop",
+    "soundEnd": "shellshock_end",
+    "soundEndAbort": "shellshock_end_abort",
+    "fadeInTime": 250,
+    "fadeOutTime": 2500,
+    "dry": 1,
+    "wet": 0.5,
+    "roomType": "generic",
+    "modEndDelay": -750,
+    "loopFadeTime": 2000,
+    "loopEndDelay": -1500
+  }
+}
