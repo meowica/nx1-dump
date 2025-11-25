@@ -1,0 +1,437 @@
+# TRIGGER MODELS (count = 32)
+model[0]
+  contents: 134217729
+  hullCount: 1
+  firstHull: 0
+
+model[1]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 1
+
+model[2]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 2
+
+model[3]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 3
+
+model[4]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 4
+
+model[5]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 5
+
+model[6]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 6
+
+model[7]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 7
+
+model[8]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 8
+
+model[9]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 9
+
+model[10]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 10
+
+model[11]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 11
+
+model[12]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 12
+
+model[13]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 13
+
+model[14]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 14
+
+model[15]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 15
+
+model[16]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 16
+
+model[17]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 17
+
+model[18]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 18
+
+model[19]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 19
+
+model[20]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 20
+
+model[21]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 21
+
+model[22]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 22
+
+model[23]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 23
+
+model[24]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 24
+
+model[25]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 25
+
+model[26]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 26
+
+model[27]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 27
+
+model[28]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 28
+
+model[29]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 29
+
+model[30]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 30
+
+model[31]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 31
+
+# TRIGGER HULLS (count = 32)
+hull[0]
+  bounds.midPoint: 0 -0.5 -0.25
+  bounds.halfSize: 39024.5 39767 1313.25
+  contents: 134217729
+  slabCount: 0
+  firstSlab: 0
+
+hull[1]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 474 164 63
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[2]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 300 177 63
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[3]
+  bounds.midPoint: -0.495361 0.409851 0
+  bounds.halfSize: 296.068 296.84 63
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 0
+
+hull[4]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 297 237 80
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[5]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 154 166 75
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[6]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 258 130 75
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[7]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 324 107 121
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[8]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 225 114 59
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[9]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 439 547 59
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[10]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 86 222 93
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[11]
+  bounds.midPoint: -0.181549 -0.041626 0
+  bounds.halfSize: 164.582 165.855 59
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 2
+
+hull[12]
+  bounds.midPoint: 0.43644 0.25 0
+  bounds.halfSize: 92.9364 80.75 59
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[13]
+  bounds.midPoint: 0.230164 0.25 0
+  bounds.halfSize: 260.73 452.75 59
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[14]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 72 351 59
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[15]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 222 328 138
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[16]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 40 115 64
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[17]
+  bounds.midPoint: 0 0 0
+  bounds.halfSize: 179 277 73
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[18]
+  bounds.midPoint: 0 0 14
+  bounds.halfSize: 32 32 18
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 4
+
+hull[19]
+  bounds.midPoint: 0 0 28
+  bounds.halfSize: 40 40 28
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 6
+
+hull[20]
+  bounds.midPoint: 0 0 32
+  bounds.halfSize: 72 64 40
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[21]
+  bounds.midPoint: 0 0 24
+  bounds.halfSize: 32 32 32
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[22]
+  bounds.midPoint: -8 0 32
+  bounds.halfSize: 80 64 40
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[23]
+  bounds.midPoint: 0 0 24
+  bounds.halfSize: 32 32 32
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[24]
+  bounds.midPoint: 0 0 14
+  bounds.halfSize: 32 32 18
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 8
+
+hull[25]
+  bounds.midPoint: 0 0 32
+  bounds.halfSize: 72 64 40
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[26]
+  bounds.midPoint: 0 0 24
+  bounds.halfSize: 32 32 32
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[27]
+  bounds.midPoint: 0 0 32
+  bounds.halfSize: 72 64 40
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[28]
+  bounds.midPoint: 0 0 24
+  bounds.halfSize: 32 32 32
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[29]
+  bounds.midPoint: 0.25 0.25 -0.5
+  bounds.halfSize: 36.25 32.25 27.5
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[30]
+  bounds.midPoint: -0.25 0.25 -0.5
+  bounds.halfSize: 36.25 32.25 27.5
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[31]
+  bounds.midPoint: 0 0.25 -0.5
+  bounds.halfSize: 36.5 31.75 27.5
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+# TRIGGER SLABS (count = 10)
+slab[0]
+  dir: 0.708689 0.705521 0
+  midPoint: -2.42447
+  halfSize: 175.15
+
+slab[1]
+  dir: -0.705508 0.708702 0
+  midPoint: 1.02966
+  halfSize: 246.468
+
+slab[2]
+  dir: 0.691223 0.722642 0
+  midPoint: -0.748844
+  halfSize: 123.755
+
+slab[3]
+  dir: -0.722642 0.691223 0
+  midPoint: 0.723652
+  halfSize: 110.565
+
+slab[4]
+  dir: 0.707107 0.707107 0
+  midPoint: 0
+  halfSize: 31.1127
+
+slab[5]
+  dir: 0.707107 -0.707107 0
+  midPoint: 0
+  halfSize: 31.1127
+
+slab[6]
+  dir: -0.707107 0.707107 0
+  midPoint: 0
+  halfSize: 39.598
+
+slab[7]
+  dir: 0.707107 0.707107 0
+  midPoint: 0
+  halfSize: 39.598
+
+slab[8]
+  dir: 0.707107 0.707107 0
+  midPoint: 0
+  halfSize: 31.1127
+
+slab[9]
+  dir: 0.707107 -0.707107 0
+  midPoint: 0
+  halfSize: 31.1127
+

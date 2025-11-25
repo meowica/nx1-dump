@@ -1,0 +1,521 @@
+# TRIGGER MODELS (count = 29)
+model[0]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 0
+
+model[1]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 1
+
+model[2]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 2
+
+model[3]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 3
+
+model[4]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 4
+
+model[5]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 5
+
+model[6]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 6
+
+model[7]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 7
+
+model[8]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 8
+
+model[9]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 9
+
+model[10]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 10
+
+model[11]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 11
+
+model[12]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 12
+
+model[13]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 13
+
+model[14]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 14
+
+model[15]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 15
+
+model[16]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 16
+
+model[17]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 17
+
+model[18]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 18
+
+model[19]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 19
+
+model[20]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 20
+
+model[21]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 21
+
+model[22]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 22
+
+model[23]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 23
+
+model[24]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 24
+
+model[25]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 25
+
+model[26]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 26
+
+model[27]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 27
+
+model[28]
+  contents: 671088641
+  hullCount: 1
+  firstHull: 28
+
+# TRIGGER HULLS (count = 29)
+hull[0]
+  bounds.midPoint: 0 0 -0.5
+  bounds.halfSize: 2815 2107 186.5
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[1]
+  bounds.midPoint: 0.494141 0.173584 0
+  bounds.halfSize: 406.859 420.056 86
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 0
+
+hull[2]
+  bounds.midPoint: -0.268433 0.472992 0
+  bounds.halfSize: 496.663 422.078 73
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 2
+
+hull[3]
+  bounds.midPoint: 0.207001 -0.0903931 0
+  bounds.halfSize: 180.014 143.505 86
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 4
+
+hull[4]
+  bounds.midPoint: 0.412628 0.270126 0
+  bounds.halfSize: 190.617 167.157 86
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 6
+
+hull[5]
+  bounds.midPoint: 0.305939 -0.132126 0
+  bounds.halfSize: 107.914 144.817 53
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 8
+
+hull[6]
+  bounds.midPoint: -0.253418 -0.439301 0
+  bounds.halfSize: 131.094 133.014 61
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 10
+
+hull[7]
+  bounds.midPoint: -0.170349 -0.271301 0
+  bounds.halfSize: 219.705 99.7183 61
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 12
+
+hull[8]
+  bounds.midPoint: 0.276978 -0.269867 0
+  bounds.halfSize: 271.849 124.717 61
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 14
+
+hull[9]
+  bounds.midPoint: 0.496681 0.329742 0
+  bounds.halfSize: 245.897 155.441 61
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 16
+
+hull[10]
+  bounds.midPoint: 0.337036 -0.329407 0
+  bounds.halfSize: 630.991 589.273 61
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 18
+
+hull[11]
+  bounds.midPoint: 0.0464783 -0.344299 0
+  bounds.halfSize: 269.895 304.094 133
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 20
+
+hull[12]
+  bounds.midPoint: -0.384476 0.228104 0
+  bounds.halfSize: 125.19 156.157 61
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 22
+
+hull[13]
+  bounds.midPoint: 0.276138 -0.172356 0
+  bounds.halfSize: 83.5608 103.094 62
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 24
+
+hull[14]
+  bounds.midPoint: 0.295776 0.488159 0
+  bounds.halfSize: 231.169 214.468 74
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 26
+
+hull[15]
+  bounds.midPoint: 0 0 14
+  bounds.halfSize: 32 32 18
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 28
+
+hull[16]
+  bounds.midPoint: 0 0 28
+  bounds.halfSize: 40 40 28
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 30
+
+hull[17]
+  bounds.midPoint: 0 0 32
+  bounds.halfSize: 72 64 40
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[18]
+  bounds.midPoint: 0 0 24
+  bounds.halfSize: 32 32 32
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[19]
+  bounds.midPoint: -8 0 32
+  bounds.halfSize: 80 64 40
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[20]
+  bounds.midPoint: 0 0 24
+  bounds.halfSize: 32 32 32
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[21]
+  bounds.midPoint: 0 0 14
+  bounds.halfSize: 32 32 18
+  contents: 671088641
+  slabCount: 2
+  firstSlab: 32
+
+hull[22]
+  bounds.midPoint: 0 0 32
+  bounds.halfSize: 72 64 40
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[23]
+  bounds.midPoint: 0 0 24
+  bounds.halfSize: 32 32 32
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[24]
+  bounds.midPoint: 0 0 32
+  bounds.halfSize: 72 64 40
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[25]
+  bounds.midPoint: 0 0 24
+  bounds.halfSize: 32 32 32
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[26]
+  bounds.midPoint: 0.25 0.25 -0.5
+  bounds.halfSize: 36.25 32.25 27.5
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[27]
+  bounds.midPoint: -0.25 0.25 -0.5
+  bounds.halfSize: 36.25 32.25 27.5
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+hull[28]
+  bounds.midPoint: 0 0.25 -0.5
+  bounds.halfSize: 36.5 31.75 27.5
+  contents: 671088641
+  slabCount: 0
+  firstSlab: 0
+
+# TRIGGER SLABS (count = 34)
+slab[0]
+  dir: 0.759257 0.650791 0
+  midPoint: 0.48526
+  halfSize: 232.39
+
+slab[1]
+  dir: -0.650791 0.759257 0
+  midPoint: -0.189804
+  halfSize: 354.058
+
+slab[2]
+  dir: 0.824932 0.565231 0
+  midPoint: -1.36543
+  halfSize: 472.998
+
+slab[3]
+  dir: -0.565231 0.824932 0
+  midPoint: -0.408318
+  halfSize: 189.478
+
+slab[4]
+  dir: 0.824932 0.565231 0
+  midPoint: -0.360184
+  halfSize: 186.031
+
+slab[5]
+  dir: -0.565231 0.824932 0
+  midPoint: -0.61685
+  halfSize: 47.2484
+
+slab[6]
+  dir: 0.881932 0.471377 0
+  midPoint: -0.441811
+  halfSize: 160.824
+
+slab[7]
+  dir: -0.477772 0.878484 0
+  midPoint: -1.69871
+  halfSize: 104.652
+
+slab[8]
+  dir: 0.422885 0.906183 0
+  midPoint: -2.20135
+  halfSize: 131.092
+
+slab[9]
+  dir: -0.920752 0.390149 0
+  midPoint: -1.28538
+  halfSize: 62.57
+
+slab[10]
+  dir: 0.824932 0.565231 0
+  midPoint: -0.902138
+  halfSize: 91.5683
+
+slab[11]
+  dir: -0.565231 0.824932 0
+  midPoint: -0.285568
+  halfSize: 98.8727
+
+slab[12]
+  dir: 0.998112 0.0614223 0
+  midPoint: -0.178009
+  halfSize: 215.202
+
+slab[13]
+  dir: -0.0766965 0.997055 0
+  midPoint: -0.371876
+  halfSize: 83.4726
+
+slab[14]
+  dir: 0.998112 0.0614223 0
+  midPoint: 0.270493
+  halfSize: 266.195
+
+slab[15]
+  dir: -0.0766965 0.997055 0
+  midPoint: -0.433731
+  halfSize: 104.626
+
+slab[16]
+  dir: 0.998112 0.0614223 0
+  midPoint: 0.521767
+  halfSize: 238.134
+
+slab[17]
+  dir: -0.0766965 0.997055 0
+  midPoint: 0.102676
+  halfSize: 137.606
+
+slab[18]
+  dir: 0.805438 0.592681 0
+  midPoint: -2.40732
+  halfSize: 564.724
+
+slab[19]
+  dir: -0.609711 0.792624 0
+  midPoint: -3.78798
+  halfSize: 309.162
+
+slab[20]
+  dir: 0.422885 0.906183 0
+  midPoint: -5.45867
+  halfSize: 251.064
+
+slab[21]
+  dir: -0.917556 0.397607 0
+  midPoint: -2.44638
+  halfSize: 187.563
+
+slab[22]
+  dir: 0.379223 0.925305 0
+  midPoint: -1.4173
+  halfSize: 135.958
+
+slab[23]
+  dir: -0.931708 0.363208 0
+  midPoint: -0.140499
+  halfSize: 81.9097
+
+slab[24]
+  dir: 0.906183 -0.422885 0
+  midPoint: -1.76927
+  halfSize: 52.0322
+
+slab[25]
+  dir: 0.404747 0.914429 0
+  midPoint: -0.980408
+  halfSize: 90.5045
+
+slab[26]
+  dir: 0.744049 0.668125 0
+  midPoint: -2.60865
+  halfSize: 244.816
+
+slab[27]
+  dir: -0.667248 0.744835 0
+  midPoint: -2.36324
+  halfSize: 74.0596
+
+slab[28]
+  dir: 0.707107 0.707107 0
+  midPoint: 0
+  halfSize: 31.1127
+
+slab[29]
+  dir: 0.707107 -0.707107 0
+  midPoint: 0
+  halfSize: 31.1127
+
+slab[30]
+  dir: -0.707107 0.707107 0
+  midPoint: 0
+  halfSize: 39.598
+
+slab[31]
+  dir: 0.707107 0.707107 0
+  midPoint: 0
+  halfSize: 39.598
+
+slab[32]
+  dir: 0.707107 0.707107 0
+  midPoint: 0
+  halfSize: 31.1127
+
+slab[33]
+  dir: 0.707107 -0.707107 0
+  midPoint: 0
+  halfSize: 31.1127
+

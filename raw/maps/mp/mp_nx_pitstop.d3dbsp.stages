@@ -1,0 +1,8 @@
+# STAGES (count = 1)
+
+stage[0]
+  name: stage 0
+  origin: 0 0 0
+  triggerIndex: 1024
+  sunPrimaryLightIndex: 1
+
