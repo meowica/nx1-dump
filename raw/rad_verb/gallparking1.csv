@@ -1,0 +1,2 @@
+name,earlyTime,lateTime,earlyGain,lateGain,lateGainProx,returnGain,earlyLpf,lateLpf,inputLpf,dampLpf,wallReflect,dryGain,earlySize,lateSize,diffusion,rearLevel
+gallparking1,0.48,0.58,0.55,0.52,1,0.19,0.005,0.732,0.595,0.62,0.685,0.001,6.43,6.43,0.5,0.6

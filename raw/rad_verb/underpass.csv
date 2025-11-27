@@ -1,0 +1,2 @@
+name,earlyTime,lateTime,earlyGain,lateGain,lateGainProx,returnGain,earlyLpf,lateLpf,inputLpf,dampLpf,wallReflect,dryGain,earlySize,lateSize,diffusion,rearLevel
+underpass,0.6,0.91,0.85,0.99,1,0.19,0.4,0.1,0.1,0.62,1,0.001,2,4,0.5,0.6

@@ -1,0 +1,2 @@
+name,earlyTime,lateTime,earlyGain,lateGain,lateGainProx,returnGain,earlyLpf,lateLpf,inputLpf,dampLpf,wallReflect,dryGain,earlySize,lateSize,diffusion,rearLevel
+sandmedalley1,0.04,0.12,0.6,0.225,1,1,0.1,0.1,0.1,0.1,0.5,0.01,1.36,3.2,0.3,1

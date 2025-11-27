@@ -1,0 +1,2 @@
+name,earlyTime,lateTime,earlyGain,lateGain,lateGainProx,returnGain,earlyLpf,lateLpf,inputLpf,dampLpf,wallReflect,dryGain,earlySize,lateSize,diffusion,rearLevel
+mountains,0.6,0.3,0.1155,0.973,0.973,1,0,0.295,0.075,0.57,0.52,0,4,4,0.255,0.75
