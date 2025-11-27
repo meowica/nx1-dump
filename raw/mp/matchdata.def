@@ -1,0 +1,920 @@
+STRUCTURED_DATA_DEF_SET mp/matchdata.def
+{
+    DEF 0
+    {
+        version = 179
+        checksum = 0xd5f4684c
+        ENUMS 8
+        {
+            ENUM 0
+            {
+                entryCount = 17
+                reservedCount = 17
+                entries:
+                    15 = "assaulting"
+                    10 = "assistedsuicide"
+                    2 = "avenger"
+                    6 = "buzzkill"
+                    12 = "carrying"
+                    8 = "comeback"
+                    3 = "defender"
+                    16 = "defending"
+                    14 = "defusing"
+                    1 = "execution"
+                    7 = "firstblood"
+                    0 = "headshot"
+                    11 = "killstreak"
+                    9 = "longshot"
+                    13 = "planting"
+                    4 = "posthumous"
+                    5 = "revenge"
+            }
+            ENUM 1
+            {
+                entryCount = 6
+                reservedCount = 6
+                entries:
+                    0 = "capture"
+                    3 = "defuse"
+                    1 = "destroy"
+                    4 = "pickup"
+                    2 = "plant"
+                    5 = "return"
+            }
+            ENUM 2
+            {
+                entryCount = 17
+                reservedCount = 17
+                entries:
+                    11 = "MOD_CRUSH"
+                    15 = "MOD_EXPLOSIVE"
+                    4 = "MOD_EXPLOSIVE_BULLET"
+                    12 = "MOD_FALLING"
+                    5 = "MOD_GRENADE"
+                    6 = "MOD_GRENADE_SPLASH"
+                    10 = "MOD_HEAD_SHOT"
+                    16 = "MOD_IMPACT"
+                    9 = "MOD_MELEE"
+                    2 = "MOD_PISTOL_BULLET"
+                    7 = "MOD_PROJECTILE"
+                    8 = "MOD_PROJECTILE_SPLASH"
+                    3 = "MOD_RIFLE_BULLET"
+                    13 = "MOD_SUICIDE"
+                    14 = "MOD_TRIGGER_HURT"
+                    1 = "MOD_UNKNOWN"
+                    0 = "none"
+            }
+            ENUM 3
+            {
+                entryCount = 128
+                reservedCount = 128
+                entries:
+                    11 = "aa12"
+                    38 = "aa12_akimbo"
+                    83 = "abrams_minigun_mp"
+                    85 = "ac130_105mm_mp"
+                    86 = "ac130_25mm_mp"
+                    87 = "ac130_40mm_mp"
+                    88 = "ac130_mp"
+                    70 = "airdrop_marker"
+                    71 = "airdrop_mega_marker"
+                    72 = "airdrop_sentry_marker"
+                    20 = "ajax"
+                    30 = "aresminigun"
+                    89 = "artillery_mp"
+                    7 = "asmk27"
+                    78 = "atbr"
+                    79 = "atbr_base"
+                    80 = "atbr_bullet_mp"
+                    39 = "augks"
+                    90 = "barrel_mp"
+                    15 = "barrett"
+                    2 = "beretta"
+                    1 = "beretta393"
+                    43 = "blockouta"
+                    44 = "blockoutb"
+                    45 = "blockoutc"
+                    91 = "bmp_turret_mp"
+                    92 = "bradley_turret_mp"
+                    93 = "bullet_ricochet_mp"
+                    21 = "c4"
+                    25 = "c4death"
+                    37 = "cd2b"
+                    16 = "cheytac"
+                    22 = "claymore"
+                    94 = "cobra_20mm_mp"
+                    95 = "cobra_ffar_mp"
+                    96 = "cobra_player_minigun_mp"
+                    3 = "coltanaconda"
+                    61 = "concussion_grenade"
+                    97 = "defaultweapon_mp"
+                    98 = "destructible_car"
+                    48 = "ecr"
+                    53 = "emp_grenade"
+                    5 = "fal"
+                    58 = "flash_grenade"
+                    50 = "frag_grenade"
+                    51 = "frag_grenade_short"
+                    52 = "frag_scavenger_grenade"
+                    55 = "gas_grenade"
+                    18 = "gl"
+                    36 = "glo"
+                    4 = "glock"
+                    59 = "grapplinghook"
+                    100 = "harrier_20mm_mp"
+                    99 = "harrier_ffar_mp"
+                    118 = "heli_remote_mp"
+                    101 = "helicopter_mp"
+                    102 = "hind_ffar_mp"
+                    75 = "hulc_frag"
+                    74 = "hulc_lidar_mp"
+                    77 = "hulc_n00b"
+                    73 = "hulc_rocket_mp"
+                    76 = "hulc_semtex"
+                    103 = "humvee_50cal_mp"
+                    23 = "javelin"
+                    41 = "javelinks"
+                    46 = "ksg"
+                    47 = "ksgslug"
+                    28 = "laserrifle"
+                    31 = "lasersniper"
+                    54 = "lidar_grenade"
+                    127 = "lsdguidedmissile_mp"
+                    126 = "lsdnightravenmissile"
+                    10 = "m1014"
+                    104 = "m1a1_turret_mp"
+                    17 = "m21"
+                    14 = "m240"
+                    27 = "m320"
+                    121 = "manned_gl_turret_mp"
+                    120 = "manned_minigun_turret_mp"
+                    115 = "minigun_littlebird_mp"
+                    81 = "miniuav"
+                    124 = "mortar_remote_mp"
+                    125 = "mortar_remote_zoom_mp"
+                    29 = "needler"
+                    0 = "none"
+                    117 = "nuke_mp"
+                    82 = "nx_miniuav_rifle_player_mp"
+                    69 = "onemanarmy"
+                    8 = "p90"
+                    116 = "pavelow_minigun_mp"
+                    56 = "pred_grenade"
+                    34 = "pulserifle"
+                    119 = "remote_mortar_missile_mp"
+                    105 = "remotemissile_mp"
+                    106 = "remotemissile_projectile_mp"
+                    107 = "ricochet_mp"
+                    63 = "riotshield"
+                    64 = "riotshieldcloak"
+                    65 = "riotshieldcover"
+                    66 = "riotshieldxray"
+                    13 = "rpd"
+                    19 = "rpg"
+                    113 = "saw_bipod_stand_mp"
+                    6 = "scar"
+                    49 = "scar2"
+                    68 = "semtex"
+                    108 = "sentry_gun_mp"
+                    109 = "sentry_minigun_mp"
+                    62 = "smartarrow"
+                    60 = "smoke_grenade"
+                    57 = "sonic_warden"
+                    12 = "spas12"
+                    32 = "srm1216"
+                    114 = "stealth_bomb_mp"
+                    24 = "stinger"
+                    67 = "throwingknife"
+                    110 = "train_mp"
+                    111 = "turret_minigun_mp"
+                    35 = "type104"
+                    123 = "uav_strike_projectile_mp"
+                    122 = "uavstrikebinoculars"
+                    84 = "ugv_main_turret_mp"
+                    9 = "ump45"
+                    112 = "weapon_cobra_mk19_mp"
+                    33 = "xm108"
+                    26 = "xm25"
+                    40 = "xm25ks"
+                    42 = "xraydevice"
+            }
+            ENUM 4
+            {
+                entryCount = 29
+                reservedCount = 29
+                entries:
+                    16 = "abg"
+                    4 = "acog"
+                    6 = "akimbo"
+                    26 = "astock"
+                    27 = "boost"
+                    17 = "flash"
+                    10 = "fmj"
+                    18 = "frag"
+                    1 = "gl"
+                    5 = "grip"
+                    9 = "heartbeat"
+                    12 = "hrof"
+                    21 = "jhp"
+                    24 = "lbarrel"
+                    13 = "lrof"
+                    22 = "match"
+                    0 = "none"
+                    28 = "plusone"
+                    2 = "reflex"
+                    25 = "sbarrel"
+                    23 = "shellshock"
+                    8 = "shotgun"
+                    3 = "silencer"
+                    19 = "smoke"
+                    20 = "stick"
+                    14 = "tactical"
+                    7 = "thermal"
+                    11 = "xmags"
+                    15 = "xray"
+            }
+            ENUM 5
+            {
+                entryCount = 135
+                reservedCount = 135
+                entries:
+                    123 = "at4_mp"
+                    118 = "c4_mp"
+                    120 = "claymore_mp"
+                    119 = "flare_mp"
+                    128 = "frag_grenade_mp"
+                    132 = "hulc_frag_mp"
+                    131 = "hulc_lidar_mp"
+                    134 = "hulc_n00b_mp"
+                    130 = "hulc_rocket_mp"
+                    133 = "hulc_semtex_mp"
+                    116 = "javelin_mp"
+                    129 = "lidarmine_mp"
+                    124 = "m79_mp"
+                    122 = "rpg_mp"
+                    127 = "semtex_mp"
+                    125 = "smartarrow_mp"
+                    121 = "sonic_warden_mp"
+                    105 = "specialty_Awarenessexpert"
+                    104 = "specialty_Mobilityexpert"
+                    103 = "specialty_Steathexpert"
+                    29 = "specialty_akimbo"
+                    53 = "specialty_amplify"
+                    56 = "specialty_armorpiercing"
+                    24 = "specialty_armorvest"
+                    76 = "specialty_automantle"
+                    44 = "specialty_blackbox"
+                    28 = "specialty_blastshield"
+                    91 = "specialty_blindeye"
+                    67 = "specialty_bling"
+                    16 = "specialty_bulletaccuracy"
+                    14 = "specialty_bulletdamage"
+                    85 = "specialty_bulletflinch"
+                    15 = "specialty_bulletpenetration"
+                    27 = "specialty_burstfire"
+                    78 = "specialty_c4death"
+                    63 = "specialty_carepackage"
+                    59 = "specialty_challenger"
+                    57 = "specialty_coldblooded"
+                    80 = "specialty_combathigh"
+                    48 = "specialty_concussiongrenade"
+                    81 = "specialty_dangerclose"
+                    34 = "specialty_delaymine"
+                    10 = "specialty_detectexplosive"
+                    107 = "specialty_disruptor"
+                    50 = "specialty_empgrenade"
+                    62 = "specialty_endgame"
+                    83 = "specialty_equipmenthack"
+                    40 = "specialty_explosivebullets"
+                    11 = "specialty_explosivedamage"
+                    54 = "specialty_extendedmags"
+                    66 = "specialty_extendedmelee"
+                    19 = "specialty_extraammo"
+                    32 = "specialty_falldamage"
+                    84 = "specialty_fastadsmove"
+                    109 = "specialty_fastcarepackagerecovery"
+                    90 = "specialty_fasterlockon"
+                    82 = "specialty_fasthealthregen"
+                    39 = "specialty_fastmantle"
+                    86 = "specialty_fastmeleerecovery"
+                    92 = "specialty_fastoffhand"
+                    18 = "specialty_fastreload"
+                    70 = "specialty_fastsnipe"
+                    77 = "specialty_fastsprintrecovery"
+                    87 = "specialty_fastweaponswitch"
+                    35 = "specialty_feigndeath"
+                    43 = "specialty_finalstand"
+                    89 = "specialty_flakjacket"
+                    47 = "specialty_flashgrenade"
+                    33 = "specialty_fmj"
+                    25 = "specialty_fraggrenade"
+                    96 = "specialty_gasmask"
+                    6 = "specialty_gpsjammer"
+                    108 = "specialty_grapplinghook"
+                    13 = "specialty_grenadepulldeath"
+                    79 = "specialty_hardline"
+                    68 = "specialty_heartbreaker"
+                    7 = "specialty_holdbreath"
+                    71 = "specialty_improvedholdbreath"
+                    98 = "specialty_juggersuit"
+                    115 = "specialty_juiced"
+                    36 = "specialty_jumpdive"
+                    42 = "specialty_lightweight"
+                    65 = "specialty_littlebird_support"
+                    102 = "specialty_loaded"
+                    37 = "specialty_localjammer"
+                    9 = "specialty_longersprint"
+                    58 = "specialty_marathon"
+                    93 = "specialty_marathonholder"
+                    60 = "specialty_marksman"
+                    95 = "specialty_ninjaholder"
+                    0 = "specialty_null"
+                    4 = "specialty_null_attachment"
+                    1 = "specialty_null_gl"
+                    2 = "specialty_null_grip"
+                    3 = "specialty_null_shotgun"
+                    64 = "specialty_onemanarmy"
+                    113 = "specialty_paint"
+                    114 = "specialty_paint_pro"
+                    5 = "specialty_parabolic"
+                    12 = "specialty_pistoldeath"
+                    101 = "specialty_portable_radar"
+                    72 = "specialty_primarydeath"
+                    46 = "specialty_quickdraw"
+                    94 = "specialty_quickdrawholder"
+                    8 = "specialty_quieter"
+                    88 = "specialty_reducedshellshock"
+                    99 = "specialty_revenge"
+                    17 = "specialty_rof"
+                    55 = "specialty_saboteur"
+                    51 = "specialty_scavenger"
+                    73 = "specialty_secondarybling"
+                    69 = "specialty_selectivehearing"
+                    38 = "specialty_shellshock"
+                    31 = "specialty_shield"
+                    30 = "specialty_siege"
+                    52 = "specialty_sitrep"
+                    49 = "specialty_smokegrenade"
+                    26 = "specialty_specialgrenade"
+                    110 = "specialty_spectre"
+                    111 = "specialty_spectrepro"
+                    74 = "specialty_spygame"
+                    75 = "specialty_spygame2"
+                    97 = "specialty_stealthsuit"
+                    45 = "specialty_steelnerves"
+                    61 = "specialty_tacticalinsertion"
+                    41 = "specialty_thermal"
+                    20 = "specialty_twoprimaries"
+                    23 = "specialty_twoprimariesholder"
+                    21 = "specialty_twoprimarieslethal"
+                    22 = "specialty_twoprimariesoffhand"
+                    100 = "specialty_uav"
+                    112 = "specialty_whizby"
+                    106 = "specialty_xrayvision"
+                    117 = "stinger_mp"
+                    126 = "throwingknife_mp"
+            }
+            ENUM 6
+            {
+                entryCount = 34
+                reservedCount = 34
+                entries:
+                    4 = "ac130"
+                    16 = "airdrop"
+                    20 = "airdrop_predator_missile"
+                    19 = "airdrop_sentry_minigun"
+                    2 = "airstrike"
+                    18 = "atbr"
+                    10 = "auto_shotgun"
+                    12 = "counter_uav"
+                    9 = "double_uav"
+                    27 = "emp"
+                    30 = "gl_turret"
+                    23 = "harrier_airstrike"
+                    3 = "helicopter"
+                    25 = "helicopter_blackbox"
+                    26 = "helicopter_flares"
+                    6 = "helicopter_minigun"
+                    7 = "helicopter_mk19"
+                    21 = "littlebird_support"
+                    33 = "lockseekdie"
+                    29 = "minigun_turret"
+                    0 = "none"
+                    8 = "nuke"
+                    11 = "precision_airstrike"
+                    32 = "predator_marker"
+                    5 = "predator_missile"
+                    28 = "remote_mortar"
+                    13 = "sentry"
+                    14 = "sentry_gl"
+                    22 = "stealth_airstrike"
+                    24 = "super_airstrike"
+                    17 = "tank"
+                    15 = "thumper"
+                    1 = "uav"
+                    31 = "uav_strike"
+            }
+            ENUM 7
+            {
+                entryCount = 13
+                reservedCount = 13
+                entries:
+                    3 = "allies"
+                    2 = "axis"
+                    0 = "none"
+                    1 = "spectator"
+                    4 = "team_0"
+                    5 = "team_1"
+                    6 = "team_2"
+                    7 = "team_3"
+                    8 = "team_4"
+                    9 = "team_5"
+                    10 = "team_6"
+                    11 = "team_7"
+                    12 = "team_8"
+            }
+        }
+        STRUCTS 5
+        {
+            STRUCT 0 size=0 bitOffset=793
+            {
+                PROPERTY 0
+                {
+                    name = "buildNumber"
+                    offset = 25
+type = int
+                }
+                PROPERTY 1
+                {
+                    name = "buildVersion"
+                    offset = 8
+type = string
+stringLength = 17
+                }
+                PROPERTY 2
+                {
+                    name = "dateTime"
+                    offset = 103
+type = int
+                }
+                PROPERTY 3
+                {
+                    name = "eventCount"
+                    offset = 97
+type = byte
+                }
+                PROPERTY 4
+                {
+                    name = "events"
+                    offset = 22942
+type = indexed_array
+indexedArrayIndex = 12
+                }
+                PROPERTY 5
+                {
+                    name = "gameLength"
+                    offset = 99
+type = int
+                }
+                PROPERTY 6
+                {
+                    name = "gametype"
+                    offset = 62
+type = string
+stringLength = 33
+                }
+                PROPERTY 7
+                {
+                    name = "hasBots"
+                    offset = 856
+type = bool
+                }
+                PROPERTY 8
+                {
+                    name = "killstreakCount"
+                    offset = 98
+type = byte
+                }
+                PROPERTY 9
+                {
+                    name = "killstreaks"
+                    offset = 24892
+type = indexed_array
+indexedArrayIndex = 13
+                }
+                PROPERTY 10
+                {
+                    name = "lifeCount"
+                    offset = 96
+type = byte
+                }
+                PROPERTY 11
+                {
+                    name = "lives"
+                    offset = 3692
+type = indexed_array
+indexedArrayIndex = 11
+                }
+                PROPERTY 12
+                {
+                    name = "map"
+                    offset = 29
+type = string
+stringLength = 33
+                }
+                PROPERTY 13
+                {
+                    name = "playerCount"
+                    offset = 95
+type = byte
+                }
+                PROPERTY 14
+                {
+                    name = "players"
+                    offset = 108
+type = indexed_array
+indexedArrayIndex = 10
+                }
+            }
+            STRUCT 1 size=13 bitOffset=0
+            {
+                PROPERTY 0
+                {
+                    name = "eventPos"
+                    offset = 7
+type = indexed_array
+indexedArrayIndex = 0
+                }
+                PROPERTY 1
+                {
+                    name = "eventTime"
+                    offset = 3
+type = int
+                }
+                PROPERTY 2
+                {
+                    name = "eventType"
+                    offset = 0
+type = enum
+enumIndex = 1
+                }
+                PROPERTY 3
+                {
+                    name = "player"
+                    offset = 2
+type = byte
+                }
+            }
+            STRUCT 2 size=13 bitOffset=0
+            {
+                PROPERTY 0
+                {
+                    name = "eventPos"
+                    offset = 7
+type = indexed_array
+indexedArrayIndex = 1
+                }
+                PROPERTY 1
+                {
+                    name = "eventTime"
+                    offset = 3
+type = int
+                }
+                PROPERTY 2
+                {
+                    name = "eventType"
+                    offset = 0
+type = enum
+enumIndex = 6
+                }
+                PROPERTY 3
+                {
+                    name = "player"
+                    offset = 2
+type = byte
+                }
+            }
+            STRUCT 3 size=77 bitOffset=58
+            {
+                PROPERTY 0
+                {
+                    name = "altMode"
+                    offset = 57
+type = bool
+                }
+                PROPERTY 1
+                {
+                    name = "attachments"
+                    offset = 46
+type = indexed_array
+indexedArrayIndex = 6
+                }
+                PROPERTY 2
+                {
+                    name = "attacker"
+                    offset = 50
+type = byte
+                }
+                PROPERTY 3
+                {
+                    name = "attackerPos"
+                    offset = 51
+type = indexed_array
+indexedArrayIndex = 7
+                }
+                PROPERTY 4
+                {
+                    name = "deathAngles"
+                    offset = 63
+type = indexed_array
+indexedArrayIndex = 9
+                }
+                PROPERTY 5
+                {
+                    name = "deathPos"
+                    offset = 57
+type = indexed_array
+indexedArrayIndex = 8
+                }
+                PROPERTY 6
+                {
+                    name = "dotOfDeath"
+                    offset = 69
+type = float
+                }
+                PROPERTY 7
+                {
+                    name = "duration"
+                    offset = 14
+type = int
+                }
+                PROPERTY 8
+                {
+                    name = "equipment"
+                    offset = 34
+type = enum
+enumIndex = 5
+                }
+                PROPERTY 9
+                {
+                    name = "lethal"
+                    offset = 32
+type = enum
+enumIndex = 5
+                }
+                PROPERTY 10
+                {
+                    name = "mod"
+                    offset = 42
+type = enum
+enumIndex = 2
+                }
+                PROPERTY 11
+                {
+                    name = "modifiers"
+                    offset = 74
+type = enum_array
+enumArrayIndex = 0
+                }
+                PROPERTY 12
+                {
+                    name = "multikill"
+                    offset = 73
+type = byte
+                }
+                PROPERTY 13
+                {
+                    name = "offhandWeapon"
+                    offset = 30
+type = enum
+enumIndex = 3
+                }
+                PROPERTY 14
+                {
+                    name = "perks"
+                    offset = 36
+type = indexed_array
+indexedArrayIndex = 5
+                }
+                PROPERTY 15
+                {
+                    name = "player"
+                    offset = 0
+type = byte
+                }
+                PROPERTY 16
+                {
+                    name = "primaryAttachments"
+                    offset = 20
+type = indexed_array
+indexedArrayIndex = 3
+                }
+                PROPERTY 17
+                {
+                    name = "primaryWeapon"
+                    offset = 18
+type = enum
+enumIndex = 3
+                }
+                PROPERTY 18
+                {
+                    name = "secondaryAttachments"
+                    offset = 26
+type = indexed_array
+indexedArrayIndex = 4
+                }
+                PROPERTY 19
+                {
+                    name = "secondaryWeapon"
+                    offset = 24
+type = enum
+enumIndex = 3
+                }
+                PROPERTY 20
+                {
+                    name = "spawnPos"
+                    offset = 1
+type = indexed_array
+indexedArrayIndex = 2
+                }
+                PROPERTY 21
+                {
+                    name = "spawnTime"
+                    offset = 10
+type = int
+                }
+                PROPERTY 22
+                {
+                    name = "team"
+                    offset = 8
+type = enum
+enumIndex = 7
+                }
+                PROPERTY 23
+                {
+                    name = "wasTacticalInsertion"
+                    offset = 56
+type = bool
+                }
+                PROPERTY 24
+                {
+                    name = "weapon"
+                    offset = 44
+type = enum
+enumIndex = 3
+                }
+            }
+            STRUCT 4 size=28 bitOffset=0
+            {
+                PROPERTY 0
+                {
+                    name = "assists"
+                    offset = 23
+type = short
+                }
+                PROPERTY 1
+                {
+                    name = "checkpoints"
+                    offset = 25
+type = short
+                }
+                PROPERTY 2
+                {
+                    name = "longestStreak"
+                    offset = 27
+type = byte
+                }
+                PROPERTY 3
+                {
+                    name = "score"
+                    offset = 19
+type = int
+                }
+                PROPERTY 4
+                {
+                    name = "team"
+                    offset = 17
+type = enum
+enumIndex = 7
+                }
+                PROPERTY 5
+                {
+                    name = "xuid"
+                    offset = 0
+type = string
+stringLength = 17
+                }
+            }
+        }
+        INDEXED_ARRAYS 14
+        {
+            INDEXED_ARRAY 0
+            {
+                size = 3
+type = short
+                elementSize = 2
+            }
+            INDEXED_ARRAY 1
+            {
+                size = 3
+type = short
+                elementSize = 2
+            }
+            INDEXED_ARRAY 2
+            {
+                size = 3
+type = short
+                elementSize = 2
+            }
+            INDEXED_ARRAY 3
+            {
+                size = 2
+type = enum
+enumIndex = 4
+                elementSize = 2
+            }
+            INDEXED_ARRAY 4
+            {
+                size = 2
+type = enum
+enumIndex = 4
+                elementSize = 2
+            }
+            INDEXED_ARRAY 5
+            {
+                size = 3
+type = enum
+enumIndex = 5
+                elementSize = 2
+            }
+            INDEXED_ARRAY 6
+            {
+                size = 2
+type = enum
+enumIndex = 4
+                elementSize = 2
+            }
+            INDEXED_ARRAY 7
+            {
+                size = 3
+type = short
+                elementSize = 2
+            }
+            INDEXED_ARRAY 8
+            {
+                size = 3
+type = short
+                elementSize = 2
+            }
+            INDEXED_ARRAY 9
+            {
+                size = 3
+type = short
+                elementSize = 2
+            }
+            INDEXED_ARRAY 10
+            {
+                size = 128
+type = struct
+structIndex = 4
+                elementSize = 28
+            }
+            INDEXED_ARRAY 11
+            {
+                size = 250
+type = struct
+structIndex = 3
+                elementSize = 77
+            }
+            INDEXED_ARRAY 12
+            {
+                size = 150
+type = struct
+structIndex = 1
+                elementSize = 13
+            }
+            INDEXED_ARRAY 13
+            {
+                size = 125
+type = struct
+structIndex = 2
+                elementSize = 13
+            }
+        }
+        ENUMED_ARRAYS 1
+        {
+            ENUMED_ARRAY 0
+            {
+                enumIndex = 0
+type = bool
+                elementSize = 1
+            }
+        }
+        ROOT_TYPE
+        {
+type = struct
+structIndex = 0
+        }
+        SIZE = 26517
+    }
+}

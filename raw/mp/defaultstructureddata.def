@@ -1,0 +1,29 @@
+STRUCTURED_DATA_DEF_SET mp/defaultstructureddata.def
+{
+    DEF 0
+    {
+        version = 41
+        checksum = 0x41d912ff
+        ENUMS 0
+        {
+        }
+        STRUCTS 1
+        {
+            STRUCT 0 size=0 bitOffset=0
+            {
+            }
+        }
+        INDEXED_ARRAYS 0
+        {
+        }
+        ENUMED_ARRAYS 0
+        {
+        }
+        ROOT_TYPE
+        {
+type = struct
+structIndex = 0
+        }
+        SIZE = 0
+    }
+}

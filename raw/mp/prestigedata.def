@@ -1,0 +1,1468 @@
+STRUCTURED_DATA_DEF_SET mp/prestigedata.def
+{
+    DEF 0
+    {
+        version = 2
+        checksum = 0x3aae5220
+        ENUMS 6
+        {
+            ENUM 0
+            {
+                entryCount = 96
+                reservedCount = 96
+                entries:
+                    95 = ""
+                    88 = "ch_carpetbomber"
+                    90 = "ch_choppervet"
+                    93 = "ch_cobracommander"
+                    91 = "ch_jollygreengiant"
+                    86 = "ch_looknohands"
+                    87 = "ch_predator"
+                    0 = "ch_prestige"
+                    1 = "ch_prestige_10"
+                    94 = "ch_spectre"
+                    92 = "ch_thespirit"
+                    89 = "ch_yourefired"
+                    59 = "pr_expert_aa12"
+                    11 = "pr_expert_ak47"
+                    77 = "pr_expert_at4"
+                    43 = "pr_expert_aug"
+                    25 = "pr_expert_barrett"
+                    65 = "pr_expert_beretta"
+                    51 = "pr_expert_beretta393"
+                    23 = "pr_expert_cheytac"
+                    71 = "pr_expert_coltanaconda"
+                    69 = "pr_expert_deserteagle"
+                    9 = "pr_expert_fal"
+                    5 = "pr_expert_famas"
+                    21 = "pr_expert_fn2000"
+                    49 = "pr_expert_glock"
+                    81 = "pr_expert_javelin"
+                    29 = "pr_expert_kriss"
+                    55 = "pr_expert_m1014"
+                    3 = "pr_expert_m16"
+                    27 = "pr_expert_m21"
+                    13 = "pr_expert_m240"
+                    15 = "pr_expert_m4"
+                    83 = "pr_expert_m79"
+                    17 = "pr_expert_masada"
+                    75 = "pr_expert_mg4"
+                    61 = "pr_expert_model1887"
+                    37 = "pr_expert_mp5k"
+                    35 = "pr_expert_p90"
+                    47 = "pr_expert_pp2000"
+                    63 = "pr_expert_ranger"
+                    39 = "pr_expert_rpd"
+                    79 = "pr_expert_rpg"
+                    41 = "pr_expert_sa80"
+                    19 = "pr_expert_scar"
+                    57 = "pr_expert_spas12"
+                    85 = "pr_expert_stinger"
+                    53 = "pr_expert_striker"
+                    7 = "pr_expert_tavor"
+                    45 = "pr_expert_tmp"
+                    31 = "pr_expert_ump45"
+                    67 = "pr_expert_usp"
+                    33 = "pr_expert_uzi"
+                    73 = "pr_expert_wa2000"
+                    58 = "pr_marksman_aa12"
+                    10 = "pr_marksman_ak47"
+                    76 = "pr_marksman_at4"
+                    42 = "pr_marksman_aug"
+                    24 = "pr_marksman_barrett"
+                    64 = "pr_marksman_beretta"
+                    50 = "pr_marksman_beretta393"
+                    22 = "pr_marksman_cheytac"
+                    70 = "pr_marksman_coltanaconda"
+                    68 = "pr_marksman_deserteagle"
+                    8 = "pr_marksman_fal"
+                    4 = "pr_marksman_famas"
+                    20 = "pr_marksman_fn2000"
+                    48 = "pr_marksman_glock"
+                    80 = "pr_marksman_javelin"
+                    28 = "pr_marksman_kriss"
+                    54 = "pr_marksman_m1014"
+                    2 = "pr_marksman_m16"
+                    26 = "pr_marksman_m21"
+                    12 = "pr_marksman_m240"
+                    14 = "pr_marksman_m4"
+                    82 = "pr_marksman_m79"
+                    16 = "pr_marksman_masada"
+                    74 = "pr_marksman_mg4"
+                    60 = "pr_marksman_model1887"
+                    36 = "pr_marksman_mp5k"
+                    34 = "pr_marksman_p90"
+                    46 = "pr_marksman_pp2000"
+                    62 = "pr_marksman_ranger"
+                    38 = "pr_marksman_rpd"
+                    78 = "pr_marksman_rpg"
+                    40 = "pr_marksman_sa80"
+                    18 = "pr_marksman_scar"
+                    56 = "pr_marksman_spas12"
+                    84 = "pr_marksman_stinger"
+                    52 = "pr_marksman_striker"
+                    6 = "pr_marksman_tavor"
+                    44 = "pr_marksman_tmp"
+                    30 = "pr_marksman_ump45"
+                    66 = "pr_marksman_usp"
+                    32 = "pr_marksman_uzi"
+                    72 = "pr_marksman_wa2000"
+            }
+            ENUM 1
+            {
+                entryCount = 112
+                reservedCount = 112
+                entries:
+                    47 = "adskills"
+                    93 = "afk"
+                    15 = "airstrikes"
+                    35 = "arheadshots"
+                    28 = "arkills"
+                    6 = "assists"
+                    43 = "avengekills"
+                    101 = "bombcarrierkills"
+                    103 = "bombscarried"
+                    99 = "bombsdefused"
+                    98 = "bombsplanted"
+                    41 = "bulletpenkills"
+                    23 = "c4kills"
+                    7 = "checkpoints"
+                    25 = "claymorekills"
+                    82 = "closertoenemies"
+                    67 = "comebacks"
+                    65 = "crouchtime"
+                    3 = "damagedone"
+                    4 = "damagetaken"
+                    12 = "deaths"
+                    59 = "deathstreak"
+                    63 = "distancetraveled"
+                    40 = "equipmentkills"
+                    85 = "explosionssurvived"
+                    87 = "fbhits"
+                    11 = "finalkill"
+                    110 = "flagcarrierkills"
+                    107 = "flagscaptured"
+                    109 = "flagscarried"
+                    108 = "flagsreturned"
+                    21 = "flankdeaths"
+                    20 = "flankkills"
+                    22 = "fragkills"
+                    76 = "greatestavgalt"
+                    9 = "grenadekills"
+                    2 = "headshots"
+                    16 = "helicopters"
+                    46 = "higherrankkills"
+                    55 = "highlander"
+                    48 = "hipfirekills"
+                    105 = "hqscaptured"
+                    106 = "hqsdestroyed"
+                    92 = "kdratio"
+                    56 = "kdratio10"
+                    70 = "killcamskipped"
+                    69 = "killcamtimewatched"
+                    61 = "killedotherteam"
+                    62 = "killedotherteamonelife"
+                    80 = "killedsameplayer"
+                    13 = "kills"
+                    102 = "killsasbombcarrier"
+                    111 = "killsasflagcarrier"
+                    78 = "killsteals"
+                    1 = "killstreak"
+                    5 = "knifekills"
+                    50 = "laststanderkills"
+                    49 = "laststandkills"
+                    77 = "leastavgalt"
+                    37 = "lmgheadshots"
+                    31 = "lmgkills"
+                    68 = "longestlife"
+                    45 = "longshots"
+                    51 = "lowerrankkills"
+                    75 = "mostcamperkills"
+                    83 = "mostclasseschanged"
+                    79 = "mostff"
+                    60 = "mostmultikills"
+                    71 = "mostreloads"
+                    73 = "mostshotsfired"
+                    72 = "mostswaps"
+                    84 = "mosttacprevented"
+                    81 = "mostweaponsused"
+                    10 = "multikill"
+                    17 = "mvp"
+                    57 = "noawards"
+                    58 = "noflankdeaths"
+                    0 = "none"
+                    52 = "otherweaponkills"
+                    18 = "overkill"
+                    94 = "participant"
+                    33 = "pistolheadshots"
+                    8 = "pistolkills"
+                    104 = "pointscaptured"
+                    66 = "pronetime"
+                    39 = "punisher"
+                    44 = "rescues"
+                    42 = "revengekills"
+                    29 = "rocketkills"
+                    89 = "scopedkills"
+                    24 = "semtexkills"
+                    86 = "shieldblocks"
+                    96 = "shielddeaths"
+                    95 = "shieldkills"
+                    54 = "shortestlife"
+                    53 = "shotgundeaths"
+                    36 = "shotgunheadshots"
+                    30 = "shotgunkills"
+                    34 = "smgheadshots"
+                    27 = "smgkills"
+                    38 = "sniperheadshots"
+                    32 = "sniperkills"
+                    64 = "sprinttime"
+                    88 = "stunhits"
+                    19 = "suicides"
+                    100 = "targetsdestroyed"
+                    90 = "thermalkills"
+                    97 = "throwbacks"
+                    26 = "throwingknifekills"
+                    91 = "thumperkills"
+                    74 = "timeinspot"
+                    14 = "uavs"
+            }
+            ENUM 2
+            {
+                entryCount = 303
+                reservedCount = 1024
+                entries:
+                    255 = "cardicon_1stlt1"
+                    251 = "cardicon_1stsgt1"
+                    254 = "cardicon_2ndlt1"
+                    128 = "cardicon_8ball"
+                    188 = "cardicon_8bit_price"
+                    58 = "cardicon_aa12_expert"
+                    57 = "cardicon_aa12_marksman"
+                    158 = "cardicon_abduction"
+                    205 = "cardicon_ac130"
+                    293 = "cardicon_ac130_angelflare"
+                    12 = "cardicon_ak47_expert"
+                    11 = "cardicon_ak47_marksman"
+                    130 = "cardicon_assad"
+                    212 = "cardicon_attackchopper"
+                    2 = "cardicon_aug_expert"
+                    1 = "cardicon_aug_marksman"
+                    272 = "cardicon_b2"
+                    155 = "cardicon_badgirl"
+                    109 = "cardicon_ball_baseball_1"
+                    110 = "cardicon_ball_basketball_1"
+                    111 = "cardicon_ball_football_1"
+                    108 = "cardicon_ball_soccer_1"
+                    189 = "cardicon_ball_volleyball_1"
+                    44 = "cardicon_barrett_expert"
+                    43 = "cardicon_barrett_marksman"
+                    114 = "cardicon_bear"
+                    52 = "cardicon_beretta393_expert"
+                    51 = "cardicon_beretta393_marksman"
+                    68 = "cardicon_beretta_expert"
+                    67 = "cardicon_beretta_marksman"
+                    260 = "cardicon_bgen1"
+                    87 = "cardicon_biohazard"
+                    119 = "cardicon_birdbrain"
+                    240 = "cardicon_blastshield"
+                    224 = "cardicon_bling"
+                    154 = "cardicon_blue"
+                    126 = "cardicon_boot"
+                    142 = "cardicon_brad"
+                    127 = "cardicon_brassknuckle"
+                    199 = "cardicon_brassknuckles"
+                    144 = "cardicon_brock"
+                    123 = "cardicon_bulb"
+                    273 = "cardicon_bulletcase"
+                    294 = "cardicon_bullets_50cal"
+                    122 = "cardicon_burgertown"
+                    241 = "cardicon_c4"
+                    256 = "cardicon_capt1"
+                    94 = "cardicon_car"
+                    207 = "cardicon_carepackage"
+                    40 = "cardicon_cheytac_expert"
+                    39 = "cardicon_cheytac_marksman"
+                    283 = "cardicon_chicken"
+                    216 = "cardicon_choppergunner"
+                    120 = "cardicon_claw"
+                    242 = "cardicon_claymore"
+                    253 = "cardicon_cmdsgtmaj1"
+                    160 = "cardicon_cod4"
+                    259 = "cardicon_col1"
+                    228 = "cardicon_coldblooded"
+                    74 = "cardicon_coltanaconda_expert"
+                    73 = "cardicon_coltanaconda_marksman"
+                    140 = "cardicon_comic_price"
+                    133 = "cardicon_comic_shepherd"
+                    264 = "cardicon_comm1"
+                    230 = "cardicon_commando"
+                    85 = "cardicon_compass"
+                    268 = "cardicon_copycat"
+                    208 = "cardicon_counteruav"
+                    246 = "cardicon_cpl1"
+                    223 = "cardicon_dangerclose"
+                    0 = "cardicon_default"
+                    72 = "cardicon_deserteagle_expert"
+                    71 = "cardicon_deserteagle_marksman"
+                    288 = "cardicon_devil"
+                    200 = "cardicon_devilfinger"
+                    297 = "cardicon_dive"
+                    96 = "cardicon_doubletap"
+                    213 = "cardicon_emergencyair"
+                    217 = "cardicon_empkillstreak"
+                    26 = "cardicon_fal_expert"
+                    25 = "cardicon_fal_marksman"
+                    28 = "cardicon_famas_expert"
+                    27 = "cardicon_famas_marksman"
+                    267 = "cardicon_finalstand"
+                    97 = "cardicon_fmj"
+                    20 = "cardicon_fn2000_expert"
+                    19 = "cardicon_fn2000_marksman"
+                    236 = "cardicon_frag"
+                    284 = "cardicon_gametype"
+                    299 = "cardicon_gasmask"
+                    198 = "cardicon_gears"
+                    263 = "cardicon_gen1"
+                    136 = "cardicon_ghillie"
+                    195 = "cardicon_ghost_bust"
+                    298 = "cardicon_ghost_skull"
+                    153 = "cardicon_girlskull"
+                    48 = "cardicon_glock_expert"
+                    47 = "cardicon_glock_marksman"
+                    201 = "cardicon_gold"
+                    156 = "cardicon_goodgirl"
+                    134 = "cardicon_grigsby"
+                    147 = "cardicon_grunt"
+                    148 = "cardicon_grunt_2"
+                    95 = "cardicon_gumby"
+                    227 = "cardicon_hardline"
+                    78 = "cardicon_harrier"
+                    211 = "cardicon_harrierstrike"
+                    93 = "cardicon_headshot"
+                    76 = "cardicon_heartbeatsensor"
+                    190 = "cardicon_helmet_baseball_1"
+                    191 = "cardicon_helmet_football_1"
+                    192 = "cardicon_hockey_1"
+                    193 = "cardicon_hockey_2"
+                    183 = "cardicon_honeybadger01"
+                    99 = "cardicon_humantrophy"
+                    116 = "cardicon_hyena"
+                    202 = "cardicon_icecream"
+                    159 = "cardicon_illuminati"
+                    269 = "cardicon_impale"
+                    300 = "cardicon_iss"
+                    161 = "cardicon_iw"
+                    75 = "cardicon_iwlogo"
+                    286 = "cardicon_jets"
+                    287 = "cardicon_joystick"
+                    292 = "cardicon_juggernaut_1"
+                    291 = "cardicon_juggernaut_2"
+                    117 = "cardicon_kinggorilla"
+                    184 = "cardicon_kitten"
+                    289 = "cardicon_knife"
+                    301 = "cardicon_knife_logo"
+                    196 = "cardicon_koiker_hound"
+                    203 = "cardicon_korean"
+                    34 = "cardicon_kriss_expert"
+                    33 = "cardicon_kriss_marksman"
+                    234 = "cardicon_laststand"
+                    274 = "cardicon_league_1911"
+                    107 = "cardicon_league_grenade"
+                    275 = "cardicon_league_magnum"
+                    226 = "cardicon_lightweight"
+                    113 = "cardicon_lion"
+                    204 = "cardicon_loadedfinger"
+                    258 = "cardicon_ltcol1"
+                    262 = "cardicon_ltgen1"
+                    60 = "cardicon_m1014_expert"
+                    59 = "cardicon_m1014_marksman"
+                    16 = "cardicon_m16_expert"
+                    15 = "cardicon_m16_marksman"
+                    42 = "cardicon_m21_expert"
+                    41 = "cardicon_m21_marksman"
+                    4 = "cardicon_m240_expert"
+                    3 = "cardicon_m240_marksman"
+                    22 = "cardicon_m4_expert"
+                    21 = "cardicon_m4_marksman"
+                    145 = "cardicon_macgregor"
+                    257 = "cardicon_maj1"
+                    261 = "cardicon_majgen1"
+                    131 = "cardicon_makarov"
+                    220 = "cardicon_marathon"
+                    265 = "cardicon_martyrdom"
+                    14 = "cardicon_masada_expert"
+                    13 = "cardicon_masada_marksman"
+                    10 = "cardicon_mg4_expert"
+                    9 = "cardicon_mg4_marksman"
+                    77 = "cardicon_minigun"
+                    64 = "cardicon_model1887_expert"
+                    63 = "cardicon_model1887_marksman"
+                    86 = "cardicon_moon"
+                    30 = "cardicon_mp5k_expert"
+                    29 = "cardicon_mp5k_marksman"
+                    250 = "cardicon_msgt1"
+                    129 = "cardicon_mushroom"
+                    172 = "cardicon_mw2_prestige1"
+                    181 = "cardicon_mw2_prestige10"
+                    173 = "cardicon_mw2_prestige2"
+                    174 = "cardicon_mw2_prestige3"
+                    175 = "cardicon_mw2_prestige4"
+                    176 = "cardicon_mw2_prestige5"
+                    177 = "cardicon_mw2_prestige6"
+                    178 = "cardicon_mw2_prestige7"
+                    179 = "cardicon_mw2_prestige8"
+                    180 = "cardicon_mw2_prestige9"
+                    185 = "cardicon_nates"
+                    82 = "cardicon_nightvision_1"
+                    83 = "cardicon_nightvision_2"
+                    235 = "cardicon_ninja"
+                    80 = "cardicon_noseart1"
+                    229 = "cardicon_oma"
+                    276 = "cardicon_opfor"
+                    38 = "cardicon_p90_expert"
+                    37 = "cardicon_p90_marksman"
+                    150 = "cardicon_pacifier_blue"
+                    151 = "cardicon_pacifier_pink"
+                    266 = "cardicon_painkiller"
+                    124 = "cardicon_patch"
+                    79 = "cardicon_pavelow"
+                    214 = "cardicon_pavelowkillstreak"
+                    244 = "cardicon_pfc1"
+                    103 = "cardicon_pirate"
+                    104 = "cardicon_pirateflag"
+                    146 = "cardicon_porterjustice"
+                    54 = "cardicon_pp2000_expert"
+                    53 = "cardicon_pp2000_marksman"
+                    219 = "cardicon_precair"
+                    210 = "cardicon_predatormissile"
+                    162 = "cardicon_prestige1"
+                    171 = "cardicon_prestige10"
+                    182 = "cardicon_prestige10_02"
+                    163 = "cardicon_prestige2"
+                    164 = "cardicon_prestige3"
+                    165 = "cardicon_prestige4"
+                    166 = "cardicon_prestige5"
+                    167 = "cardicon_prestige6"
+                    168 = "cardicon_prestige7"
+                    169 = "cardicon_prestige8"
+                    170 = "cardicon_prestige9"
+                    137 = "cardicon_price_ww2"
+                    139 = "cardicon_pricearctic"
+                    138 = "cardicon_pricewoodland"
+                    152 = "cardicon_pushingupdaisies"
+                    243 = "cardicon_pvt1"
+                    88 = "cardicon_radiation"
+                    66 = "cardicon_ranger_expert"
+                    65 = "cardicon_ranger_marksman"
+                    277 = "cardicon_rangers"
+                    149 = "cardicon_readhead"
+                    89 = "cardicon_redhand"
+                    112 = "cardicon_rhino"
+                    296 = "cardicon_riot_shield"
+                    271 = "cardicon_riotdeath"
+                    8 = "cardicon_rpd_expert"
+                    7 = "cardicon_rpd_marksman"
+                    6 = "cardicon_sa80_expert"
+                    5 = "cardicon_sa80_marksman"
+                    280 = "cardicon_sas"
+                    24 = "cardicon_scar_expert"
+                    23 = "cardicon_scar_marksman"
+                    222 = "cardicon_scavenger"
+                    232 = "cardicon_scrambler"
+                    278 = "cardicon_seals"
+                    81 = "cardicon_seasnipers"
+                    237 = "cardicon_semtex"
+                    209 = "cardicon_sentrygun"
+                    249 = "cardicon_sfc1"
+                    247 = "cardicon_sgt1"
+                    252 = "cardicon_sgtmaj1"
+                    132 = "cardicon_sheppard"
+                    302 = "cardicon_shotgun_shells"
+                    233 = "cardicon_sitrep"
+                    100 = "cardicon_skull"
+                    102 = "cardicon_skull_black"
+                    281 = "cardicon_skullaward"
+                    282 = "cardicon_skullnbones"
+                    221 = "cardicon_sleightofhand"
+                    157 = "cardicon_sniper"
+                    84 = "cardicon_sniperscope"
+                    98 = "cardicon_soap"
+                    62 = "cardicon_spas12_expert"
+                    61 = "cardicon_spas12_marksman"
+                    245 = "cardicon_spc1"
+                    90 = "cardicon_spetsnaz"
+                    248 = "cardicon_ssgt1"
+                    270 = "cardicon_stab"
+                    231 = "cardicon_steadyaim"
+                    215 = "cardicon_stealthkillstreak"
+                    121 = "cardicon_stop"
+                    225 = "cardicon_stoppingpower"
+                    56 = "cardicon_striker_expert"
+                    55 = "cardicon_striker_marksman"
+                    197 = "cardicon_sugarglider"
+                    239 = "cardicon_tacticalinsertion"
+                    218 = "cardicon_tacticalnuke"
+                    135 = "cardicon_taskforcearmy01"
+                    18 = "cardicon_tavor_expert"
+                    17 = "cardicon_tavor_marksman"
+                    194 = "cardicon_tennisracket"
+                    91 = "cardicon_tf141"
+                    290 = "cardicon_thebomb"
+                    118 = "cardicon_thecow"
+                    238 = "cardicon_throwingknife"
+                    285 = "cardicon_tictac"
+                    115 = "cardicon_tiger"
+                    125 = "cardicon_tire"
+                    50 = "cardicon_tmp_expert"
+                    49 = "cardicon_tmp_marksman"
+                    141 = "cardicon_toon_price_1"
+                    105 = "cardicon_treasurechest"
+                    106 = "cardicon_treasuremap"
+                    143 = "cardicon_tsuenami"
+                    186 = "cardicon_tsunami"
+                    206 = "cardicon_uav"
+                    92 = "cardicon_umbracatervae"
+                    36 = "cardicon_ump45_expert"
+                    35 = "cardicon_ump45_marksman"
+                    279 = "cardicon_usmc"
+                    70 = "cardicon_usp_expert"
+                    69 = "cardicon_usp_marksman"
+                    32 = "cardicon_uzi_expert"
+                    31 = "cardicon_uzi_marksman"
+                    46 = "cardicon_wa2000_expert"
+                    45 = "cardicon_wa2000_marksman"
+                    187 = "cardicon_warpig"
+                    295 = "cardicon_weed"
+                    101 = "cardicon_xray"
+            }
+            ENUM 3
+            {
+                entryCount = 571
+                reservedCount = 1024
+                entries:
+                    361 = "cardtitle_1bullet2kills"
+                    550 = "cardtitle_20"
+                    556 = "cardtitle_20a"
+                    6 = "cardtitle_2fast"
+                    551 = "cardtitle_30"
+                    557 = "cardtitle_30a"
+                    552 = "cardtitle_40"
+                    558 = "cardtitle_40a"
+                    553 = "cardtitle_50"
+                    559 = "cardtitle_50a"
+                    554 = "cardtitle_60"
+                    560 = "cardtitle_60a"
+                    463 = "cardtitle_6fears7"
+                    555 = "cardtitle_70"
+                    561 = "cardtitle_70a"
+                    187 = "cardtitle_aa12_expert"
+                    185 = "cardtitle_aa12_marksman"
+                    188 = "cardtitle_aa12_master"
+                    186 = "cardtitle_aa12_veteran"
+                    393 = "cardtitle_absenteekiller"
+                    480 = "cardtitle_ac130master"
+                    494 = "cardtitle_ac130veteran"
+                    309 = "cardtitle_accidentprone"
+                    451 = "cardtitle_afterburner"
+                    474 = "cardtitle_airstrikemaster"
+                    488 = "cardtitle_airstrikeveteran"
+                    336 = "cardtitle_airwolf"
+                    78 = "cardtitle_ak47_expert"
+                    76 = "cardtitle_ak47_marksman"
+                    79 = "cardtitle_ak47_master"
+                    75 = "cardtitle_ak47_sharpshooter"
+                    77 = "cardtitle_ak47_veteran"
+                    382 = "cardtitle_allpro"
+                    455 = "cardtitle_allyourbase"
+                    375 = "cardtitle_ambush"
+                    45 = "cardtitle_amplifier"
+                    378 = "cardtitle_anarchist"
+                    387 = "cardtitle_angelofdeath"
+                    17 = "cardtitle_armedanddangerous"
+                    31 = "cardtitle_armyof1"
+                    49 = "cardtitle_artofstealth"
+                    524 = "cardtitle_at4_expert"
+                    519 = "cardtitle_at4_marksman"
+                    534 = "cardtitle_at4_master"
+                    529 = "cardtitle_at4_veteran"
+                    53 = "cardtitle_aug_expert"
+                    51 = "cardtitle_aug_marksman"
+                    54 = "cardtitle_aug_master"
+                    50 = "cardtitle_aug_sharpshooter"
+                    52 = "cardtitle_aug_veteran"
+                    502 = "cardtitle_automator"
+                    318 = "cardtitle_avenger"
+                    409 = "cardtitle_backfire"
+                    567 = "cardtitle_backsmasher"
+                    400 = "cardtitle_backstabber"
+                    372 = "cardtitle_badaboom"
+                    433 = "cardtitle_bam"
+                    10 = "cardtitle_bandolier"
+                    158 = "cardtitle_barrett_expert"
+                    156 = "cardtitle_barrett_marksman"
+                    159 = "cardtitle_barrett_master"
+                    155 = "cardtitle_barrett_sharpshooter"
+                    157 = "cardtitle_barrett_veteran"
+                    462 = "cardtitle_behindenemy"
+                    175 = "cardtitle_beretta393_expert"
+                    173 = "cardtitle_beretta393_marksman"
+                    176 = "cardtitle_beretta393_master"
+                    174 = "cardtitle_beretta393_veteran"
+                    207 = "cardtitle_beretta_expert"
+                    205 = "cardtitle_beretta_marksman"
+                    208 = "cardtitle_beretta_master"
+                    206 = "cardtitle_beretta_veteran"
+                    449 = "cardtitle_bigbrother"
+                    443 = "cardtitle_biggertheyare"
+                    20 = "cardtitle_bitethebullet"
+                    320 = "cardtitle_blackout"
+                    481 = "cardtitle_blademaster"
+                    495 = "cardtitle_bladeveteran"
+                    410 = "cardtitle_blindfire"
+                    16 = "cardtitle_blingbling"
+                    424 = "cardtitle_bloodmoney"
+                    565 = "cardtitle_blunttrauma"
+                    306 = "cardtitle_bob"
+                    399 = "cardtitle_boilermaker"
+                    448 = "cardtitle_bombsaway"
+                    290 = "cardtitle_bombshell"
+                    377 = "cardtitle_boomboompow"
+                    366 = "cardtitle_boomheadshot"
+                    359 = "cardtitle_booyah"
+                    470 = "cardtitle_bountyhunter"
+                    304 = "cardtitle_bowdown"
+                    292 = "cardtitle_brokenarrow"
+                    569 = "cardtitle_bulletproof"
+                    347 = "cardtitle_bullseye"
+                    350 = "cardtitle_c4andafter"
+                    447 = "cardtitle_carpetbomber"
+                    340 = "cardtitle_catchshrapnel"
+                    148 = "cardtitle_cheytac_expert"
+                    146 = "cardtitle_cheytac_marksman"
+                    149 = "cardtitle_cheytac_master"
+                    145 = "cardtitle_cheytac_sharpshooter"
+                    147 = "cardtitle_cheytac_veteran"
+                    327 = "cardtitle_chickmagnet"
+                    479 = "cardtitle_choppermaster"
+                    493 = "cardtitle_chopperveteran"
+                    419 = "cardtitle_clayback"
+                    436 = "cardtitle_claypigeon"
+                    468 = "cardtitle_clickclickboom"
+                    356 = "cardtitle_cloakanddagger"
+                    25 = "cardtitle_closesupport"
+                    513 = "cardtitle_clusterbomb"
+                    324 = "cardtitle_cobracommander"
+                    516 = "cardtitle_cobrakai"
+                    506 = "cardtitle_coldsteel"
+                    219 = "cardtitle_coltanaconda_expert"
+                    217 = "cardtitle_coltanaconda_marksman"
+                    220 = "cardtitle_coltanaconda_master"
+                    218 = "cardtitle_coltanaconda_veteran"
+                    464 = "cardtitle_comfortablynumb"
+                    312 = "cardtitle_companioncrate"
+                    407 = "cardtitle_concussive"
+                    245 = "cardtitle_conquerer"
+                    240 = "cardtitle_continental"
+                    343 = "cardtitle_copperfield"
+                    43 = "cardtitle_counterintel"
+                    311 = "cardtitle_cr1zby"
+                    364 = "cardtitle_crackinskulls"
+                    14 = "cardtitle_dangerclose"
+                    352 = "cardtitle_darkbringer"
+                    24 = "cardtitle_deadline"
+                    39 = "cardtitle_deadmansswitch"
+                    284 = "cardtitle_deathfromabove"
+                    5 = "cardtitle_decathlete"
+                    0 = "cardtitle_default"
+                    446 = "cardtitle_denier"
+                    215 = "cardtitle_deserteagle_expert"
+                    213 = "cardtitle_deserteagle_marksman"
+                    216 = "cardtitle_deserteagle_master"
+                    214 = "cardtitle_deserteagle_veteran"
+                    229 = "cardtitle_destroyer"
+                    413 = "cardtitle_devastator"
+                    362 = "cardtitle_dictator"
+                    222 = "cardtitle_dishtherock"
+                    41 = "cardtitle_disruptor"
+                    505 = "cardtitle_doctor"
+                    431 = "cardtitle_dominofx"
+                    28 = "cardtitle_doubleagent"
+                    15 = "cardtitle_doubledown"
+                    305 = "cardtitle_drifter"
+                    384 = "cardtitle_dronekiller"
+                    297 = "cardtitle_droppincrates"
+                    411 = "cardtitle_duckhunter"
+                    40 = "cardtitle_dyingbreath"
+                    231 = "cardtitle_dzclear"
+                    2 = "cardtitle_earlydetection"
+                    329 = "cardtitle_endofline"
+                    380 = "cardtitle_enemybenefits"
+                    439 = "cardtitle_enemyofthestate"
+                    46 = "cardtitle_eod"
+                    445 = "cardtitle_epic"
+                    426 = "cardtitle_evildead"
+                    34 = "cardtitle_excalibur"
+                    293 = "cardtitle_explosiveordinance"
+                    367 = "cardtitle_faceoff"
+                    113 = "cardtitle_fal_expert"
+                    111 = "cardtitle_fal_marksman"
+                    114 = "cardtitle_fal_master"
+                    110 = "cardtitle_fal_sharpshooter"
+                    112 = "cardtitle_fal_veteran"
+                    118 = "cardtitle_famas_expert"
+                    116 = "cardtitle_famas_marksman"
+                    119 = "cardtitle_famas_master"
+                    115 = "cardtitle_famas_sharpshooter"
+                    117 = "cardtitle_famas_veteran"
+                    286 = "cardtitle_feared"
+                    394 = "cardtitle_finishingtouch"
+                    282 = "cardtitle_fired"
+                    232 = "cardtitle_fireforget"
+                    239 = "cardtitle_flag_australia"
+                    246 = "cardtitle_flag_austria"
+                    260 = "cardtitle_flag_belgium"
+                    250 = "cardtitle_flag_brazil"
+                    237 = "cardtitle_flag_canada"
+                    279 = "cardtitle_flag_china"
+                    263 = "cardtitle_flag_czech"
+                    269 = "cardtitle_flag_denmark"
+                    278 = "cardtitle_flag_elsalvador"
+                    261 = "cardtitle_flag_finland"
+                    253 = "cardtitle_flag_france"
+                    254 = "cardtitle_flag_germany"
+                    257 = "cardtitle_flag_greece"
+                    274 = "cardtitle_flag_hongkong"
+                    275 = "cardtitle_flag_india"
+                    280 = "cardtitle_flag_iran"
+                    259 = "cardtitle_flag_ireland"
+                    255 = "cardtitle_flag_italy"
+                    248 = "cardtitle_flag_japan"
+                    262 = "cardtitle_flag_luxemburg"
+                    243 = "cardtitle_flag_mexico"
+                    264 = "cardtitle_flag_netherlands"
+                    265 = "cardtitle_flag_newzealand"
+                    256 = "cardtitle_flag_norway"
+                    266 = "cardtitle_flag_philippines"
+                    267 = "cardtitle_flag_poland"
+                    268 = "cardtitle_flag_portugal"
+                    252 = "cardtitle_flag_russia"
+                    270 = "cardtitle_flag_saudiarabia"
+                    271 = "cardtitle_flag_singapore"
+                    272 = "cardtitle_flag_southafrica"
+                    273 = "cardtitle_flag_southkorea"
+                    244 = "cardtitle_flag_spain"
+                    258 = "cardtitle_flag_sweden"
+                    241 = "cardtitle_flag_swiss"
+                    276 = "cardtitle_flag_taiwan"
+                    235 = "cardtitle_flag_uk"
+                    277 = "cardtitle_flag_united_arab_emirates"
+                    233 = "cardtitle_flag_united_states"
+                    511 = "cardtitle_flasher"
+                    484 = "cardtitle_flashmaster"
+                    498 = "cardtitle_flashveteran"
+                    425 = "cardtitle_flatliner"
+                    223 = "cardtitle_flyswatter"
+                    98 = "cardtitle_fn2000_expert"
+                    96 = "cardtitle_fn2000_marksman"
+                    99 = "cardtitle_fn2000_master"
+                    95 = "cardtitle_fn2000_sharpshooter"
+                    97 = "cardtitle_fn2000_veteran"
+                    236 = "cardtitle_fng"
+                    355 = "cardtitle_fragout"
+                    4 = "cardtitle_freerunner"
+                    440 = "cardtitle_friendswith"
+                    29 = "cardtitle_fullarsenal"
+                    12 = "cardtitle_fullforce"
+                    335 = "cardtitle_fullthrottle"
+                    337 = "cardtitle_gambler"
+                    453 = "cardtitle_gat"
+                    373 = "cardtitle_genocidal"
+                    225 = "cardtitle_getreal"
+                    358 = "cardtitle_gettothechoppa"
+                    563 = "cardtitle_ghilliemist"
+                    307 = "cardtitle_ghostrider"
+                    295 = "cardtitle_givinstatic"
+                    456 = "cardtitle_globalthermo"
+                    167 = "cardtitle_glock_expert"
+                    165 = "cardtitle_glock_marksman"
+                    168 = "cardtitle_glock_master"
+                    166 = "cardtitle_glock_veteran"
+                    517 = "cardtitle_godhand"
+                    562 = "cardtitle_grassyknoll"
+                    238 = "cardtitle_greatwhite"
+                    323 = "cardtitle_grimreaper"
+                    7 = "cardtitle_hairtrigger"
+                    432 = "cardtitle_halfbaked"
+                    512 = "cardtitle_handsfree"
+                    299 = "cardtitle_harcoreonly"
+                    444 = "cardtitle_harderthey"
+                    383 = "cardtitle_hardtarget"
+                    38 = "cardtitle_hardtokill"
+                    475 = "cardtitle_harriermaster"
+                    489 = "cardtitle_harrierveteran"
+                    368 = "cardtitle_headrush"
+                    500 = "cardtitle_headsup"
+                    402 = "cardtitle_heart"
+                    42 = "cardtitle_heartbreaker"
+                    476 = "cardtitle_helimaster"
+                    490 = "cardtitle_heliveteran"
+                    388 = "cardtitle_hidef"
+                    18 = "cardtitle_highcaliber"
+                    379 = "cardtitle_highlander"
+                    469 = "cardtitle_hijacker"
+                    428 = "cardtitle_hiredgun"
+                    283 = "cardtitle_hotshot"
+                    430 = "cardtitle_howthe"
+                    438 = "cardtitle_iceman"
+                    422 = "cardtitle_idthief"
+                    32 = "cardtitle_impaler"
+                    416 = "cardtitle_imrich"
+                    507 = "cardtitle_inciser"
+                    459 = "cardtitle_infected"
+                    302 = "cardtitle_intergalactic"
+                    434 = "cardtitle_invincible"
+                    26 = "cardtitle_invisible"
+                    36 = "cardtitle_ironlungs"
+                    230 = "cardtitle_its_sabotage"
+                    354 = "cardtitle_itspersonal"
+                    342 = "cardtitle_jackinthebox"
+                    525 = "cardtitle_javelin_expert"
+                    520 = "cardtitle_javelin_marksman"
+                    535 = "cardtitle_javelin_master"
+                    530 = "cardtitle_javelin_veteran"
+                    317 = "cardtitle_jointops"
+                    321 = "cardtitle_jollygreen"
+                    346 = "cardtitle_juggernaut"
+                    296 = "cardtitle_jumpjet"
+                    19 = "cardtitle_kfactor"
+                    461 = "cardtitle_klepto"
+                    133 = "cardtitle_kriss_expert"
+                    131 = "cardtitle_kriss_marksman"
+                    134 = "cardtitle_kriss_master"
+                    130 = "cardtitle_kriss_sharpshooter"
+                    132 = "cardtitle_kriss_veteran"
+                    391 = "cardtitle_lastresort"
+                    482 = "cardtitle_laststandmaster"
+                    496 = "cardtitle_laststandveteran"
+                    441 = "cardtitle_legend"
+                    408 = "cardtitle_lightsout"
+                    435 = "cardtitle_livelong"
+                    466 = "cardtitle_livingdead"
+                    224 = "cardtitle_lonewolf"
+                    300 = "cardtitle_lowprofile"
+                    191 = "cardtitle_m1014_expert"
+                    189 = "cardtitle_m1014_marksman"
+                    192 = "cardtitle_m1014_master"
+                    190 = "cardtitle_m1014_veteran"
+                    88 = "cardtitle_m16_expert"
+                    86 = "cardtitle_m16_marksman"
+                    89 = "cardtitle_m16_master"
+                    85 = "cardtitle_m16_sharpshooter"
+                    87 = "cardtitle_m16_veteran"
+                    153 = "cardtitle_m21_expert"
+                    151 = "cardtitle_m21_marksman"
+                    154 = "cardtitle_m21_master"
+                    150 = "cardtitle_m21_sharpshooter"
+                    152 = "cardtitle_m21_veteran"
+                    58 = "cardtitle_m240_expert"
+                    56 = "cardtitle_m240_marksman"
+                    59 = "cardtitle_m240_master"
+                    55 = "cardtitle_m240_sharpshooter"
+                    57 = "cardtitle_m240_veteran"
+                    103 = "cardtitle_m4_expert"
+                    101 = "cardtitle_m4_marksman"
+                    104 = "cardtitle_m4_master"
+                    100 = "cardtitle_m4_sharpshooter"
+                    102 = "cardtitle_m4_veteran"
+                    526 = "cardtitle_m79_expert"
+                    521 = "cardtitle_m79_marksman"
+                    536 = "cardtitle_m79_master"
+                    531 = "cardtitle_m79_veteran"
+                    369 = "cardtitle_mach5"
+                    294 = "cardtitle_madbomber"
+                    421 = "cardtitle_madman"
+                    418 = "cardtitle_makeitrain"
+                    465 = "cardtitle_martyr"
+                    83 = "cardtitle_masada_expert"
+                    81 = "cardtitle_masada_marksman"
+                    84 = "cardtitle_masada_master"
+                    80 = "cardtitle_masada_sharpshooter"
+                    82 = "cardtitle_masada_veteran"
+                    429 = "cardtitle_mastatdon"
+                    345 = "cardtitle_masterblaster"
+                    341 = "cardtitle_mastermind"
+                    73 = "cardtitle_mg4_expert"
+                    71 = "cardtitle_mg4_marksman"
+                    74 = "cardtitle_mg4_master"
+                    70 = "cardtitle_mg4_sharpshooter"
+                    72 = "cardtitle_mg4_veteran"
+                    199 = "cardtitle_model1887_expert"
+                    197 = "cardtitle_model1887_marksman"
+                    200 = "cardtitle_model1887_master"
+                    198 = "cardtitle_model1887_veteran"
+                    417 = "cardtitle_moneyshot"
+                    123 = "cardtitle_mp5k_expert"
+                    121 = "cardtitle_mp5k_marksman"
+                    124 = "cardtitle_mp5k_master"
+                    120 = "cardtitle_mp5k_sharpshooter"
+                    122 = "cardtitle_mp5k_veteran"
+                    414 = "cardtitle_mvpassassin"
+                    357 = "cardtitle_mylilpwny"
+                    381 = "cardtitle_nbk"
+                    242 = "cardtitle_neutral"
+                    423 = "cardtitle_newjack"
+                    33 = "cardtitle_ninja"
+                    471 = "cardtitle_no"
+                    303 = "cardtitle_nohands"
+                    403 = "cardtitle_noobtuber"
+                    370 = "cardtitle_notintheface"
+                    395 = "cardtitle_og"
+                    405 = "cardtitle_omfg"
+                    412 = "cardtitle_omnicide"
+                    332 = "cardtitle_omnipotent"
+                    8 = "cardtitle_oneinchpunch"
+                    226 = "cardtitle_overwatch"
+                    397 = "cardtitle_owned"
+                    143 = "cardtitle_p90_expert"
+                    141 = "cardtitle_p90_marksman"
+                    144 = "cardtitle_p90_master"
+                    140 = "cardtitle_p90_sharpshooter"
+                    142 = "cardtitle_p90_veteran"
+                    374 = "cardtitle_partinggift"
+                    23 = "cardtitle_pathfinder"
+                    234 = "cardtitle_patriot"
+                    477 = "cardtitle_pavelowmaster"
+                    491 = "cardtitle_pavelowveteran"
+                    371 = "cardtitle_perfectionist"
+                    392 = "cardtitle_philanthropist"
+                    508 = "cardtitle_phoenixrising"
+                    339 = "cardtitle_pineappleexpress"
+                    376 = "cardtitle_pinpuller"
+                    460 = "cardtitle_plague"
+                    333 = "cardtitle_planewhisperer"
+                    349 = "cardtitle_plasticman"
+                    365 = "cardtitle_popoff"
+                    179 = "cardtitle_pp2000_expert"
+                    177 = "cardtitle_pp2000_marksman"
+                    180 = "cardtitle_pp2000_master"
+                    178 = "cardtitle_pp2000_veteran"
+                    501 = "cardtitle_predator"
+                    473 = "cardtitle_predatormaster"
+                    487 = "cardtitle_predatorveteran"
+                    287 = "cardtitle_preemptive"
+                    540 = "cardtitle_prestige1"
+                    549 = "cardtitle_prestige10"
+                    541 = "cardtitle_prestige2"
+                    542 = "cardtitle_prestige3"
+                    543 = "cardtitle_prestige4"
+                    544 = "cardtitle_prestige5"
+                    545 = "cardtitle_prestige6"
+                    546 = "cardtitle_prestige7"
+                    547 = "cardtitle_prestige8"
+                    548 = "cardtitle_prestige9"
+                    568 = "cardtitle_protectserve"
+                    289 = "cardtitle_publicenemy"
+                    314 = "cardtitle_pushindaisy"
+                    281 = "cardtitle_pyro"
+                    30 = "cardtitle_quickchange"
+                    427 = "cardtitle_quickdraw"
+                    326 = "cardtitle_rainoffire"
+                    203 = "cardtitle_ranger_expert"
+                    201 = "cardtitle_ranger_marksman"
+                    204 = "cardtitle_ranger_master"
+                    202 = "cardtitle_ranger_veteran"
+                    22 = "cardtitle_readyfire"
+                    251 = "cardtitle_redeemer"
+                    514 = "cardtitle_rejected"
+                    9 = "cardtitle_reloaded"
+                    437 = "cardtitle_reversaloffortune"
+                    564 = "cardtitle_rezero"
+                    249 = "cardtitle_risingsun"
+                    404 = "cardtitle_rival"
+                    420 = "cardtitle_robinhood"
+                    334 = "cardtitle_rollingthunder"
+                    68 = "cardtitle_rpd_expert"
+                    66 = "cardtitle_rpd_marksman"
+                    69 = "cardtitle_rpd_master"
+                    65 = "cardtitle_rpd_sharpshooter"
+                    67 = "cardtitle_rpd_veteran"
+                    527 = "cardtitle_rpg_expert"
+                    522 = "cardtitle_rpg_marksman"
+                    537 = "cardtitle_rpg_master"
+                    532 = "cardtitle_rpg_veteran"
+                    63 = "cardtitle_sa80_expert"
+                    61 = "cardtitle_sa80_marksman"
+                    64 = "cardtitle_sa80_master"
+                    60 = "cardtitle_sa80_sharpshooter"
+                    62 = "cardtitle_sa80_veteran"
+                    338 = "cardtitle_santaclaus"
+                    457 = "cardtitle_sbd"
+                    108 = "cardtitle_scar_expert"
+                    106 = "cardtitle_scar_marksman"
+                    109 = "cardtitle_scar_master"
+                    105 = "cardtitle_scar_sharpshooter"
+                    107 = "cardtitle_scar_veteran"
+                    472 = "cardtitle_sentrymaster"
+                    486 = "cardtitle_sentryveteran"
+                    319 = "cardtitle_sharepackage"
+                    510 = "cardtitle_shockandawe"
+                    221 = "cardtitle_shotdown"
+                    503 = "cardtitle_shotover"
+                    467 = "cardtitle_sidekick"
+                    301 = "cardtitle_sigint"
+                    483 = "cardtitle_silencermaster"
+                    497 = "cardtitle_silencerveteran"
+                    351 = "cardtitle_silentknight"
+                    47 = "cardtitle_silentstrike"
+                    515 = "cardtitle_skycaptain"
+                    566 = "cardtitle_smashhit"
+                    13 = "cardtitle_sonicboom"
+                    195 = "cardtitle_spas12_expert"
+                    193 = "cardtitle_spas12_marksman"
+                    196 = "cardtitle_spas12_master"
+                    194 = "cardtitle_spas12_veteran"
+                    325 = "cardtitle_spectre"
+                    21 = "cardtitle_speeddemon"
+                    322 = "cardtitle_spirit"
+                    316 = "cardtitle_sprayandpray"
+                    48 = "cardtitle_spygame"
+                    310 = "cardtitle_squawkbox"
+                    539 = "cardtitle_ssdd"
+                    328 = "cardtitle_starfishprime"
+                    478 = "cardtitle_stealthmaster"
+                    492 = "cardtitle_stealthveteran"
+                    37 = "cardtitle_steelnerves"
+                    285 = "cardtitle_steelreign"
+                    390 = "cardtitle_stickman"
+                    528 = "cardtitle_stinger_expert"
+                    523 = "cardtitle_stinger_marksman"
+                    538 = "cardtitle_stinger_master"
+                    533 = "cardtitle_stinger_veteran"
+                    313 = "cardtitle_straightup"
+                    360 = "cardtitle_streaker"
+                    183 = "cardtitle_striker_expert"
+                    181 = "cardtitle_striker_marksman"
+                    184 = "cardtitle_striker_master"
+                    182 = "cardtitle_striker_veteran"
+                    504 = "cardtitle_stringfellow"
+                    348 = "cardtitle_stuckonyou"
+                    401 = "cardtitle_stungun"
+                    485 = "cardtitle_stunmaster"
+                    499 = "cardtitle_stunveteran"
+                    298 = "cardtitle_submittoauthority"
+                    509 = "cardtitle_suppressor"
+                    35 = "cardtitle_sureshot"
+                    363 = "cardtitle_surgical"
+                    308 = "cardtitle_survivor"
+                    353 = "cardtitle_tacticaldeletion"
+                    398 = "cardtitle_tagyoureit"
+                    344 = "cardtitle_takeastab"
+                    227 = "cardtitle_tangodown"
+                    93 = "cardtitle_tavor_expert"
+                    91 = "cardtitle_tavor_marksman"
+                    94 = "cardtitle_tavor_master"
+                    90 = "cardtitle_tavor_sharpshooter"
+                    92 = "cardtitle_tavor_veteran"
+                    228 = "cardtitle_teamplayer"
+                    396 = "cardtitle_technokiller"
+                    247 = "cardtitle_terminator"
+                    291 = "cardtitle_thabomb"
+                    1 = "cardtitle_theextreme"
+                    454 = "cardtitle_theripper"
+                    406 = "cardtitle_thinkfast"
+                    415 = "cardtitle_timeismoney"
+                    288 = "cardtitle_timeontarget"
+                    171 = "cardtitle_tmp_expert"
+                    169 = "cardtitle_tmp_marksman"
+                    172 = "cardtitle_tmp_master"
+                    170 = "cardtitle_tmp_veteran"
+                    452 = "cardtitle_topgun"
+                    458 = "cardtitle_toxicavenger"
+                    3 = "cardtitle_trackstar"
+                    386 = "cardtitle_transformer"
+                    385 = "cardtitle_truelies"
+                    27 = "cardtitle_uavjammer"
+                    450 = "cardtitle_uavrays"
+                    138 = "cardtitle_ump45_expert"
+                    136 = "cardtitle_ump45_marksman"
+                    139 = "cardtitle_ump45_master"
+                    135 = "cardtitle_ump45_sharpshooter"
+                    137 = "cardtitle_ump45_veteran"
+                    389 = "cardtitle_unbelievable"
+                    570 = "cardtitle_unbreakable"
+                    518 = "cardtitle_unseen"
+                    211 = "cardtitle_usp_expert"
+                    209 = "cardtitle_usp_marksman"
+                    212 = "cardtitle_usp_master"
+                    210 = "cardtitle_usp_veteran"
+                    128 = "cardtitle_uzi_expert"
+                    126 = "cardtitle_uzi_marksman"
+                    129 = "cardtitle_uzi_master"
+                    125 = "cardtitle_uzi_sharpshooter"
+                    127 = "cardtitle_uzi_veteran"
+                    315 = "cardtitle_voyeur"
+                    11 = "cardtitle_vulture"
+                    163 = "cardtitle_wa2000_expert"
+                    161 = "cardtitle_wa2000_marksman"
+                    164 = "cardtitle_wa2000_master"
+                    160 = "cardtitle_wa2000_sharpshooter"
+                    162 = "cardtitle_wa2000_veteran"
+                    442 = "cardtitle_wargasm"
+                    331 = "cardtitle_watchman"
+                    330 = "cardtitle_wopr"
+                    44 = "cardtitle_xrayvision"
+            }
+            ENUM 4
+            {
+                entryCount = 2
+                reservedCount = 2
+                entries:
+                    0 = "cardnameplate_default"
+                    1 = "cardnameplate_test"
+            }
+            ENUM 5
+            {
+                entryCount = 9
+                reservedCount = 9
+                entries:
+                    7 = "arena"
+                    8 = "ctf"
+                    0 = "dm"
+                    4 = "dom"
+                    2 = "dsd"
+                    5 = "koth"
+                    6 = "oneflag"
+                    3 = "sab"
+                    1 = "tdm"
+            }
+        }
+        STRUCTS 2
+        {
+            STRUCT 0 size=0 bitOffset=0
+            {
+                PROPERTY 0
+                {
+                    name = "accuracy"
+                    offset = 1004
+type = int
+                }
+                PROPERTY 1
+                {
+                    name = "assists"
+                    offset = 928
+type = int
+                }
+                PROPERTY 2
+                {
+                    name = "awards"
+                    offset = 8
+type = enum_array
+enumArrayIndex = 0
+                }
+                PROPERTY 3
+                {
+                    name = "bests"
+                    offset = 456
+type = enum_array
+enumArrayIndex = 1
+                }
+                PROPERTY 4
+                {
+                    name = "cardIcon"
+                    offset = 1488
+type = enum
+enumIndex = 2
+                }
+                PROPERTY 5
+                {
+                    name = "cardNameplate"
+                    offset = 1492
+type = enum
+enumIndex = 4
+                }
+                PROPERTY 6
+                {
+                    name = "cardTitle"
+                    offset = 1490
+type = enum
+enumIndex = 3
+                }
+                PROPERTY 7
+                {
+                    name = "challengeProgress"
+                    offset = 1104
+type = enum_array
+enumArrayIndex = 3
+                }
+                PROPERTY 8
+                {
+                    name = "challengeState"
+                    offset = 1008
+type = enum_array
+enumArrayIndex = 2
+                }
+                PROPERTY 9
+                {
+                    name = "checkpoints"
+                    offset = 932
+type = int
+                }
+                PROPERTY 10
+                {
+                    name = "currentWinStreak"
+                    offset = 984
+type = int
+                }
+                PROPERTY 11
+                {
+                    name = "deathStreak"
+                    offset = 924
+type = int
+                }
+                PROPERTY 12
+                {
+                    name = "deaths"
+                    offset = 920
+type = int
+                }
+                PROPERTY 13
+                {
+                    name = "headshots"
+                    offset = 936
+type = int
+                }
+                PROPERTY 14
+                {
+                    name = "hits"
+                    offset = 992
+type = int
+                }
+                PROPERTY 15
+                {
+                    name = "iconNew"
+                    offset = 1494
+type = enum_array
+enumArrayIndex = 4
+                }
+                PROPERTY 16
+                {
+                    name = "iconUnlocked"
+                    offset = 1750
+type = enum_array
+enumArrayIndex = 6
+                }
+                PROPERTY 17
+                {
+                    name = "kdRatio"
+                    offset = 964
+type = int
+                }
+                PROPERTY 18
+                {
+                    name = "killStreak"
+                    offset = 916
+type = int
+                }
+                PROPERTY 19
+                {
+                    name = "kills"
+                    offset = 912
+type = int
+                }
+                PROPERTY 20
+                {
+                    name = "losses"
+                    offset = 972
+type = int
+                }
+                PROPERTY 21
+                {
+                    name = "misses"
+                    offset = 996
+type = int
+                }
+                PROPERTY 22
+                {
+                    name = "prestige"
+                    offset = 904
+type = int
+                }
+                PROPERTY 23
+                {
+                    name = "score"
+                    offset = 908
+type = int
+                }
+                PROPERTY 24
+                {
+                    name = "skills"
+                    offset = 2006
+type = enum_array
+enumArrayIndex = 8
+                }
+                PROPERTY 25
+                {
+                    name = "suicides"
+                    offset = 944
+type = int
+                }
+                PROPERTY 26
+                {
+                    name = "teamkills"
+                    offset = 940
+type = int
+                }
+                PROPERTY 27
+                {
+                    name = "ties"
+                    offset = 976
+type = int
+                }
+                PROPERTY 28
+                {
+                    name = "timePlayedAllies"
+                    offset = 948
+type = int
+                }
+                PROPERTY 29
+                {
+                    name = "timePlayedOpfor"
+                    offset = 952
+type = int
+                }
+                PROPERTY 30
+                {
+                    name = "timePlayedOther"
+                    offset = 956
+type = int
+                }
+                PROPERTY 31
+                {
+                    name = "timePlayedTotal"
+                    offset = 960
+type = int
+                }
+                PROPERTY 32
+                {
+                    name = "titleNew"
+                    offset = 1622
+type = enum_array
+enumArrayIndex = 5
+                }
+                PROPERTY 33
+                {
+                    name = "titleUnlocked"
+                    offset = 1878
+type = enum_array
+enumArrayIndex = 7
+                }
+                PROPERTY 34
+                {
+                    name = "totalShots"
+                    offset = 1000
+type = int
+                }
+                PROPERTY 35
+                {
+                    name = "winLossRatio"
+                    offset = 988
+type = int
+                }
+                PROPERTY 36
+                {
+                    name = "winStreak"
+                    offset = 980
+type = int
+                }
+                PROPERTY 37
+                {
+                    name = "wins"
+                    offset = 968
+type = int
+                }
+            }
+            STRUCT 1 size=6 bitOffset=0
+            {
+                PROPERTY 0
+                {
+                    name = "award"
+                    offset = 0
+type = enum
+enumIndex = 1
+                }
+                PROPERTY 1
+                {
+                    name = "value"
+                    offset = 2
+type = int
+                }
+            }
+        }
+        INDEXED_ARRAYS 0
+        {
+        }
+        ENUMED_ARRAYS 9
+        {
+            ENUMED_ARRAY 0
+            {
+                enumIndex = 1
+type = int
+                elementSize = 4
+            }
+            ENUMED_ARRAY 1
+            {
+                enumIndex = 1
+type = int
+                elementSize = 4
+            }
+            ENUMED_ARRAY 2
+            {
+                enumIndex = 0
+type = byte
+                elementSize = 1
+            }
+            ENUMED_ARRAY 3
+            {
+                enumIndex = 0
+type = int
+                elementSize = 4
+            }
+            ENUMED_ARRAY 4
+            {
+                enumIndex = 2
+type = bool
+                elementSize = 1
+            }
+            ENUMED_ARRAY 5
+            {
+                enumIndex = 3
+type = bool
+                elementSize = 1
+            }
+            ENUMED_ARRAY 6
+            {
+                enumIndex = 2
+type = bool
+                elementSize = 1
+            }
+            ENUMED_ARRAY 7
+            {
+                enumIndex = 3
+type = bool
+                elementSize = 1
+            }
+            ENUMED_ARRAY 8
+            {
+                enumIndex = 5
+type = short
+                elementSize = 2
+            }
+        }
+        ROOT_TYPE
+        {
+type = struct
+structIndex = 0
+        }
+        SIZE = 2024
+    }
+}

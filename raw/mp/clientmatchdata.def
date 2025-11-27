@@ -1,0 +1,343 @@
+STRUCTURED_DATA_DEF_SET mp/clientmatchdata.def
+{
+    DEF 0
+    {
+        version = 20
+        checksum = 0x72fb4079
+        ENUMS 4
+        {
+            ENUM 0
+            {
+                entryCount = 112
+                reservedCount = 112
+                entries:
+                    47 = "adskills"
+                    93 = "afk"
+                    15 = "airstrikes"
+                    35 = "arheadshots"
+                    28 = "arkills"
+                    6 = "assists"
+                    43 = "avengekills"
+                    101 = "bombcarrierkills"
+                    103 = "bombscarried"
+                    99 = "bombsdefused"
+                    98 = "bombsplanted"
+                    41 = "bulletpenkills"
+                    23 = "c4kills"
+                    7 = "checkpoints"
+                    25 = "claymorekills"
+                    82 = "closertoenemies"
+                    67 = "comebacks"
+                    65 = "crouchtime"
+                    3 = "damagedone"
+                    4 = "damagetaken"
+                    12 = "deaths"
+                    59 = "deathstreak"
+                    63 = "distancetraveled"
+                    40 = "equipmentkills"
+                    85 = "explosionssurvived"
+                    87 = "fbhits"
+                    11 = "finalkill"
+                    110 = "flagcarrierkills"
+                    107 = "flagscaptured"
+                    109 = "flagscarried"
+                    108 = "flagsreturned"
+                    21 = "flankdeaths"
+                    20 = "flankkills"
+                    22 = "fragkills"
+                    76 = "greatestavgalt"
+                    9 = "grenadekills"
+                    2 = "headshots"
+                    16 = "helicopters"
+                    46 = "higherrankkills"
+                    55 = "highlander"
+                    48 = "hipfirekills"
+                    105 = "hqscaptured"
+                    106 = "hqsdestroyed"
+                    92 = "kdratio"
+                    56 = "kdratio10"
+                    70 = "killcamskipped"
+                    69 = "killcamtimewatched"
+                    61 = "killedotherteam"
+                    62 = "killedotherteamonelife"
+                    80 = "killedsameplayer"
+                    13 = "kills"
+                    102 = "killsasbombcarrier"
+                    111 = "killsasflagcarrier"
+                    78 = "killsteals"
+                    1 = "killstreak"
+                    5 = "knifekills"
+                    50 = "laststanderkills"
+                    49 = "laststandkills"
+                    77 = "leastavgalt"
+                    37 = "lmgheadshots"
+                    31 = "lmgkills"
+                    68 = "longestlife"
+                    45 = "longshots"
+                    51 = "lowerrankkills"
+                    75 = "mostcamperkills"
+                    83 = "mostclasseschanged"
+                    79 = "mostff"
+                    60 = "mostmultikills"
+                    71 = "mostreloads"
+                    73 = "mostshotsfired"
+                    72 = "mostswaps"
+                    84 = "mosttacprevented"
+                    81 = "mostweaponsused"
+                    10 = "multikill"
+                    17 = "mvp"
+                    57 = "noawards"
+                    58 = "noflankdeaths"
+                    0 = "none"
+                    52 = "otherweaponkills"
+                    18 = "overkill"
+                    94 = "participant"
+                    33 = "pistolheadshots"
+                    8 = "pistolkills"
+                    104 = "pointscaptured"
+                    66 = "pronetime"
+                    39 = "punisher"
+                    44 = "rescues"
+                    42 = "revengekills"
+                    29 = "rocketkills"
+                    89 = "scopedkills"
+                    24 = "semtexkills"
+                    86 = "shieldblocks"
+                    96 = "shielddeaths"
+                    95 = "shieldkills"
+                    54 = "shortestlife"
+                    53 = "shotgundeaths"
+                    36 = "shotgunheadshots"
+                    30 = "shotgunkills"
+                    34 = "smgheadshots"
+                    27 = "smgkills"
+                    38 = "sniperheadshots"
+                    32 = "sniperkills"
+                    64 = "sprinttime"
+                    88 = "stunhits"
+                    19 = "suicides"
+                    100 = "targetsdestroyed"
+                    90 = "thermalkills"
+                    97 = "throwbacks"
+                    26 = "throwingknifekills"
+                    91 = "thumperkills"
+                    74 = "timeinspot"
+                    14 = "uavs"
+            }
+            ENUM 1
+            {
+                entryCount = 23
+                reservedCount = 23
+                entries:
+                    7 = "militia"
+                    0 = "none"
+                    21 = "nx_ec"
+                    19 = "nx_ec_army"
+                    15 = "nx_ec_pres"
+                    13 = "nx_ec_space"
+                    17 = "nx_ec_specops"
+                    22 = "nx_us"
+                    18 = "nx_us_army"
+                    14 = "nx_us_pres"
+                    12 = "nx_us_space"
+                    16 = "nx_us_specops"
+                    20 = "nx_us_ss"
+                    6 = "opforce_airborne"
+                    5 = "opforce_arctic"
+                    2 = "opforce_composite"
+                    3 = "seals_udt"
+                    4 = "secret_service"
+                    8 = "socom_141"
+                    10 = "socom_141_arctic"
+                    11 = "socom_141_desert"
+                    9 = "socom_141_forest"
+                    1 = "us_army"
+            }
+            ENUM 2
+            {
+                entryCount = 13
+                reservedCount = 13
+                entries:
+                    3 = "allies"
+                    2 = "axis"
+                    0 = "none"
+                    1 = "spectator"
+                    4 = "team_0"
+                    5 = "team_1"
+                    6 = "team_2"
+                    7 = "team_3"
+                    8 = "team_4"
+                    9 = "team_5"
+                    10 = "team_6"
+                    11 = "team_7"
+                    12 = "team_8"
+            }
+            ENUM 3
+            {
+                entryCount = 6
+                reservedCount = 6
+                entries:
+                    2 = "allies"
+                    3 = "axis"
+                    5 = "escort"
+                    4 = "multiteam"
+                    1 = "neutral"
+                    0 = "none"
+            }
+        }
+        STRUCTS 3
+        {
+            STRUCT 0 size=0 bitOffset=0
+            {
+                PROPERTY 0
+                {
+                    name = "highlightCount"
+                    offset = 692
+type = byte
+                }
+                PROPERTY 1
+                {
+                    name = "highlights"
+                    offset = 693
+type = indexed_array
+indexedArrayIndex = 1
+                }
+                PROPERTY 2
+                {
+                    name = "players"
+                    offset = 8
+type = indexed_array
+indexedArrayIndex = 0
+                }
+                PROPERTY 3
+                {
+                    name = "scoreboardPlayerCount"
+                    offset = 819
+type = byte
+                }
+                PROPERTY 4
+                {
+                    name = "scoreboards"
+                    offset = 820
+type = enum_array
+enumArrayIndex = 0
+                }
+            }
+            STRUCT 1 size=7 bitOffset=0
+            {
+                PROPERTY 0
+                {
+                    name = "award"
+                    offset = 0
+type = enum
+enumIndex = 0
+                }
+                PROPERTY 1
+                {
+                    name = "clientId"
+                    offset = 2
+type = byte
+                }
+                PROPERTY 2
+                {
+                    name = "value"
+                    offset = 3
+type = int
+                }
+            }
+            STRUCT 2 size=38 bitOffset=0
+            {
+                PROPERTY 0
+                {
+                    name = "assists"
+                    offset = 28
+type = short
+                }
+                PROPERTY 1
+                {
+                    name = "checkpoints"
+                    offset = 30
+type = short
+                }
+                PROPERTY 2
+                {
+                    name = "deaths"
+                    offset = 32
+type = short
+                }
+                PROPERTY 3
+                {
+                    name = "faction"
+                    offset = 34
+type = enum
+enumIndex = 1
+                }
+                PROPERTY 4
+                {
+                    name = "kills"
+                    offset = 26
+type = short
+                }
+                PROPERTY 5
+                {
+                    name = "score"
+                    offset = 22
+type = int
+                }
+                PROPERTY 6
+                {
+                    name = "team"
+                    offset = 36
+type = enum
+enumIndex = 2
+                }
+                PROPERTY 7
+                {
+                    name = "xuid"
+                    offset = 0
+type = string
+stringLength = 22
+                }
+            }
+        }
+        INDEXED_ARRAYS 3
+        {
+            INDEXED_ARRAY 0
+            {
+                size = 18
+type = struct
+structIndex = 2
+                elementSize = 38
+            }
+            INDEXED_ARRAY 1
+            {
+                size = 18
+type = struct
+structIndex = 1
+                elementSize = 7
+            }
+            INDEXED_ARRAY 2
+            {
+                size = 18
+type = byte
+                elementSize = 1
+            }
+        }
+        ENUMED_ARRAYS 1
+        {
+            ENUMED_ARRAY 0
+            {
+                enumIndex = 3
+type = indexed_array
+indexedArrayIndex = 2
+                elementSize = 18
+            }
+        }
+        ROOT_TYPE
+        {
+type = struct
+structIndex = 0
+        }
+        SIZE = 928
+    }
+}
