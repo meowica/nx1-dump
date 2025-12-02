@@ -1,0 +1,48 @@
+{
+  "name": "LB_JEEPRIDE",
+  "id": 21,
+  "columnCount": 3,
+  "xpColId": -1,
+  "prestigeColId": -1,
+  "columns": [
+    {
+      "name": "Rank",
+      "id": 65535,
+      "propertyId": 268468225,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Gamer Name",
+      "id": 65533,
+      "propertyId": 1073774594,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Score",
+      "id": 65534,
+      "propertyId": 536870971,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "MAX",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    }
+  ]
+}

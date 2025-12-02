@@ -1,0 +1,100 @@
+{
+  "name": "LB_KILLS_MONTH",
+  "id": 8,
+  "columnCount": 7,
+  "xpColId": 3,
+  "prestigeColId": 4,
+  "columns": [
+    {
+      "name": "Rank",
+      "id": 65535,
+      "propertyId": 268468225,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Prestige Level",
+      "id": 4,
+      "propertyId": 268435494,
+      "hidden": false,
+      "statName": "prestige",
+      "type": "PRESTIGE",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 1.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Total XP",
+      "id": 3,
+      "propertyId": 536870945,
+      "hidden": false,
+      "statName": "experience",
+      "type": "LEVELXP",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Gamer Name",
+      "id": 65533,
+      "propertyId": 1073774594,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Kills",
+      "id": 65534,
+      "propertyId": 536870949,
+      "hidden": false,
+      "statName": "round kills",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "SUM",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Deaths",
+      "id": 1,
+      "propertyId": 268435459,
+      "hidden": false,
+      "statName": "round deaths",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "SUM",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Kill Streak",
+      "id": 2,
+      "propertyId": 268435483,
+      "hidden": false,
+      "statName": "round killStreak",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "MAX",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "LB_SKILL_PLAYLIST5",
+  "id": -131067,
+  "columnCount": 6,
+  "xpColId": -1,
+  "prestigeColId": -1,
+  "columns": [
+    {
+      "name": "RANK",
+      "id": 65535,
+      "propertyId": 0,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "GAMERNAME",
+      "id": 65533,
+      "propertyId": 0,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "SIGMA",
+      "id": 64,
+      "propertyId": 0,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 3,
+      "agg": "LAST",
+      "default": 0.3000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "MU",
+      "id": 63,
+      "propertyId": 0,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 3,
+      "agg": "LAST",
+      "default": 0.3000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "GAMESPLAYED",
+      "id": 62,
+      "propertyId": 0,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "SKILL",
+      "id": 61,
+      "propertyId": 0,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    }
+  ]
+}

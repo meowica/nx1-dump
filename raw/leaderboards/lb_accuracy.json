@@ -1,0 +1,100 @@
+{
+  "name": "LB_ACCURACY",
+  "id": 4,
+  "columnCount": 7,
+  "xpColId": 3,
+  "prestigeColId": 4,
+  "columns": [
+    {
+      "name": "Rank",
+      "id": 65535,
+      "propertyId": 268468225,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Prestige Level",
+      "id": 4,
+      "propertyId": 268435494,
+      "hidden": true,
+      "statName": "prestige",
+      "type": "PRESTIGE",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 1.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Total XP",
+      "id": 3,
+      "propertyId": 536870945,
+      "hidden": true,
+      "statName": "experience",
+      "type": "LEVELXP",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Gamer Name",
+      "id": 65533,
+      "propertyId": 1073774594,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Accuracy",
+      "id": 65534,
+      "propertyId": 536870948,
+      "hidden": false,
+      "statName": "accuracy",
+      "type": "PERCENT",
+      "precision": 2,
+      "agg": "LAST",
+      "default": 0.2000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Hits",
+      "id": 1,
+      "propertyId": 268435490,
+      "hidden": false,
+      "statName": "hits",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Misses",
+      "id": 2,
+      "propertyId": 268435491,
+      "hidden": false,
+      "statName": "misses",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    }
+  ]
+}

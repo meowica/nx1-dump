@@ -1,0 +1,87 @@
+{
+  "name": "LB_TOTALXP_WK",
+  "id": 7,
+  "columnCount": 6,
+  "xpColId": 3,
+  "prestigeColId": 2,
+  "columns": [
+    {
+      "name": "Rank",
+      "id": 65535,
+      "propertyId": 268468225,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Prestige Level",
+      "id": 2,
+      "propertyId": 268435494,
+      "hidden": true,
+      "statName": "prestige",
+      "type": "PRESTIGE",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 1.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Total XP",
+      "id": 3,
+      "propertyId": 536870945,
+      "hidden": true,
+      "statName": "experience",
+      "type": "LEVELXP",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Gamer Name",
+      "id": 65533,
+      "propertyId": 1073774594,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Score",
+      "id": 65534,
+      "propertyId": 536870913,
+      "hidden": false,
+      "statName": "round score",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "SUM",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Time Played",
+      "id": 1,
+      "propertyId": 268435488,
+      "hidden": false,
+      "statName": "round timePlayed",
+      "type": "TIME",
+      "precision": 0,
+      "agg": "SUM",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    }
+  ]
+}

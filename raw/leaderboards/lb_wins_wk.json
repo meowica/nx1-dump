@@ -1,0 +1,87 @@
+{
+  "name": "LB_WINS_WK",
+  "id": 6,
+  "columnCount": 6,
+  "xpColId": 4,
+  "prestigeColId": 5,
+  "columns": [
+    {
+      "name": "Rank",
+      "id": 65535,
+      "propertyId": 268468225,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Prestige Level",
+      "id": 5,
+      "propertyId": 268435494,
+      "hidden": true,
+      "statName": "prestige",
+      "type": "PRESTIGE",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 1.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Total XP",
+      "id": 4,
+      "propertyId": 536870945,
+      "hidden": true,
+      "statName": "experience",
+      "type": "LEVELXP",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Gamer Name",
+      "id": 65533,
+      "propertyId": 1073774594,
+      "hidden": false,
+      "statName": "",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "LAST",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Wins",
+      "id": 65534,
+      "propertyId": 536870940,
+      "hidden": false,
+      "statName": "round win",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "SUM",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    },
+    {
+      "name": "Losses",
+      "id": 1,
+      "propertyId": 268435485,
+      "hidden": false,
+      "statName": "round loss",
+      "type": "NUMBER",
+      "precision": 0,
+      "agg": "SUM",
+      "default": 0.0000000,
+      "min": 0.0,
+      "max": 2.0
+    }
+  ]
+}
