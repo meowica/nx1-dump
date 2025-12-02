@@ -1,0 +1,1632 @@
+{
+  "ReverbPresets": [
+    {
+      "Name": "default",
+      "WetDryMix": 100.0000,
+      "Room": -10000,
+      "RoomHF": 0,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.0000,
+      "DecayHFRatio": 0.5000,
+      "Reflections": -10000,
+      "ReflectionsDelay": 0.0200,
+      "Reverb": -10000,
+      "ReverbDelay": 0.0400,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "generic",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -100,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.4900,
+      "DecayHFRatio": 0.8300,
+      "Reflections": -2602,
+      "ReflectionsDelay": 0.0070,
+      "Reverb": 200,
+      "ReverbDelay": 0.0110,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "paddedcell",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -6000,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 0.1700,
+      "DecayHFRatio": 0.1000,
+      "Reflections": -1204,
+      "ReflectionsDelay": 0.0010,
+      "Reverb": 207,
+      "ReverbDelay": 0.0020,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "room",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -454,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 0.4000,
+      "DecayHFRatio": 0.8300,
+      "Reflections": -1646,
+      "ReflectionsDelay": 0.0020,
+      "Reverb": 53,
+      "ReverbDelay": 0.0030,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "bathroom",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -1200,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.4900,
+      "DecayHFRatio": 0.5400,
+      "Reflections": -370,
+      "ReflectionsDelay": 0.0070,
+      "Reverb": 1030,
+      "ReverbDelay": 0.0110,
+      "Diffusion": 100.0000,
+      "Density": 60.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "livingroom",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -6000,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 0.5000,
+      "DecayHFRatio": 0.1000,
+      "Reflections": -1376,
+      "ReflectionsDelay": 0.0030,
+      "Reverb": -1104,
+      "ReverbDelay": 0.0040,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "stoneroom",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -300,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 2.3100,
+      "DecayHFRatio": 0.6400,
+      "Reflections": -711,
+      "ReflectionsDelay": 0.0120,
+      "Reverb": 83,
+      "ReverbDelay": 0.0170,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "auditorium",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -476,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 4.3200,
+      "DecayHFRatio": 0.5900,
+      "Reflections": -789,
+      "ReflectionsDelay": 0.0200,
+      "Reverb": -289,
+      "ReverbDelay": 0.0300,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "concerthall",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -500,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 3.9200,
+      "DecayHFRatio": 0.7000,
+      "Reflections": -1230,
+      "ReflectionsDelay": 0.0200,
+      "Reverb": -2,
+      "ReverbDelay": 0.0290,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "cave",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": 0,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 2.9100,
+      "DecayHFRatio": 1.3000,
+      "Reflections": -602,
+      "ReflectionsDelay": 0.0150,
+      "Reverb": -302,
+      "ReverbDelay": 0.0220,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "arena",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -698,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 7.2400,
+      "DecayHFRatio": 0.3300,
+      "Reflections": -1166,
+      "ReflectionsDelay": 0.0200,
+      "Reverb": 16,
+      "ReverbDelay": 0.0300,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "hangar",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -1000,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 10.0500,
+      "DecayHFRatio": 0.2300,
+      "Reflections": -602,
+      "ReflectionsDelay": 0.0200,
+      "Reverb": 198,
+      "ReverbDelay": 0.0300,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "carpetedhallway",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -4000,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 0.3000,
+      "DecayHFRatio": 0.1000,
+      "Reflections": -1831,
+      "ReflectionsDelay": 0.0020,
+      "Reverb": -1630,
+      "ReverbDelay": 0.0300,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "hallway",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -300,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.4900,
+      "DecayHFRatio": 0.5900,
+      "Reflections": -1219,
+      "ReflectionsDelay": 0.0070,
+      "Reverb": 441,
+      "ReverbDelay": 0.0110,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "stonecorridor",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -237,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 2.7000,
+      "DecayHFRatio": 0.7900,
+      "Reflections": -1214,
+      "ReflectionsDelay": 0.0130,
+      "Reverb": 395,
+      "ReverbDelay": 0.0200,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "alley",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -270,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.4900,
+      "DecayHFRatio": 0.8600,
+      "Reflections": -1204,
+      "ReflectionsDelay": 0.0070,
+      "Reverb": -4,
+      "ReverbDelay": 0.0110,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "forest",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -3300,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.4900,
+      "DecayHFRatio": 0.5400,
+      "Reflections": -2560,
+      "ReflectionsDelay": 0.1620,
+      "Reverb": -613,
+      "ReverbDelay": 0.0880,
+      "Diffusion": 79.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "city",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -800,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.4900,
+      "DecayHFRatio": 0.6700,
+      "Reflections": -2273,
+      "ReflectionsDelay": 0.0070,
+      "Reverb": -2217,
+      "ReverbDelay": 0.0110,
+      "Diffusion": 50.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "mountains",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -2500,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.4900,
+      "DecayHFRatio": 0.2100,
+      "Reflections": -2780,
+      "ReflectionsDelay": 0.3000,
+      "Reverb": -2014,
+      "ReverbDelay": 0.1000,
+      "Diffusion": 27.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "quarry",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -1000,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.4900,
+      "DecayHFRatio": 0.8300,
+      "Reflections": -10000,
+      "ReflectionsDelay": 0.0610,
+      "Reverb": 500,
+      "ReverbDelay": 0.0250,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "plain",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -2000,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.4900,
+      "DecayHFRatio": 0.5000,
+      "Reflections": -2466,
+      "ReflectionsDelay": 0.1790,
+      "Reverb": -2514,
+      "ReverbDelay": 0.0400,
+      "Diffusion": 21.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "parkinglot",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": 0,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.6500,
+      "DecayHFRatio": 1.5000,
+      "Reflections": -1363,
+      "ReflectionsDelay": 0.0080,
+      "Reverb": -1153,
+      "ReverbDelay": 0.0120,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "sewerpipe",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -1000,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 2.8100,
+      "DecayHFRatio": 0.1400,
+      "Reflections": 429,
+      "ReflectionsDelay": 0.0140,
+      "Reverb": 648,
+      "ReverbDelay": 0.0210,
+      "Diffusion": 80.0000,
+      "Density": 60.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "underwater",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -4000,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.4900,
+      "DecayHFRatio": 0.1000,
+      "Reflections": -449,
+      "ReflectionsDelay": 0.0070,
+      "Reverb": 1700,
+      "ReverbDelay": 0.0110,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "drugged",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -600,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.1000,
+      "DecayHFRatio": 0.8300,
+      "Reflections": -400,
+      "ReflectionsDelay": 0.0050,
+      "Reverb": 500,
+      "ReverbDelay": 0.0100,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "dizzy",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -600,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.3000,
+      "DecayHFRatio": 0.8300,
+      "Reflections": -1000,
+      "ReflectionsDelay": 0.0100,
+      "Reverb": -200,
+      "ReverbDelay": 0.0200,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "psychotic",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -600,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.5000,
+      "DecayHFRatio": 0.8300,
+      "Reflections": -1600,
+      "ReflectionsDelay": 0.0200,
+      "Reverb": -1000,
+      "ReverbDelay": 0.0400,
+      "Diffusion": 100.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "warehouse1",
+      "WetDryMix": 100.0000,
+      "Room": -100,
+      "RoomHF": -800,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.5000,
+      "DecayHFRatio": 0.5900,
+      "Reflections": -1000,
+      "ReflectionsDelay": 0.0700,
+      "Reverb": -1000,
+      "ReverbDelay": 0.0700,
+      "Diffusion": 90.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "smallroom1",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -1200,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 0.4000,
+      "DecayHFRatio": 0.6500,
+      "Reflections": -1000,
+      "ReflectionsDelay": 0.0100,
+      "Reverb": -1300,
+      "ReverbDelay": 0.0100,
+      "Diffusion": 70.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "sandsmroom1",
+      "WetDryMix": 100.0000,
+      "Room": -300,
+      "RoomHF": -300,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 0.4000,
+      "DecayHFRatio": 0.6500,
+      "Reflections": -800,
+      "ReflectionsDelay": 0.0300,
+      "Reverb": -1000,
+      "ReverbDelay": 0.0100,
+      "Diffusion": 70.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "sandpartcover1",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -1000,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.0000,
+      "DecayHFRatio": 0.8000,
+      "Reflections": -200,
+      "ReflectionsDelay": 0.0800,
+      "Reverb": -900,
+      "ReverbDelay": 0.0020,
+      "Diffusion": 85.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "sandmedalley1",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -1000,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.3000,
+      "DecayHFRatio": 0.8000,
+      "Reflections": -200,
+      "ReflectionsDelay": 0.0800,
+      "Reverb": -900,
+      "ReverbDelay": 0.0020,
+      "Diffusion": 68.0000,
+      "Density": 100.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "sandsmalley1",
+      "WetDryMix": 100.0000,
+      "Room": -1000,
+      "RoomHF": -1000,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 1.3000,
+      "DecayHFRatio": 0.8000,
+      "Reflections": -200,
+      "ReflectionsDelay": 0.0800,
+      "Reverb": -900,
+      "ReverbDelay": 0.0020,
+      "Diffusion": 20.0000,
+      "Density": 30.0000,
+      "HFReference": 5000.0000
+    },
+    {
+      "Name": "sandmedroom1",
+      "WetDryMix": 100.0000,
+      "Room": -300,
+      "RoomHF": -300,
+      "RoomRolloffFactor": 0.0000,
+      "DecayTime": 0.9900,
+      "DecayHFRatio": 0.9000,
+      "Reflections": -1000,
+      "ReflectionsDelay": 0.0400,
+      "Reverb": -900,
+      "ReverbDelay": 0.0100,
+      "Diffusion": 85.0000,
+      "Density": 80.0000,
+      "HFReference": 6000.0000
+    }
+  ],
+  "ADSRSettings": [
+    {
+      "HashName": 2833206977,
+      "AttackLength": 0.0200,
+      "DecayLength": 0.0900,
+      "ReleaseLength": 0.4000,
+      "SustainLevel": -6.0000,
+      "SustainLength": 0.2000,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 2
+    },
+    {
+      "HashName": 4118584480,
+      "AttackLength": 0.0100,
+      "DecayLength": 0.0400,
+      "ReleaseLength": 0.3000,
+      "SustainLevel": -3.0000,
+      "SustainLength": 0.0800,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 2
+    },
+    {
+      "HashName": 1897789227,
+      "AttackLength": 0.0010,
+      "DecayLength": 0.0500,
+      "ReleaseLength": 0.0050,
+      "SustainLevel": -5.0000,
+      "SustainLength": 0.3000,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 1
+    },
+    {
+      "HashName": 2714395299,
+      "AttackLength": 0.0010,
+      "DecayLength": 0.0300,
+      "ReleaseLength": 0.0200,
+      "SustainLevel": -6.0000,
+      "SustainLength": 0.0700,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 1
+    },
+    {
+      "HashName": 1350528565,
+      "AttackLength": 0.0200,
+      "DecayLength": 0.0800,
+      "ReleaseLength": 0.4250,
+      "SustainLevel": -3.5000,
+      "SustainLength": 0.1600,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 2
+    },
+    {
+      "HashName": 1300195708,
+      "AttackLength": 0.0200,
+      "DecayLength": 0.0800,
+      "ReleaseLength": 0.6500,
+      "SustainLevel": -2.0000,
+      "SustainLength": 0.1600,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 3
+    },
+    {
+      "HashName": 2557283942,
+      "AttackLength": 0.0100,
+      "DecayLength": 0.0800,
+      "ReleaseLength": 0.3500,
+      "SustainLevel": -3.5000,
+      "SustainLength": 0.1200,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 2
+    },
+    {
+      "HashName": 815210638,
+      "AttackLength": 0.0300,
+      "DecayLength": 0.0900,
+      "ReleaseLength": 0.6500,
+      "SustainLevel": -3.5000,
+      "SustainLength": 0.2200,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 3
+    },
+    {
+      "HashName": 2794448427,
+      "AttackLength": 0.0100,
+      "DecayLength": 0.0900,
+      "ReleaseLength": 0.3500,
+      "SustainLevel": -2.0000,
+      "SustainLength": 0.1200,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 2
+    },
+    {
+      "HashName": 2393574936,
+      "AttackLength": 0.0010,
+      "DecayLength": 0.2000,
+      "ReleaseLength": 1.2000,
+      "SustainLevel": -8.0000,
+      "SustainLength": 0.5000,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 1
+    },
+    {
+      "HashName": 344288217,
+      "AttackLength": 0.0100,
+      "DecayLength": 0.0010,
+      "ReleaseLength": 0.1340,
+      "SustainLevel": 0.0000,
+      "SustainLength": 0.0000,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 1
+    },
+    {
+      "HashName": 1807275628,
+      "AttackLength": 0.0100,
+      "DecayLength": 0.2000,
+      "ReleaseLength": 2.5000,
+      "SustainLevel": -2.0000,
+      "SustainLength": 1.0000,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 1
+    },
+    {
+      "HashName": 2537518403,
+      "AttackLength": 0.0000,
+      "DecayLength": 0.0400,
+      "ReleaseLength": 1.7000,
+      "SustainLevel": -3.0000,
+      "SustainLength": 0.1000,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 2
+    },
+    {
+      "HashName": 3386833853,
+      "AttackLength": 0.0300,
+      "DecayLength": 0.1000,
+      "ReleaseLength": 1.7000,
+      "SustainLevel": -2.0000,
+      "SustainLength": 0.4000,
+      "AttackFunction": 2,
+      "DecayFunction": 1,
+      "ReleaseFunction": 2
+    }
+  ],
+  "WeaponAreaMappings": [
+    {
+      "PlayerADSRIndex": 6,
+      "NPCADSRIndex": 6,
+      "NPCVerbIndex": 0
+    },
+    {
+      "PlayerADSRIndex": 6,
+      "NPCADSRIndex": 6,
+      "NPCVerbIndex": 0
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    },
+    {
+      "PlayerADSRIndex": -1,
+      "NPCADSRIndex": -1,
+      "NPCVerbIndex": -1
+    }
+  ],
+  "AreaMappings": [
+    {
+      "AreaName": "wh1",
+      "ReverbName": "warehouse1",
+      "ReverbWet": 1.0000,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "sandsmroom1",
+      "ReverbName": "sandsmroom1",
+      "ReverbWet": 0.6600,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "sandpartcover1",
+      "ReverbName": "sandpartcover1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "sandmedalley1",
+      "ReverbName": "sandmedalley1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "sandsmalley1",
+      "ReverbName": "sandsmalley1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "sandmedroom1",
+      "ReverbName": "sandmedroom1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "largeroom1",
+      "ReverbName": "largeroom1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "exext",
+      "ReverbName": "city",
+      "ReverbWet": 0.0850,
+      "ReverbDry": 0.9000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "exalley",
+      "ReverbName": "alley",
+      "ReverbWet": 0.4000,
+      "ReverbDry": 0.9000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "exbuilding",
+      "ReverbName": "hallway",
+      "ReverbWet": 0.6000,
+      "ReverbDry": 0.9000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "hhh_b_basement",
+      "ReverbName": "stoneroom",
+      "ReverbWet": 0.5000,
+      "ReverbDry": 0.8000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "hhh_b_courtyard",
+      "ReverbName": "stoneroom",
+      "ReverbWet": 0.5000,
+      "ReverbDry": 0.8000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "hhh_stairwell",
+      "ReverbName": "stoneroom",
+      "ReverbWet": 0.9000,
+      "ReverbDry": 0.8000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "nx_border",
+      "ReverbName": "underpass",
+      "ReverbWet": 0.8000,
+      "ReverbDry": 0.9000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "nx_borderroom",
+      "ReverbName": "bordersmroom",
+      "ReverbWet": 0.8000,
+      "ReverbDry": 0.9000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "nx_hospital",
+      "ReverbName": "hallway",
+      "ReverbWet": 0.7000,
+      "ReverbDry": 0.9000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "nx_hos_hall",
+      "ReverbName": "hallway",
+      "ReverbWet": 1.0000,
+      "ReverbDry": 0.8000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "test1",
+      "ReverbName": "mountains",
+      "ReverbWet": 0.6000,
+      "ReverbDry": 0.8000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "test2",
+      "ReverbName": "alley",
+      "ReverbWet": 0.5000,
+      "ReverbDry": 0.8000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "test4",
+      "ReverbName": "mountains",
+      "ReverbWet": 0.5000,
+      "ReverbDry": 0.8000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "test3",
+      "ReverbName": "carpetedhallway",
+      "ReverbWet": 0.5000,
+      "ReverbDry": 0.8000,
+      "ReverbFadeTime": 2.0000
+    },
+    {
+      "AreaName": "pitchurchroom1",
+      "ReverbName": "pitchurchroom1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "pitlargewh1",
+      "ReverbName": "pitlargewh1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "pitsmallwh1",
+      "ReverbName": "pitsmallwh1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "pitmedroom1",
+      "ReverbName": "pitmedroom1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "pitpartcover1",
+      "ReverbName": "pitpartcover1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "gallmedroom1",
+      "ReverbName": "gallmedroom1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "gallsmroom1",
+      "ReverbName": "gallsmroom1",
+      "ReverbWet": 0.6600,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "gallpartcover1",
+      "ReverbName": "gallpartcover1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    },
+    {
+      "AreaName": "gallparking1",
+      "ReverbName": "gallparking1",
+      "ReverbWet": 0.7500,
+      "ReverbDry": 1.0000,
+      "ReverbFadeTime": 1.0000
+    }
+  ],
+  "ReverbNames": [
+    "warehouse1",
+    "verb_rifle_sm_room_1",
+    "verb_rifle_partial_covered",
+    "verb_rifle_med_alley_1",
+    "verb_rifle_sm_alley_1",
+    "verb_rifle_med_room_1",
+    "verb_pitstop_rifle_church_room",
+    "verb_pitstop_snipe_church_room",
+    "verb_pitstop_rifle_large_wh1",
+    "verb_pitstop_snipe_large_wh1",
+    "verb_pitstop_rifle_small_wh1",
+    "verb_pitstop_snipe_small_wh1",
+    "verb_pitstop_rifle_med_room_1",
+    "verb_pitstop_snipe_med_room_1",
+    "verb_pitstop_partial_covered",
+    "verb_galleria_rifle_med_room_1",
+    "verb_galleria_snipe_med_room_1",
+    "verb_galleria_rifle_sm_room_1",
+    "verb_galleria_snipe_sm_room_1",
+    "verb_galleria_partial_covered",
+    "verb_galleria_rifle_parking",
+    "verb_galleria_snipe_parking"
+  ],
+  "OcclusionTables": [
+    {
+      "HashName": 1387956774,
+      "Entries": [
+        {"Value": 0.0000, "Freq": 24000.0000},
+        {"Value": 0.3000, "Freq": 12000.0000},
+        {"Value": 0.6000, "Freq": 8500.0000},
+        {"Value": 1.0000, "Freq": 3000.0000}
+      ]
+    },
+    {
+      "HashName": 1387956774,
+      "Entries": [
+        {"Value": 0.0000, "Freq": 24000.0000},
+        {"Value": 1.0000, "Freq": 24000.0000}
+      ]
+    },
+    {
+      "HashName": 1387956774,
+      "Entries": [
+        {"Value": 0.0000, "Freq": 24000.0000},
+        {"Value": 0.2500, "Freq": 12000.0000},
+        {"Value": 0.5000, "Freq": 9000.0000},
+        {"Value": 0.7500, "Freq": 6000.0000},
+        {"Value": 1.0000, "Freq": 3000.0000}
+      ]
+    },
+    {
+      "HashName": 2166136261,
+      "Entries": [
+        {"Value": 0.0000, "Freq": 24000.0000},
+        {"Value": 0.3000, "Freq": 11000.0000},
+        {"Value": 0.6000, "Freq": 6000.0000},
+        {"Value": 1.0000, "Freq": 2000.0000}
+      ]
+    }
+  ],
+  "EntChannelInfoList": [
+    {
+      "Name": "physics",
+      "Priority": 0,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 6,
+      "VoiceCount": 0,
+      "Volume": 0.6674,
+      "Flags": 0
+    },
+    {
+      "Name": "ambdist1",
+      "Priority": 0,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 6,
+      "VoiceCount": 0,
+      "Volume": 0.8909,
+      "Flags": 0
+    },
+    {
+      "Name": "ambdist2",
+      "Priority": 0,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 6,
+      "VoiceCount": 0,
+      "Volume": 0.8909,
+      "Flags": 0
+    },
+    {
+      "Name": "auto",
+      "Priority": 1,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8909,
+      "Flags": 0
+    },
+    {
+      "Name": "auto2",
+      "Priority": 1,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7071,
+      "Flags": 0
+    },
+    {
+      "Name": "bulletimpact",
+      "Priority": 2,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 10,
+      "VoiceCount": 0,
+      "Volume": 0.8909,
+      "Flags": 0
+    },
+    {
+      "Name": "bulletwhizby",
+      "Priority": 2,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 8,
+      "VoiceCount": 0,
+      "Volume": 0.8409,
+      "Flags": 0
+    },
+    {
+      "Name": "element",
+      "Priority": 1,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8909,
+      "Flags": 0
+    },
+    {
+      "Name": "auto2d",
+      "Priority": 1,
+      "Type3D": 0,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.6300,
+      "Flags": 0
+    },
+    {
+      "Name": "vehicle",
+      "Priority": 2,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.6910,
+      "Flags": 0
+    },
+    {
+      "Name": "vehiclelimited",
+      "Priority": 2,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 10,
+      "VoiceCount": 0,
+      "Volume": 0.6910,
+      "Flags": 0
+    },
+    {
+      "Name": "menu",
+      "Priority": 2,
+      "Type3D": 0,
+      "IsRestricted": false,
+      "IsPausable": false,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7492,
+      "Flags": 3
+    },
+    {
+      "Name": "body",
+      "Priority": 3,
+      "Type3D": 1,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7937,
+      "Flags": 0
+    },
+    {
+      "Name": "body2d",
+      "Priority": 3,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.6156,
+      "Flags": 0
+    },
+    {
+      "Name": "reload",
+      "Priority": 3,
+      "Type3D": 1,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8217,
+      "Flags": 0
+    },
+    {
+      "Name": "reload2d",
+      "Priority": 3,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7937,
+      "Flags": 0
+    },
+    {
+      "Name": "effects1",
+      "Priority": 5,
+      "Type3D": 1,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7937,
+      "Flags": 0
+    },
+    {
+      "Name": "effects2",
+      "Priority": 5,
+      "Type3D": 1,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7937,
+      "Flags": 0
+    },
+    {
+      "Name": "weapon",
+      "Priority": 5,
+      "Type3D": 1,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7492,
+      "Flags": 0
+    },
+    {
+      "Name": "weapon2d",
+      "Priority": 5,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7405,
+      "Flags": 0
+    },
+    {
+      "Name": "nonshock",
+      "Priority": 5,
+      "Type3D": 1,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8909,
+      "Flags": 0
+    },
+    {
+      "Name": "voice",
+      "Priority": 6,
+      "Type3D": 1,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8409,
+      "Flags": 0
+    },
+    {
+      "Name": "vignette2d",
+      "Priority": 6,
+      "Type3D": 0,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 1.0000,
+      "Flags": 0
+    },
+    {
+      "Name": "vignette3d",
+      "Priority": 6,
+      "Type3D": 2,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 1.0000,
+      "Flags": 0
+    },
+    {
+      "Name": "local",
+      "Priority": 7,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7492,
+      "Flags": 0
+    },
+    {
+      "Name": "local2",
+      "Priority": 7,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7492,
+      "Flags": 0
+    },
+    {
+      "Name": "local3",
+      "Priority": 7,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.6156,
+      "Flags": 0
+    },
+    {
+      "Name": "ambient",
+      "Priority": 7,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7937,
+      "Flags": 0
+    },
+    {
+      "Name": "hurt",
+      "Priority": 8,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8909,
+      "Flags": 0
+    },
+    {
+      "Name": "player1",
+      "Priority": 8,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7492,
+      "Flags": 0
+    },
+    {
+      "Name": "player2",
+      "Priority": 8,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8909,
+      "Flags": 0
+    },
+    {
+      "Name": "music",
+      "Priority": 8,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8123,
+      "Flags": 3
+    },
+    {
+      "Name": "musicnopause",
+      "Priority": 8,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": false,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8123,
+      "Flags": 0
+    },
+    {
+      "Name": "mission",
+      "Priority": 9,
+      "Type3D": 1,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8909,
+      "Flags": 0
+    },
+    {
+      "Name": "announcer",
+      "Priority": 9,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8909,
+      "Flags": 2
+    },
+    {
+      "Name": "shellshock",
+      "Priority": 10,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.6085,
+      "Flags": 0
+    },
+    {
+      "Name": "item",
+      "Priority": 40,
+      "Type3D": 1,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 1.0000,
+      "Flags": 0
+    },
+    {
+      "Name": "nx_localR",
+      "Priority": 7,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 1.0000,
+      "Flags": 0
+    },
+    {
+      "Name": "nx_local2R",
+      "Priority": 7,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 1.0000,
+      "Flags": 0
+    },
+    {
+      "Name": "nx_localverb",
+      "Priority": 6,
+      "Type3D": 0,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7492,
+      "Flags": 0
+    },
+    {
+      "Name": "nx_localverbR",
+      "Priority": 6,
+      "Type3D": 0,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 4,
+      "VoiceCount": 0,
+      "Volume": 1.0000,
+      "Flags": 0
+    },
+    {
+      "Name": "nx_verb3d",
+      "Priority": 5,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.8217,
+      "Flags": 0
+    },
+    {
+      "Name": "plrweap01",
+      "Priority": 7,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7492,
+      "Flags": 0
+    },
+    {
+      "Name": "plrweap02",
+      "Priority": 7,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7492,
+      "Flags": 0
+    },
+    {
+      "Name": "plrweap03",
+      "Priority": 7,
+      "Type3D": 0,
+      "IsRestricted": true,
+      "IsPausable": true,
+      "MaxVoices": 52,
+      "VoiceCount": 0,
+      "Volume": 0.7492,
+      "Flags": 0
+    },
+    {
+      "Name": "nx_verb3dmp",
+      "Priority": 5,
+      "Type3D": 1,
+      "IsRestricted": false,
+      "IsPausable": true,
+      "MaxVoices": 20,
+      "VoiceCount": 0,
+      "Volume": 0.8217,
+      "Flags": 0
+    }
+  ]
+}
