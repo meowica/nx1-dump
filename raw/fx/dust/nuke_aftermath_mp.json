@@ -1,0 +1,68 @@
+{
+  "name": "dust/nuke_aftermath_mp",
+  "flags": 0,
+  "totalSize": 1711,
+  "msecLoopingLife": 2147483647,
+  "elemDefs": [
+    {
+      "flags": 285213254,
+      "spawn": {
+        "count": {
+          "base": 100,
+          "amplitude": 2147483647
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 4500
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 2000,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 1500,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 1128792064
+        }
+      },
+      "spawnRange": {
+        "base": 4000,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 4.90454e-042
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": -400
+      },
+      "spawnFrustumCullRadius": 800,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": -1007026176,
+        "amplitude": 0
+      }
+    }
+  ]
+}

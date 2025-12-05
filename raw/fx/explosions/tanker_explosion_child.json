@@ -1,0 +1,38 @@
+{
+  "name": "explosions/tanker_explosion_child",
+  "flags": 0,
+  "totalSize": 1278,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 83886210,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 1500,
+        "amplitude": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "misc/ac130_cloud",
+  "flags": 0,
+  "totalSize": 1309,
+  "msecLoopingLife": 2080,
+  "elemDefs": [
+    {
+      "flags": 66,
+      "spawn": {
+        "count": {
+          "base": 520,
+          "amplitude": 5
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 1000
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 8000,
+        "amplitude": 0
+      }
+    }
+  ]
+}

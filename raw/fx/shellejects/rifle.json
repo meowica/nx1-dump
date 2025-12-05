@@ -1,0 +1,38 @@
+{
+  "name": "shellejects/rifle",
+  "flags": 0,
+  "totalSize": 686,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 83886406,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 100
+      },
+      "fadeInRange": {
+        "base": 100,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 100,
+      "spawnDelayMsec": {
+        "base": 1,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 5000,
+        "amplitude": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "nx/smoke/nx_smoke_nightraven_panels_off",
+  "flags": 0,
+  "totalSize": 900,
+  "msecLoopingLife": 1800,
+  "elemDefs": [
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 200,
+          "amplitude": 10
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 700,
+        "amplitude": 100
+      }
+    }
+  ]
+}

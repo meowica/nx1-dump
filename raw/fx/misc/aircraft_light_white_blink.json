@@ -1,0 +1,68 @@
+{
+  "name": "misc/aircraft_light_white_blink",
+  "flags": 0,
+  "totalSize": 1336,
+  "msecLoopingLife": 2147483647,
+  "elemDefs": [
+    {
+      "flags": 134,
+      "spawn": {
+        "count": {
+          "base": 1000,
+          "amplitude": 2147483647
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 1200
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 10,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 50,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 1157234688,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 10,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 7.00649e-044
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "treadfx/heli_snow_default",
+  "flags": 1,
+  "totalSize": 1126,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 117440736,
+      "spawn": {
+        "count": {
+          "base": 2,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 500,
+        "amplitude": 500
+      },
+      "lifeSpanMsec": {
+        "base": 1000,
+        "amplitude": 500
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "name": "nx/impacts/nx_railgun_flash",
+  "flags": 0,
+  "totalSize": 4104,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 16777286,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 3000
+      },
+      "fadeInRange": {
+        "base": 3000,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 200,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 100,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 100,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 7.00649e-044,
+        "amplitude": 3.50325e-043
+      },
+      "fadeOutRange": {
+        "base": 3.50325e-043,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 36,
+      "spawnDelayMsec": {
+        "base": -1052770304,
+        "amplitude": 1103101952
+      },
+      "lifeSpanMsec": {
+        "base": -1052770304,
+        "amplitude": 1103101952
+      }
+    },
+    {
+      "flags": 500,
+      "spawn": {
+        "count": {
+          "base": 300,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 36,
+        "amplitude": -12
+      },
+      "fadeInRange": {
+        "base": 24,
+        "amplitude": -12
+      },
+      "fadeOutRange": {
+        "base": 24,
+        "amplitude": 1
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 1065353216,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 1065353216
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 1
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    }
+  ]
+}

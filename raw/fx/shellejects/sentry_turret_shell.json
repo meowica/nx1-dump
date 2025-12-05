@@ -1,0 +1,38 @@
+{
+  "name": "shellejects/sentry_turret_shell",
+  "flags": 0,
+  "totalSize": 700,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 83886402,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 1,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 5000,
+        "amplitude": 0
+      }
+    }
+  ]
+}

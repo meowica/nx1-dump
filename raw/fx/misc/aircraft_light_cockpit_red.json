@@ -1,0 +1,98 @@
+{
+  "name": "misc/aircraft_light_cockpit_red",
+  "flags": 0,
+  "totalSize": 2068,
+  "msecLoopingLife": 2147483647,
+  "elemDefs": [
+    {
+      "flags": 134,
+      "spawn": {
+        "count": {
+          "base": 100,
+          "amplitude": 2147483647
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 800
+      },
+      "fadeInRange": {
+        "base": 500,
+        "amplitude": 300
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 30,
+      "spawnDelayMsec": {
+        "base": 1,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 200,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 1140457472,
+      "spawn": {
+        "count": {
+          "base": 1140457472,
+          "amplitude": 1133903872
+        }
+      },
+      "spawnRange": {
+        "base": 30,
+        "amplitude": 1.4013e-045
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 2.8026e-043
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 100,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 1
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 1065353216,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    }
+  ]
+}

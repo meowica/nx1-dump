@@ -1,0 +1,38 @@
+{
+  "name": "impacts/decal_mudsplash",
+  "flags": 0,
+  "totalSize": 708,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 66,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 1,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 3000,
+        "amplitude": 1000
+      }
+    }
+  ]
+}

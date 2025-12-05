@@ -1,0 +1,38 @@
+{
+  "name": "impacts/gravelimpact_em2",
+  "flags": 0,
+  "totalSize": 693,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 16777282,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 1,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 500,
+        "amplitude": 100
+      }
+    }
+  ]
+}

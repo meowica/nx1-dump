@@ -1,0 +1,38 @@
+{
+  "name": "muzzleflashes/at4_flash_fire_child",
+  "flags": 0,
+  "totalSize": 847,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 16777350,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 38,
+      "spawnDelayMsec": {
+        "base": 75,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 400,
+        "amplitude": 50
+      }
+    }
+  ]
+}

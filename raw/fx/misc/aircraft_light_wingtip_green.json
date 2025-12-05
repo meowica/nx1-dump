@@ -1,0 +1,68 @@
+{
+  "name": "misc/aircraft_light_wingtip_green",
+  "flags": 0,
+  "totalSize": 1338,
+  "msecLoopingLife": 2147483647,
+  "elemDefs": [
+    {
+      "flags": 134,
+      "spawn": {
+        "count": {
+          "base": 50,
+          "amplitude": 2147483647
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 1200
+      },
+      "fadeInRange": {
+        "base": 800,
+        "amplitude": 400
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 10,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 50,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 1157234688,
+      "spawn": {
+        "count": {
+          "base": 1145569280,
+          "amplitude": 1137180672
+        }
+      },
+      "spawnRange": {
+        "base": 10,
+        "amplitude": 1.4013e-045
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 7.00649e-044
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    }
+  ]
+}

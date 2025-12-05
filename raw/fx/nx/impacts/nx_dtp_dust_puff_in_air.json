@@ -1,0 +1,38 @@
+{
+  "name": "nx/impacts/nx_dtp_dust_puff_in_air",
+  "flags": 1,
+  "totalSize": 1471,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 83886208,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 2000,
+        "amplitude": 1200
+      }
+    }
+  ]
+}

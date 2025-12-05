@@ -1,0 +1,38 @@
+{
+  "name": "treadfx/heli_dust_default",
+  "flags": 1,
+  "totalSize": 1030,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 83886308,
+      "spawn": {
+        "count": {
+          "base": 2,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 6000
+      },
+      "fadeInRange": {
+        "base": 6000,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 600,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 100
+      },
+      "lifeSpanMsec": {
+        "base": 1000,
+        "amplitude": 500
+      }
+    }
+  ]
+}

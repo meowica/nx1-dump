@@ -1,0 +1,38 @@
+{
+  "name": "smoke/grenade_smoke",
+  "flags": 1,
+  "totalSize": 1800,
+  "msecLoopingLife": 11200,
+  "elemDefs": [
+    {
+      "flags": 50331750,
+      "spawn": {
+        "count": {
+          "base": 800,
+          "amplitude": 15
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 1000
+      },
+      "fadeInRange": {
+        "base": 800,
+        "amplitude": 200
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 500,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 10000,
+        "amplitude": 0
+      }
+    }
+  ]
+}

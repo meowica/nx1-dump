@@ -1,0 +1,38 @@
+{
+  "name": "muzzleflashes/mp16_flash_view",
+  "flags": 0,
+  "totalSize": 626,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 2182,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 60,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 1000,
+        "amplitude": 0
+      }
+    }
+  ]
+}

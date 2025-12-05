@@ -1,0 +1,38 @@
+{
+  "name": "props/cash_player_drop",
+  "flags": 0,
+  "totalSize": 3859,
+  "msecLoopingLife": 95,
+  "elemDefs": [
+    {
+      "flags": 117441494,
+      "spawn": {
+        "count": {
+          "base": 5,
+          "amplitude": 20
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 50,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 3000,
+        "amplitude": 1000
+      }
+    }
+  ]
+}

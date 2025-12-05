@@ -1,0 +1,38 @@
+{
+  "name": "treadfx/tread_dust_brown",
+  "flags": 0,
+  "totalSize": 1997,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 83886146,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 1,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 4700,
+        "amplitude": 0
+      }
+    }
+  ]
+}

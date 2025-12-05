@@ -1,0 +1,38 @@
+{
+  "name": "props/fire_extinguisher_ground_splat",
+  "flags": 0,
+  "totalSize": 713,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 83886210,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 1500
+      },
+      "fadeInRange": {
+        "base": 1500,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 100,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 40000,
+        "amplitude": 0
+      }
+    }
+  ]
+}

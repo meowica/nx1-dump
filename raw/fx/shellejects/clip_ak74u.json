@@ -1,0 +1,38 @@
+{
+  "name": "shellejects/clip_ak74u",
+  "flags": 0,
+  "totalSize": 691,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 201326918,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 1000
+      },
+      "fadeInRange": {
+        "base": 1000,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 100,
+      "spawnDelayMsec": {
+        "base": 1,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 25000,
+        "amplitude": 0
+      }
+    }
+  ]
+}

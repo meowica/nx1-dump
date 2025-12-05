@@ -1,0 +1,68 @@
+{
+  "name": "impacts/footstep_water",
+  "flags": 1,
+  "totalSize": 1807,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 70,
+      "spawn": {
+        "count": {
+          "base": 2,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 800
+      },
+      "fadeInRange": {
+        "base": 800,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 60,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 800,
+        "amplitude": 200
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 10,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 1.75162e-043,
+        "amplitude": 7.00649e-043
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 1
+      },
+      "spawnFrustumCullRadius": 1,
+      "spawnDelayMsec": {
+        "base": -1071644672,
+        "amplitude": 1084227584
+      },
+      "lifeSpanMsec": {
+        "base": -1071644672,
+        "amplitude": 1084227584
+      }
+    }
+  ]
+}

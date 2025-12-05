@@ -1,0 +1,38 @@
+{
+  "name": "props/cash_02a_ground",
+  "flags": 1,
+  "totalSize": 5682,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 67109254,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 1500
+      },
+      "fadeInRange": {
+        "base": 1500,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 50,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 5000,
+        "amplitude": 2000
+      }
+    }
+  ]
+}

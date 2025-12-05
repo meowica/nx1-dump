@@ -1,0 +1,38 @@
+{
+  "name": "explosions/stealth_bomb_mp",
+  "flags": 0,
+  "totalSize": 3767,
+  "msecLoopingLife": 400,
+  "elemDefs": [
+    {
+      "flags": 83886978,
+      "spawn": {
+        "count": {
+          "base": 100,
+          "amplitude": 5
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 6000,
+        "amplitude": 0
+      }
+    }
+  ]
+}

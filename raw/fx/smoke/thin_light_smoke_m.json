@@ -1,0 +1,38 @@
+{
+  "name": "smoke/thin_light_smoke_m",
+  "flags": 0,
+  "totalSize": 3237,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 16777314,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 2500
+      },
+      "fadeInRange": {
+        "base": 2500,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 100,
+        "amplitude": 2400
+      },
+      "lifeSpanMsec": {
+        "base": 15000,
+        "amplitude": 0
+      }
+    }
+  ]
+}

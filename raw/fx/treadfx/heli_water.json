@@ -1,0 +1,38 @@
+{
+  "name": "treadfx/heli_water",
+  "flags": 0,
+  "totalSize": 783,
+  "msecLoopingLife": 600,
+  "elemDefs": [
+    {
+      "flags": 70,
+      "spawn": {
+        "count": {
+          "base": 600,
+          "amplitude": 2
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 6000
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 60,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 1200,
+        "amplitude": 500
+      }
+    }
+  ]
+}

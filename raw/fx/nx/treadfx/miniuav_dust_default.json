@@ -1,0 +1,38 @@
+{
+  "name": "nx/treadfx/miniuav_dust_default",
+  "flags": 1,
+  "totalSize": 1036,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 83886308,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 4000
+      },
+      "fadeInRange": {
+        "base": 4000,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 400,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 100
+      },
+      "lifeSpanMsec": {
+        "base": 800,
+        "amplitude": 300
+      }
+    }
+  ]
+}

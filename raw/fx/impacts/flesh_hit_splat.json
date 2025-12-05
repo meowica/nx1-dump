@@ -1,0 +1,38 @@
+{
+  "name": "impacts/flesh_hit_splat",
+  "flags": 0,
+  "totalSize": 716,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 134,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 60,
+      "spawnDelayMsec": {
+        "base": 1,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 200,
+        "amplitude": 0
+      }
+    }
+  ]
+}

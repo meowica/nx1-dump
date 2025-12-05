@@ -1,0 +1,38 @@
+{
+  "name": "nx/impacts/nx_player_arm_dust_slide",
+  "flags": 1,
+  "totalSize": 1472,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 83886208,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 2000,
+        "amplitude": 1200
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "misc/glow_stick_glow_red",
+  "flags": 0,
+  "totalSize": 1329,
+  "msecLoopingLife": 2147483647,
+  "elemDefs": [
+    {
+      "flags": 134,
+      "spawn": {
+        "count": {
+          "base": 200,
+          "amplitude": 2147483647
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 800
+      },
+      "fadeInRange": {
+        "base": 500,
+        "amplitude": 300
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 30,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 200,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 1133903872,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 30,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 7.00649e-044
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 1084227584,
+        "amplitude": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smoke/smoke_geotrail_fraggrenade",
+  "flags": 0,
+  "totalSize": 1057,
+  "msecLoopingLife": 2147483647,
+  "elemDefs": [
+    {
+      "flags": 16384,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 2147483647
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 3000
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 1000,
+        "amplitude": 0
+      }
+    }
+  ]
+}

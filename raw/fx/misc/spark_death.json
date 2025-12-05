@@ -1,0 +1,38 @@
+{
+  "name": "misc/spark_death",
+  "flags": 0,
+  "totalSize": 685,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 70,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 3200
+      },
+      "fadeInRange": {
+        "base": 3200,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 30,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 50,
+        "amplitude": 0
+      }
+    }
+  ]
+}

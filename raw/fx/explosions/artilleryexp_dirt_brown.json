@@ -1,0 +1,338 @@
+{
+  "name": "explosions/artilleryexp_dirt_brown",
+  "flags": 0,
+  "totalSize": 9487,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 83886146,
+      "spawn": {
+        "count": {
+          "base": 5,
+          "amplitude": 2
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 12000
+      },
+      "fadeInRange": {
+        "base": 12000,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 100,
+        "amplitude": 400
+      },
+      "lifeSpanMsec": {
+        "base": 2000,
+        "amplitude": 1000
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 500,
+        "amplitude": 2.8026e-043
+      },
+      "fadeInRange": {
+        "base": 5.60519e-043,
+        "amplitude": 2.10195e-042
+      },
+      "fadeOutRange": {
+        "base": 7.00649e-043,
+        "amplitude": 350
+      },
+      "spawnFrustumCullRadius": 200,
+      "spawnDelayMsec": {
+        "base": -1041235968,
+        "amplitude": 1114636288
+      },
+      "lifeSpanMsec": {
+        "base": -1041235968,
+        "amplitude": 1114636288
+      }
+    },
+    {
+      "flags": 1000,
+      "spawn": {
+        "count": {
+          "base": 200,
+          "amplitude": -1049624576
+        }
+      },
+      "spawnRange": {
+        "base": 440,
+        "amplitude": -25
+      },
+      "fadeInRange": {
+        "base": 50,
+        "amplitude": -25
+      },
+      "fadeOutRange": {
+        "base": 50,
+        "amplitude": 1
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 1065353216,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": -1018691584,
+      "spawn": {
+        "count": {
+          "base": 1137180672,
+          "amplitude": 1065353216
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 1
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 1078530011,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": -0.0872665
+      },
+      "fadeOutRange": {
+        "base": 0.174533,
+        "amplitude": 1
+      },
+      "spawnFrustumCullRadius": 0.5,
+      "spawnDelayMsec": {
+        "base": 1065353216,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 1065353216,
+        "amplitude": 65536
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 1086918619,
+          "amplitude": 1059061760
+        }
+      },
+      "spawnRange": {
+        "base": 0.375,
+        "amplitude": 1
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 1
+      },
+      "fadeOutRange": {
+        "base": 9.18355e-041,
+        "amplitude": 2.35099e-038
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 262407,
+        "amplitude": -1392222620
+      },
+      "lifeSpanMsec": {
+        "base": -1392222428,
+        "amplitude": -1392222044
+      }
+    },
+    {
+      "flags": 1065353216,
+      "spawn": {
+        "count": {
+          "base": 66560,
+          "amplitude": 16777216
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 9.47771e-038
+      },
+      "fadeInRange": {
+        "base": -7.52518e-012,
+        "amplitude": -7.52535e-012
+      },
+      "fadeOutRange": {
+        "base": -3.68195e-037,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": -1392220872,
+      "spawn": {
+        "count": {
+          "base": -2099454096,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 1065353216
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeInRange": {
+        "base": 1,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 83886080,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 6.01853e-036
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 1065353216,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    }
+  ]
+}

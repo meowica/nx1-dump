@@ -1,0 +1,128 @@
+{
+  "name": "impacts/shotgun_water",
+  "flags": 1,
+  "totalSize": 3558,
+  "msecLoopingLife": 0,
+  "elemDefs": [
+    {
+      "flags": 285212774,
+      "spawn": {
+        "count": {
+          "base": 1,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 500
+      },
+      "fadeInRange": {
+        "base": 500,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 30,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 500,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 30,
+        "amplitude": 7.00649e-044
+      },
+      "fadeInRange": {
+        "base": 0,
+        "amplitude": 4.2039e-043
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 5
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": -1071644672,
+        "amplitude": 1084227584
+      },
+      "lifeSpanMsec": {
+        "base": -1071644672,
+        "amplitude": 1084227584
+      }
+    },
+    {
+      "flags": 500,
+      "spawn": {
+        "count": {
+          "base": 500,
+          "amplitude": -1086324736
+        }
+      },
+      "spawnRange": {
+        "base": 16.75,
+        "amplitude": -1.25
+      },
+      "fadeInRange": {
+        "base": 2.5,
+        "amplitude": -1.25
+      },
+      "fadeOutRange": {
+        "base": 2.5,
+        "amplitude": 1
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 1065353216,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    },
+    {
+      "flags": 0,
+      "spawn": {
+        "count": {
+          "base": 0,
+          "amplitude": 0
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": -0.25
+      },
+      "fadeInRange": {
+        "base": 0.5,
+        "amplitude": 0
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 0,
+      "spawnDelayMsec": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 0,
+        "amplitude": 0
+      }
+    }
+  ]
+}

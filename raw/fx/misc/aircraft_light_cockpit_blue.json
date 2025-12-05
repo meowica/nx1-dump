@@ -1,0 +1,38 @@
+{
+  "name": "misc/aircraft_light_cockpit_blue",
+  "flags": 0,
+  "totalSize": 701,
+  "msecLoopingLife": 2147483647,
+  "elemDefs": [
+    {
+      "flags": 134,
+      "spawn": {
+        "count": {
+          "base": 100,
+          "amplitude": 2147483647
+        }
+      },
+      "spawnRange": {
+        "base": 0,
+        "amplitude": 800
+      },
+      "fadeInRange": {
+        "base": 500,
+        "amplitude": 300
+      },
+      "fadeOutRange": {
+        "base": 0,
+        "amplitude": 0
+      },
+      "spawnFrustumCullRadius": 60,
+      "spawnDelayMsec": {
+        "base": 1,
+        "amplitude": 0
+      },
+      "lifeSpanMsec": {
+        "base": 100,
+        "amplitude": 0
+      }
+    }
+  ]
+}
